@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T19:31:31Z",
+  "generatedAt": "2026-06-09T19:45:19Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -130,17 +130,17 @@
       "publisherName": "Lenomila",
       "category": "Tools",
       "channel": "stable",
-      "versionName": "1.0.25",
-      "versionCode": 26,
+      "versionName": "1.0.26",
+      "versionCode": 27,
       "minSdk": 23,
       "targetSdk": 35,
-      "sizeBytes": 307251,
-      "sha256": "ee6462f45360863fbe7334a4ba781a140d1a124ab3c06fa4efafaa464c3488a0",
+      "sizeBytes": 309071,
+      "sha256": "07c0a3135d92649829525613300cbea2b1271eedce8881cce7d51958923c0a43",
       "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/clawdeck-v1.0.25/ClawDeck-v1.0.25.apk",
-      "releaseId": "rel_clawdeck_26",
-      "releaseNotes": "Filters OpenClaw startup/plugin diagnostics out of Chat bubbles while keeping raw redacted command output available in Command Runs.",
-      "publishedAt": "2026-06-09T19:18:30Z"
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/clawdeck-v1.0.26/ClawDeck-v1.0.26.apk",
+      "releaseId": "rel_clawdeck_27",
+      "releaseNotes": "Keeps live OpenClaw chat sessions running in the background with a foreground chat service and partial wake lock.",
+      "publishedAt": "2026-06-09T19:45:19Z"
     },
     {
       "schemaVersion": 1,

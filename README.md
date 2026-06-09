@@ -71,9 +71,9 @@ NovaStore is the private Android app store client. It installs and updates our o
 
 - Package: `com.clawdeck`
 - Category: `Tools`
-- Version: `1.0.25` / code `26`
-- Download: <https://github.com/yustein/NovaStore/releases/download/clawdeck-v1.0.25/ClawDeck-v1.0.25.apk>
-- APK SHA-256: `ee6462f45360863fbe7334a4ba781a140d1a124ab3c06fa4efafaa464c3488a0`
+- Version: `1.0.26` / code `27`
+- Download: <https://github.com/yustein/NovaStore/releases/download/clawdeck-v1.0.26/ClawDeck-v1.0.26.apk>
+- APK SHA-256: `07c0a3135d92649829525613300cbea2b1271eedce8881cce7d51958923c0a43`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
 ### Echo Atlas
