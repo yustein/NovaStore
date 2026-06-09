@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T14:38:25Z",
+  "generatedAt": "2026-06-09T15:09:25Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -30,17 +30,17 @@
       "publisherName": "Lenomila",
       "category": "Weather",
       "channel": "stable",
-      "versionName": "3.0.17",
-      "versionCode": 54,
+      "versionName": "3.0.18",
+      "versionCode": 55,
       "minSdk": 26,
       "targetSdk": 35,
-      "sizeBytes": 2401658,
-      "sha256": "edff2b5a771f5e95ecdac1a0633899a39e2fba11f17904eabd8bcbcade774396",
+      "sizeBytes": 2406762,
+      "sha256": "0b297ae5ca5fb25099abf9c9710e48359c417fa6bffaf2a412474f9a2066ab79",
       "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.17/AuroraWeather-v3.0.17.apk",
-      "releaseId": "rel_auroraweather_54",
-      "releaseNotes": "Adds movement-aware home-screen widget refreshes using Android passive location events with periodic fallback.",
-      "publishedAt": "2026-06-09T14:38:25Z"
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.18/AuroraWeather-v3.0.18.apk",
+      "releaseId": "rel_auroraweather_55",
+      "releaseNotes": "Adds visible location and refresh feedback, pull-to-refresh, last-refreshed status, cached last weather, and 30-minute stale auto refresh.",
+      "publishedAt": "2026-06-09T15:09:25Z"
     }
   ]
 }
