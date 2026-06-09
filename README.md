@@ -17,7 +17,7 @@ NovaStore is the private Android app store client. It installs and updates our o
 - Package: `com.novastore.client`
 - Version: `0.1.10` / code `11`
 - Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.10/NovaStore-v0.1.10.apk>
-- APK SHA-256: `9c0e59903889ae7d9aaef3a9f7544681b29de10948789901c1ecd99f5af77850`
+- APK SHA-256: `788f36db540ed6b6a829b0ed84c9abe27bb3a4c92e8067234f6b3f176a4ab59d`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
 ## Catalog Apps
