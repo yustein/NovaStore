@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T17:06:28Z",
+  "generatedAt": "2026-06-09T17:15:37Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -10,17 +10,17 @@
       "publisherName": "Lenomila",
       "category": "Store",
       "channel": "stable",
-      "versionName": "0.1.6",
-      "versionCode": 7,
+      "versionName": "0.1.7",
+      "versionCode": 8,
       "minSdk": 26,
       "targetSdk": 36,
       "sizeBytes": 18502661,
-      "sha256": "d53241a0d17086444c869e4a534bce604848b90e1a01baf2adb111b4e6f1490b",
+      "sha256": "7e27fe9fe43a55abdedb1fe96dd9f0d1dc63b82e595786fbb7a1d11f014a3aa7",
       "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.6/NovaStore-v0.1.6.apk",
-      "releaseId": "rel_novastore_7",
-      "releaseNotes": "Refreshes the built-in fallback catalog with all published Lenomila Android apps and uses generic app icons for entries without bundled artwork.",
-      "publishedAt": "2026-06-09T17:06:28Z"
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.7/NovaStore-v0.1.7.apk",
+      "releaseId": "rel_novastore_8",
+      "releaseNotes": "Checks the GitHub catalog every time NovaStore returns to the foreground and adds pull-to-refresh on Apps and Updates.",
+      "publishedAt": "2026-06-09T17:15:37Z"
     },
     {
       "schemaVersion": 1,
