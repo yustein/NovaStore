@@ -6,15 +6,15 @@
   "publisherName": "Lenomila",
   "category": "Weather",
   "channel": "stable",
-  "versionName": "3.0.18",
-  "versionCode": 55,
+  "versionName": "3.0.19",
+  "versionCode": 56,
   "minSdk": 26,
   "targetSdk": 35,
-  "sizeBytes": 2406762,
-  "sha256": "0b297ae5ca5fb25099abf9c9710e48359c417fa6bffaf2a412474f9a2066ab79",
+  "sizeBytes": 2407790,
+  "sha256": "5f317a6ce088ff9c825d63560022ad7fea1450d112938dbaa19cf19a27ea4fd4",
   "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
-  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.18/AuroraWeather-v3.0.18.apk",
-  "releaseId": "rel_auroraweather_55",
-  "releaseNotes": "Adds visible location and refresh feedback, pull-to-refresh, last-refreshed status, cached last weather, and 30-minute stale auto refresh.",
-  "publishedAt": "2026-06-09T17:06:28Z"
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.19/AuroraWeather-v3.0.19.apk",
+  "releaseId": "rel_auroraweather_56",
+  "releaseNotes": "Adds widget no-internet, location, and weather retry states with automatic reconnect retry until weather updates.",
+  "publishedAt": "2026-06-09T18:04:36Z"
 }
