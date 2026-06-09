@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "appRole": "store",
+  "packageName": "com.novastore.client",
+  "name": "NovaStore",
+  "publisherName": "Lenomila",
+  "category": "Store",
+  "channel": "stable",
+  "versionName": "0.1.2",
+  "versionCode": 3,
+  "minSdk": 26,
+  "targetSdk": 36,
+  "sizeBytes": 18481644,
+  "sha256": "a50387d8395e8890197a92b7d832604e8d9f67a6938a2706308628ce689f2207",
+  "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.2/NovaStore-v0.1.2.apk",
+  "releaseId": "rel_novastore_3",
+  "releaseNotes": "NovaStore self-update support, public README/catalog hosting, and background notifications for store and installed app updates.",
+  "publishedAt": "2026-06-09T12:35:00Z"
+}
