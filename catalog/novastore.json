@@ -6,15 +6,15 @@
   "publisherName": "Lenomila",
   "category": "Store",
   "channel": "stable",
-  "versionName": "0.1.10",
-  "versionCode": 11,
+  "versionName": "0.1.11",
+  "versionCode": 12,
   "minSdk": 26,
   "targetSdk": 36,
-  "sizeBytes": 18648544,
-  "sha256": "788f36db540ed6b6a829b0ed84c9abe27bb3a4c92e8067234f6b3f176a4ab59d",
+  "sizeBytes": 18534615,
+  "sha256": "073613b416a0396e6de98c8575b081aeb0073693a323e8ddcfb4821a985cb591",
   "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
-  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.10/NovaStore-v0.1.10.apk",
-  "releaseId": "rel_novastore_11",
-  "releaseNotes": "Shows real app icons in catalog rows with installed-app launcher icons and bundled app-specific catalog art.",
-  "publishedAt": "2026-06-09T18:52:43Z"
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.11/NovaStore-v0.1.11.apk",
+  "releaseId": "rel_novastore_12",
+  "releaseNotes": "Refreshes installed-app state from Android package changes so newly installed apps show as installed without restarting NovaStore.",
+  "publishedAt": "2026-06-09T19:31:31Z"
 }
