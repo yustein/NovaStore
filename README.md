@@ -35,9 +35,9 @@ NovaStore is the private Android app store client. It installs and updates our o
 
 - Package: `com.lenomila.auroraweather`
 - Category: `Weather`
-- Version: `3.0.22` / code `59`
-- Download: <https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.22/AuroraWeather-v3.0.22.apk>
-- APK SHA-256: `55a67fa160d65e14e41b1834711ea9e91aba5715f1a62c0c7863db0b805c06e0`
+- Version: `3.0.23` / code `60`
+- Download: <https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.23/AuroraWeather-v3.0.23.apk>
+- APK SHA-256: `e1805c8e08788f216eff606bd16aab78568f34ebec697f0d0382e26c7947374e`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
 ### Backgammon LAN
