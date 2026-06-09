@@ -6,15 +6,15 @@
   "publisherName": "Lenomila",
   "category": "Store",
   "channel": "stable",
-  "versionName": "0.1.2",
-  "versionCode": 3,
+  "versionName": "0.1.3",
+  "versionCode": 4,
   "minSdk": 26,
   "targetSdk": 36,
-  "sizeBytes": 18481644,
-  "sha256": "a50387d8395e8890197a92b7d832604e8d9f67a6938a2706308628ce689f2207",
+  "sizeBytes": 18579750,
+  "sha256": "feb8a3ca4b5b42672bcbafe8e8a5586bb2a24a12dc58fa77ec78939297706ce2",
   "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
-  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.2/NovaStore-v0.1.2.apk",
-  "releaseId": "rel_novastore_3",
-  "releaseNotes": "NovaStore self-update support, public README/catalog hosting, and background notifications for store and installed app updates.",
-  "publishedAt": "2026-06-09T12:35:00Z"
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.3/NovaStore-v0.1.3.apk",
+  "releaseId": "rel_novastore_4",
+  "releaseNotes": "Adds a proper adaptive NovaStore launcher icon while preserving self-update checks and verified APK installs.",
+  "publishedAt": "2026-06-09T12:45:00Z"
 }
