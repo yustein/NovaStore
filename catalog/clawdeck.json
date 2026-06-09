@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "appRole": "managed",
+  "packageName": "com.clawdeck",
+  "name": "ClawDeck",
+  "publisherName": "Lenomila",
+  "category": "Tools",
+  "channel": "stable",
+  "versionName": "1.0.23",
+  "versionCode": 24,
+  "minSdk": 23,
+  "targetSdk": 35,
+  "sizeBytes": 305976,
+  "sha256": "53e526e14e60754b6b9723667e0ae792576cd65038283c2b294d3ff282d0b95f",
+  "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/clawdeck-v1.0.23/ClawDeck-v1.0.23.apk",
+  "releaseId": "rel_clawdeck_24",
+  "releaseNotes": "Adds a full-screen streaming ChatGPT-style OpenClaw chat surface, multi-OpenClaw targets, and binary file send/receive over SSH/SFTP.",
+  "publishedAt": "2026-06-09T16:19:11Z"
+}

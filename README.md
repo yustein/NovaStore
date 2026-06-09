@@ -24,11 +24,20 @@ NovaStore is the private Android app store client. It installs and updates our o
 - APK SHA-256: `0b297ae5ca5fb25099abf9c9710e48359c417fa6bffaf2a412474f9a2066ab79`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
+### ClawDeck
+
+- Package: `com.clawdeck`
+- Version: `1.0.23` / code `24`
+- Download: <https://github.com/yustein/NovaStore/releases/download/clawdeck-v1.0.23/ClawDeck-v1.0.23.apk>
+- APK SHA-256: `53e526e14e60754b6b9723667e0ae792576cd65038283c2b294d3ff282d0b95f`
+- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
+
 ## Manifests
 
 - Full catalog: `catalog/index.json`
 - NovaStore release: `catalog/novastore.json`
 - Aurora Weather release: `catalog/auroraweather.json`
+- ClawDeck release: `catalog/clawdeck.json`
 
 ## Update Behavior
 
