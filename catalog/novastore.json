@@ -6,15 +6,15 @@
   "publisherName": "Lenomila",
   "category": "Store",
   "channel": "stable",
-  "versionName": "0.1.7",
-  "versionCode": 8,
+  "versionName": "0.1.8",
+  "versionCode": 9,
   "minSdk": 26,
   "targetSdk": 36,
   "sizeBytes": 18502661,
-  "sha256": "7e27fe9fe43a55abdedb1fe96dd9f0d1dc63b82e595786fbb7a1d11f014a3aa7",
+  "sha256": "bba513e78952a10e2e75985e4b573d228b7e097211b4ffae5702327d16377ee0",
   "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
-  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.7/NovaStore-v0.1.7.apk",
-  "releaseId": "rel_novastore_8",
-  "releaseNotes": "Checks the GitHub catalog every time NovaStore returns to the foreground and adds pull-to-refresh on Apps and Updates.",
-  "publishedAt": "2026-06-09T17:15:37Z"
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.8/NovaStore-v0.1.8.apk",
+  "releaseId": "rel_novastore_9",
+  "releaseNotes": "Checks the GitHub branch-ref catalog on every foreground return and adds pull-to-refresh on Apps and Updates.",
+  "publishedAt": "2026-06-09T17:22:42Z"
 }
