@@ -6,15 +6,15 @@
   "publisherName": "Lenomila",
   "category": "Weather",
   "channel": "stable",
-  "versionName": "3.0.21",
-  "versionCode": 58,
+  "versionName": "3.0.22",
+  "versionCode": 59,
   "minSdk": 26,
   "targetSdk": 35,
-  "sizeBytes": 2412542,
-  "sha256": "f1631cec7cb07a4429219dff9b95831ec736e2c513a0e17687a04a3e404ba85d",
+  "sizeBytes": 2412850,
+  "sha256": "55a67fa160d65e14e41b1834711ea9e91aba5715f1a62c0c7863db0b805c06e0",
   "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
-  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.21/AuroraWeather-v3.0.21.apk",
-  "releaseId": "rel_auroraweather_58",
-  "releaseNotes": "Adds a taller home-screen widget with next-5-day forecast rows showing condition, high/low, and rain chance.",
-  "publishedAt": "2026-06-09T18:37:26Z"
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.22/AuroraWeather-v3.0.22.apk",
+  "releaseId": "rel_auroraweather_59",
+  "releaseNotes": "Clarifies next-rain labels in the app and widget with tomorrow/later timing, and marks low-probability traces as traces instead of likely rain.",
+  "publishedAt": "2026-06-09T19:06:51Z"
 }
