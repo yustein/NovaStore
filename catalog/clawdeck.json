@@ -16,5 +16,5 @@
   "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/clawdeck-v1.0.23/ClawDeck-v1.0.23.apk",
   "releaseId": "rel_clawdeck_24",
   "releaseNotes": "Adds a full-screen streaming ChatGPT-style OpenClaw chat surface, multi-OpenClaw targets, and binary file send/receive over SSH/SFTP.",
-  "publishedAt": "2026-06-09T16:56:32Z"
+  "publishedAt": "2026-06-09T17:06:28Z"
 }

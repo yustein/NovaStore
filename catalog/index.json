@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T16:56:32Z",
+  "generatedAt": "2026-06-09T17:06:28Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -10,17 +10,17 @@
       "publisherName": "Lenomila",
       "category": "Store",
       "channel": "stable",
-      "versionName": "0.1.5",
-      "versionCode": 6,
+      "versionName": "0.1.6",
+      "versionCode": 7,
       "minSdk": 26,
       "targetSdk": 36,
-      "sizeBytes": 18501784,
-      "sha256": "4d53a105466df0aa89bce76816fd0e41126a45b34603a26a992cf30120b23459",
+      "sizeBytes": 18502661,
+      "sha256": "d53241a0d17086444c869e4a534bce604848b90e1a01baf2adb111b4e6f1490b",
       "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.5/NovaStore-v0.1.5.apk",
-      "releaseId": "rel_novastore_6",
-      "releaseNotes": "Shows download progress in a current-screen modal, checks for updates three times a day, and opens update notifications directly to the Updates tab.",
-      "publishedAt": "2026-06-09T16:56:32Z"
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.6/NovaStore-v0.1.6.apk",
+      "releaseId": "rel_novastore_7",
+      "releaseNotes": "Refreshes the built-in fallback catalog with all published Lenomila Android apps and uses generic app icons for entries without bundled artwork.",
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -40,7 +40,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/antikythera-v0.1.1/Antikythera-v0.1.1.apk",
       "releaseId": "rel_antikythera_2",
       "releaseNotes": "Adds the source-honest Antikythera mechanism reconstruction prototype with animated gear/dial surfaces, evidence-tier overlays, and learn/gallery/source views.",
-      "publishedAt": "2026-06-09T16:56:32Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -60,7 +60,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.18/AuroraWeather-v3.0.18.apk",
       "releaseId": "rel_auroraweather_55",
       "releaseNotes": "Adds visible location and refresh feedback, pull-to-refresh, last-refreshed status, cached last weather, and 30-minute stale auto refresh.",
-      "publishedAt": "2026-06-09T16:56:32Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -80,7 +80,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/backgammonlan-v0.1.10/BackgammonLAN-v0.1.10.apk",
       "releaseId": "rel_backgammonlan_11",
       "releaseNotes": "Adds heartbeat-notified LAN backgammon reliability improvements with Android/Windows compatible discovery, reconnect, and board sync behavior.",
-      "publishedAt": "2026-06-09T16:56:32Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -100,7 +100,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/calcfx-v0.1.1/CalcFX-v0.1.1.apk",
       "releaseId": "rel_calcfx_2",
       "releaseNotes": "Publishes the latest CalcFX Android calculator prototype to NovaStore.",
-      "publishedAt": "2026-06-09T16:56:32Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -120,7 +120,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/carpetmeasure-v0.1.9/CarpetMeasure-v0.1.9.apk",
       "releaseId": "rel_carpetmeasure_10",
       "releaseNotes": "Publishes the latest AR carpet measurement prototype with corner measurement and segmentation support.",
-      "publishedAt": "2026-06-09T16:56:32Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -140,7 +140,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/clawdeck-v1.0.23/ClawDeck-v1.0.23.apk",
       "releaseId": "rel_clawdeck_24",
       "releaseNotes": "Adds a full-screen streaming ChatGPT-style OpenClaw chat surface, multi-OpenClaw targets, and binary file send/receive over SSH/SFTP.",
-      "publishedAt": "2026-06-09T16:56:32Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -160,7 +160,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/echoatlas-v0.1.5/EchoAtlas-v0.1.5.apk",
       "releaseId": "rel_echoatlas_6",
       "releaseNotes": "Publishes the latest Echo Atlas Android prototype to NovaStore.",
-      "publishedAt": "2026-06-09T16:56:32Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -180,7 +180,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/fileatlas-v0.1.4/FileAtlas-v0.1.4.apk",
       "releaseId": "rel_fileatlas_5",
       "releaseNotes": "Publishes the latest File Atlas Android prototype to NovaStore.",
-      "publishedAt": "2026-06-09T16:56:32Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -200,7 +200,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/gatewayfieldbook-v1.3.0/GatewayFieldbook-v1.3.0.apk",
       "releaseId": "rel_gatewayfieldbook_5",
       "releaseNotes": "Publishes the recovered Gateway Fieldbook v1.3.0 build to NovaStore.",
-      "publishedAt": "2026-06-09T16:56:32Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -220,7 +220,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/muzoplay-v0.1.23/MuzoPlay-v0.1.23.apk",
       "releaseId": "rel_muzoplay_24",
       "releaseNotes": "Adds the latest MuzoPlay IPTV player build with dense browsing, VLC fallback, VOD search, subtitle/audio controls, and fullscreen improvements.",
-      "publishedAt": "2026-06-09T16:56:32Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -240,7 +240,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/quakeglobe-v0.1.7/QuakeGlobe-v0.1.7.apk",
       "releaseId": "rel_quakeglobe_8",
       "releaseNotes": "Publishes the latest Quake Globe earthquake monitor with corrected globe alignment, event picking, alert rules, and source-honest earthquake feeds.",
-      "publishedAt": "2026-06-09T16:56:32Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -260,7 +260,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/resonancefinder-v0.1.0/ResonanceFinder-v0.1.0.apk",
       "releaseId": "rel_resonancefinder_1",
       "releaseNotes": "Publishes the first Resonance Finder Android APK to NovaStore.",
-      "publishedAt": "2026-06-09T16:56:32Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -280,7 +280,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/resonancelab-v0.1.3/ResonanceLab-v0.1.3.apk",
       "releaseId": "rel_resonancelab_4",
       "releaseNotes": "Publishes the latest Resonance Lab acoustic prototype to NovaStore.",
-      "publishedAt": "2026-06-09T16:56:32Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -300,7 +300,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/speedtestlab-v0.1.5/SpeedTestLab-v0.1.5.apk",
       "releaseId": "rel_speedtestlab_6",
       "releaseNotes": "Publishes the latest Speed Test Lab Android prototype to NovaStore.",
-      "publishedAt": "2026-06-09T16:56:32Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -320,7 +320,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/speedcockpit-v0.1.13/SpeedCockpit-v0.1.13.apk",
       "releaseId": "rel_speedcockpit_14",
       "releaseNotes": "Publishes the latest SpeedCockpit build with map cockpit modes, stricter speed-limit display, warning tones, and reduced map tile flicker.",
-      "publishedAt": "2026-06-09T16:56:32Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -340,7 +340,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/turkeytourism-v1.4.7/TurkeyTourism-v1.4.7.apk",
       "releaseId": "rel_turkeytourism_12",
       "releaseNotes": "Publishes the latest Turkey Tourism travel guide prototype to NovaStore.",
-      "publishedAt": "2026-06-09T16:56:32Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -360,7 +360,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/wavevid-v0.1.3/WaveVidAndroid-v0.1.3.apk",
       "releaseId": "rel_wavevid_4",
       "releaseNotes": "Publishes the latest WaveVid Android media prototype to NovaStore.",
-      "publishedAt": "2026-06-09T16:56:32Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     }
   ]
 }

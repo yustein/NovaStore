@@ -6,15 +6,15 @@
   "publisherName": "Lenomila",
   "category": "Store",
   "channel": "stable",
-  "versionName": "0.1.5",
-  "versionCode": 6,
+  "versionName": "0.1.6",
+  "versionCode": 7,
   "minSdk": 26,
   "targetSdk": 36,
-  "sizeBytes": 18501784,
-  "sha256": "4d53a105466df0aa89bce76816fd0e41126a45b34603a26a992cf30120b23459",
+  "sizeBytes": 18502661,
+  "sha256": "d53241a0d17086444c869e4a534bce604848b90e1a01baf2adb111b4e6f1490b",
   "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
-  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.5/NovaStore-v0.1.5.apk",
-  "releaseId": "rel_novastore_6",
-  "releaseNotes": "Shows download progress in a current-screen modal, checks for updates three times a day, and opens update notifications directly to the Updates tab.",
-  "publishedAt": "2026-06-09T16:56:32Z"
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.6/NovaStore-v0.1.6.apk",
+  "releaseId": "rel_novastore_7",
+  "releaseNotes": "Refreshes the built-in fallback catalog with all published Lenomila Android apps and uses generic app icons for entries without bundled artwork.",
+  "publishedAt": "2026-06-09T17:06:28Z"
 }

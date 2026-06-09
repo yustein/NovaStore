@@ -6,7 +6,7 @@ NovaStore clients fetch `catalog/index.json`, verify APK SHA-256 after download,
 
 ## Catalog Summary
 
-- Generated: `2026-06-09T16:56:32Z`
+- Generated: `2026-06-09T17:06:28Z`
 - Apps: `18` total (`1` store app, `17` managed apps)
 - Excluded: companion sample APKs, Windows packages, recovered duplicate projects, and AAB-only artifacts.
 
@@ -15,9 +15,9 @@ NovaStore clients fetch `catalog/index.json`, verify APK SHA-256 after download,
 NovaStore is the private Android app store client. It installs and updates our own APKs outside Google Play while preserving Android install-source permission and package-signature rules.
 
 - Package: `com.novastore.client`
-- Version: `0.1.5` / code `6`
-- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.5/NovaStore-v0.1.5.apk>
-- APK SHA-256: `4d53a105466df0aa89bce76816fd0e41126a45b34603a26a992cf30120b23459`
+- Version: `0.1.6` / code `7`
+- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.6/NovaStore-v0.1.6.apk>
+- APK SHA-256: `d53241a0d17086444c869e4a534bce604848b90e1a01baf2adb111b4e6f1490b`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
 ## Catalog Apps
