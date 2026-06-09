@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T12:55:00Z",
+  "generatedAt": "2026-06-09T13:18:00Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -30,17 +30,17 @@
       "publisherName": "Lenomila",
       "category": "Weather",
       "channel": "stable",
-      "versionName": "3.0.15",
-      "versionCode": 52,
+      "versionName": "3.0.16",
+      "versionCode": 53,
       "minSdk": 26,
       "targetSdk": 35,
-      "sizeBytes": 2397706,
-      "sha256": "842ff10e63285d5cd3a62dc8e0528e4c48a1690a01aa1d19d035782a5d275f39",
+      "sizeBytes": 2399822,
+      "sha256": "db9268111edfadd36657f8b8bd7ea47b6bc0d56aaa1332d94431c8c8c8a30534",
       "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.15/AuroraWeather-v3.0.15.apk",
-      "releaseId": "rel_auroraweather_52",
-      "releaseNotes": "Current Aurora Weather build with weather/radar/alert tabs, current-location widget separation, notification receiver reliability, and forecast artwork alignment.",
-      "publishedAt": "2026-06-09T11:55:00Z"
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.16/AuroraWeather-v3.0.16.apk",
+      "releaseId": "rel_auroraweather_53",
+      "releaseNotes": "Adds graphical current-weather widget art with local date/time and centers forecast sprites using actual artwork bounds.",
+      "publishedAt": "2026-06-09T13:18:00Z"
     }
   ]
 }
