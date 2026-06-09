@@ -6,15 +6,15 @@
   "publisherName": "Lenomila",
   "category": "Weather",
   "channel": "stable",
-  "versionName": "3.0.22",
-  "versionCode": 59,
+  "versionName": "3.0.23",
+  "versionCode": 60,
   "minSdk": 26,
   "targetSdk": 35,
-  "sizeBytes": 2412850,
-  "sha256": "55a67fa160d65e14e41b1834711ea9e91aba5715f1a62c0c7863db0b805c06e0",
+  "sizeBytes": 2413010,
+  "sha256": "e1805c8e08788f216eff606bd16aab78568f34ebec697f0d0382e26c7947374e",
   "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
-  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.22/AuroraWeather-v3.0.22.apk",
-  "releaseId": "rel_auroraweather_59",
-  "releaseNotes": "Clarifies next-rain labels in the app and widget with tomorrow/later timing, and marks low-probability traces as traces instead of likely rain.",
-  "publishedAt": "2026-06-09T19:06:51Z"
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.23/AuroraWeather-v3.0.23.apk",
+  "releaseId": "rel_auroraweather_60",
+  "releaseNotes": "Labels the in-app daily card as a 5-day forecast and fixes date-only weekday math so the next five days start with tomorrow in local timezones.",
+  "publishedAt": "2026-06-09T20:21:04Z"
 }
