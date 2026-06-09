@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "appRole": "managed",
+  "packageName": "com.lenomila.wavevid",
+  "name": "WaveVid",
+  "publisherName": "Lenomila",
+  "category": "Media",
+  "channel": "stable",
+  "versionName": "0.1.3",
+  "versionCode": 4,
+  "minSdk": 26,
+  "targetSdk": 36,
+  "sizeBytes": 1007148,
+  "sha256": "a1995b27a22afaddbec35177e150cbf10c15ffbcf1285730c5868e7c24f0e1a7",
+  "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/wavevid-v0.1.3/WaveVidAndroid-v0.1.3.apk",
+  "releaseId": "rel_wavevid_4",
+  "releaseNotes": "Publishes the latest WaveVid Android media prototype to NovaStore.",
+  "publishedAt": "2026-06-09T16:56:32Z"
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "appRole": "managed",
+  "packageName": "com.lenomila.speedtest",
+  "name": "Speed Test Lab",
+  "publisherName": "Lenomila",
+  "category": "Tools",
+  "channel": "stable",
+  "versionName": "0.1.5",
+  "versionCode": 6,
+  "minSdk": 26,
+  "targetSdk": 36,
+  "sizeBytes": 908612,
+  "sha256": "d7ec76ae5b07dad6686939f392692189695cf55a701e14a7a8e8c200a678b7ba",
+  "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/speedtestlab-v0.1.5/SpeedTestLab-v0.1.5.apk",
+  "releaseId": "rel_speedtestlab_6",
+  "releaseNotes": "Publishes the latest Speed Test Lab Android prototype to NovaStore.",
+  "publishedAt": "2026-06-09T16:56:32Z"
+}

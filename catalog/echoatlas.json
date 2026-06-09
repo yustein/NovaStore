@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "appRole": "managed",
+  "packageName": "com.lenomila.echoatlas",
+  "name": "Echo Atlas",
+  "publisherName": "Lenomila",
+  "category": "Tools",
+  "channel": "stable",
+  "versionName": "0.1.5",
+  "versionCode": 6,
+  "minSdk": 26,
+  "targetSdk": 36,
+  "sizeBytes": 910311,
+  "sha256": "2179287c1ae7e89f5df7bd5c2411e2de639da25007e1e10773c219a413e4e342",
+  "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/echoatlas-v0.1.5/EchoAtlas-v0.1.5.apk",
+  "releaseId": "rel_echoatlas_6",
+  "releaseNotes": "Publishes the latest Echo Atlas Android prototype to NovaStore.",
+  "publishedAt": "2026-06-09T16:56:32Z"
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "appRole": "managed",
+  "packageName": "com.lenomila.resonancefinder",
+  "name": "Resonance Finder",
+  "publisherName": "Lenomila",
+  "category": "Science",
+  "channel": "stable",
+  "versionName": "0.1.0",
+  "versionCode": 1,
+  "minSdk": 26,
+  "targetSdk": 36,
+  "sizeBytes": 874789,
+  "sha256": "a2771ddef4bdc0cf5209d4bec2eac99b5feaf2df85ca970c71e59e2d0929b671",
+  "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/resonancefinder-v0.1.0/ResonanceFinder-v0.1.0.apk",
+  "releaseId": "rel_resonancefinder_1",
+  "releaseNotes": "Publishes the first Resonance Finder Android APK to NovaStore.",
+  "publishedAt": "2026-06-09T16:56:32Z"
+}

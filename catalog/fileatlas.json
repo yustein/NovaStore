@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "appRole": "managed",
+  "packageName": "com.lenomila.fileatlas",
+  "name": "File Atlas",
+  "publisherName": "Lenomila",
+  "category": "Tools",
+  "channel": "stable",
+  "versionName": "0.1.4",
+  "versionCode": 5,
+  "minSdk": 26,
+  "targetSdk": 36,
+  "sizeBytes": 917628,
+  "sha256": "004308b0c70009fe44d51fea5e67226bf683d8bb546246af374eef39fb0a4b4a",
+  "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/fileatlas-v0.1.4/FileAtlas-v0.1.4.apk",
+  "releaseId": "rel_fileatlas_5",
+  "releaseNotes": "Publishes the latest File Atlas Android prototype to NovaStore.",
+  "publishedAt": "2026-06-09T16:56:32Z"
+}

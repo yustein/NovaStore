@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "appRole": "managed",
+  "packageName": "fyi.metatron.turkeytourist",
+  "name": "Turkey Tourism",
+  "publisherName": "Lenomila",
+  "category": "Travel",
+  "channel": "stable",
+  "versionName": "1.4.7",
+  "versionCode": 12,
+  "minSdk": 26,
+  "targetSdk": 35,
+  "sizeBytes": 18563607,
+  "sha256": "cbeed03a5b423ef93ef0d7d694eee7e62f8e7c98b07a77d7960d97ce8038771b",
+  "signingCertSha256": "2f251bc0a8c8ee73f48e88b31889c834035f83ce9281d9b16e7a7fb0010ae395",
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/turkeytourism-v1.4.7/TurkeyTourism-v1.4.7.apk",
+  "releaseId": "rel_turkeytourism_12",
+  "releaseNotes": "Publishes the latest Turkey Tourism travel guide prototype to NovaStore.",
+  "publishedAt": "2026-06-09T16:56:32Z"
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "appRole": "managed",
+  "packageName": "com.lenomila.quakeglobe",
+  "name": "Quake Globe",
+  "publisherName": "Lenomila",
+  "category": "Science",
+  "channel": "stable",
+  "versionName": "0.1.7",
+  "versionCode": 8,
+  "minSdk": 26,
+  "targetSdk": 36,
+  "sizeBytes": 1519525,
+  "sha256": "8025eafbc83621c473a723d400c802fbc7a2c67bafcbdc6f4aa4e0317f1264fe",
+  "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/quakeglobe-v0.1.7/QuakeGlobe-v0.1.7.apk",
+  "releaseId": "rel_quakeglobe_8",
+  "releaseNotes": "Publishes the latest Quake Globe earthquake monitor with corrected globe alignment, event picking, alert rules, and source-honest earthquake feeds.",
+  "publishedAt": "2026-06-09T16:56:32Z"
+}

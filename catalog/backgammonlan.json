@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "appRole": "managed",
+  "packageName": "com.lenomila.backgammon",
+  "name": "Backgammon LAN",
+  "publisherName": "Lenomila",
+  "category": "Games",
+  "channel": "stable",
+  "versionName": "0.1.10",
+  "versionCode": 11,
+  "minSdk": 26,
+  "targetSdk": 35,
+  "sizeBytes": 916908,
+  "sha256": "b92063e76ba776b953c51a415afebfe67d421f13034062b04e0c4df65b84369d",
+  "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/backgammonlan-v0.1.10/BackgammonLAN-v0.1.10.apk",
+  "releaseId": "rel_backgammonlan_11",
+  "releaseNotes": "Adds heartbeat-notified LAN backgammon reliability improvements with Android/Windows compatible discovery, reconnect, and board sync behavior.",
+  "publishedAt": "2026-06-09T16:56:32Z"
+}

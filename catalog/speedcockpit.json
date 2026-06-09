@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "appRole": "managed",
+  "packageName": "com.lenomila.speedcockpit",
+  "name": "SpeedCockpit",
+  "publisherName": "Lenomila",
+  "category": "Navigation",
+  "channel": "stable",
+  "versionName": "0.1.13",
+  "versionCode": 14,
+  "minSdk": 26,
+  "targetSdk": 36,
+  "sizeBytes": 2491123,
+  "sha256": "33368b1bbb81b58b514b40e89d8f0eb39334d2b5605898e807958bebbd0d0d0e",
+  "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/speedcockpit-v0.1.13/SpeedCockpit-v0.1.13.apk",
+  "releaseId": "rel_speedcockpit_14",
+  "releaseNotes": "Publishes the latest SpeedCockpit build with map cockpit modes, stricter speed-limit display, warning tones, and reduced map tile flicker.",
+  "publishedAt": "2026-06-09T16:56:32Z"
+}

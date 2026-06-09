@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "appRole": "managed",
+  "packageName": "com.lenomila.carpetmeasure",
+  "name": "Carpet Measure",
+  "publisherName": "Lenomila",
+  "category": "Tools",
+  "channel": "stable",
+  "versionName": "0.1.9",
+  "versionCode": 10,
+  "minSdk": 26,
+  "targetSdk": 36,
+  "sizeBytes": 23839669,
+  "sha256": "0be6bff3f3eb412d40d03c5ff07946874b8d117581f575efd413b4de5e9fc338",
+  "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/carpetmeasure-v0.1.9/CarpetMeasure-v0.1.9.apk",
+  "releaseId": "rel_carpetmeasure_10",
+  "releaseNotes": "Publishes the latest AR carpet measurement prototype with corner measurement and segmentation support.",
+  "publishedAt": "2026-06-09T16:56:32Z"
+}

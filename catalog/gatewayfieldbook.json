@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "appRole": "managed",
+  "packageName": "com.lenomila.gatewayfieldbook",
+  "name": "Gateway Fieldbook",
+  "publisherName": "Lenomila",
+  "category": "Reference",
+  "channel": "stable",
+  "versionName": "1.3.0",
+  "versionCode": 5,
+  "minSdk": 26,
+  "targetSdk": 35,
+  "sizeBytes": 905592,
+  "sha256": "29964a09beffeff9617b02da7479fe48a12dd65b700980d356fc76255618e813",
+  "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/gatewayfieldbook-v1.3.0/GatewayFieldbook-v1.3.0.apk",
+  "releaseId": "rel_gatewayfieldbook_5",
+  "releaseNotes": "Publishes the recovered Gateway Fieldbook v1.3.0 build to NovaStore.",
+  "publishedAt": "2026-06-09T16:56:32Z"
+}
