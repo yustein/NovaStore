@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T17:22:42Z",
+  "generatedAt": "2026-06-09T17:27:39Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -10,17 +10,17 @@
       "publisherName": "Lenomila",
       "category": "Store",
       "channel": "stable",
-      "versionName": "0.1.8",
-      "versionCode": 9,
+      "versionName": "0.1.9",
+      "versionCode": 10,
       "minSdk": 26,
       "targetSdk": 36,
       "sizeBytes": 18502661,
-      "sha256": "bba513e78952a10e2e75985e4b573d228b7e097211b4ffae5702327d16377ee0",
+      "sha256": "be30faebac18e9c4872fa9fee6456d55097b2cbaee23a94293023ffa8b08dd12",
       "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.8/NovaStore-v0.1.8.apk",
-      "releaseId": "rel_novastore_9",
-      "releaseNotes": "Checks the GitHub branch-ref catalog on every foreground return and adds pull-to-refresh on Apps and Updates.",
-      "publishedAt": "2026-06-09T17:22:42Z"
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.9/NovaStore-v0.1.9.apk",
+      "releaseId": "rel_novastore_10",
+      "releaseNotes": "Checks GitHub contents API on every foreground return and adds pull-to-refresh on Apps and Updates.",
+      "publishedAt": "2026-06-09T17:27:39Z"
     },
     {
       "schemaVersion": 1,

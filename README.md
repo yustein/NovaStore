@@ -6,7 +6,7 @@ NovaStore clients fetch `catalog/index.json`, verify APK SHA-256 after download,
 
 ## Catalog Summary
 
-- Generated: `2026-06-09T17:22:42Z`
+- Generated: `2026-06-09T17:27:39Z`
 - Apps: `18` total (`1` store app, `17` managed apps)
 - Excluded: companion sample APKs, Windows packages, recovered duplicate projects, and AAB-only artifacts.
 
@@ -15,9 +15,9 @@ NovaStore clients fetch `catalog/index.json`, verify APK SHA-256 after download,
 NovaStore is the private Android app store client. It installs and updates our own APKs outside Google Play while preserving Android install-source permission and package-signature rules.
 
 - Package: `com.novastore.client`
-- Version: `0.1.8` / code `9`
-- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.8/NovaStore-v0.1.8.apk>
-- APK SHA-256: `bba513e78952a10e2e75985e4b573d228b7e097211b4ffae5702327d16377ee0`
+- Version: `0.1.9` / code `10`
+- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.9/NovaStore-v0.1.9.apk>
+- APK SHA-256: `be30faebac18e9c4872fa9fee6456d55097b2cbaee23a94293023ffa8b08dd12`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
 ## Catalog Apps
@@ -199,7 +199,7 @@ NovaStore is the private Android app store client. It installs and updates our o
 
 ## Update Behavior
 
-NovaStore checks this public catalog whenever the app returns to the foreground, when the user manually refreshes Apps or Updates, and three times a day in the background. It notifies for:
+NovaStore checks this public catalog through GitHub raw-content API whenever the app returns to the foreground, when the user manually refreshes Apps or Updates, and three times a day in the background. It notifies for:
 
 - a newer NovaStore APK,
 - a newer catalog app already installed on the phone.
