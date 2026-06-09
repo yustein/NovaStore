@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T18:37:26Z",
+  "generatedAt": "2026-06-09T18:52:43Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -10,17 +10,17 @@
       "publisherName": "Lenomila",
       "category": "Store",
       "channel": "stable",
-      "versionName": "0.1.9",
-      "versionCode": 10,
+      "versionName": "0.1.10",
+      "versionCode": 11,
       "minSdk": 26,
       "targetSdk": 36,
-      "sizeBytes": 18502661,
-      "sha256": "be30faebac18e9c4872fa9fee6456d55097b2cbaee23a94293023ffa8b08dd12",
+      "sizeBytes": 18534615,
+      "sha256": "9c0e59903889ae7d9aaef3a9f7544681b29de10948789901c1ecd99f5af77850",
       "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.9/NovaStore-v0.1.9.apk",
-      "releaseId": "rel_novastore_10",
-      "releaseNotes": "Checks GitHub contents API on every foreground return and adds pull-to-refresh on Apps and Updates.",
-      "publishedAt": "2026-06-09T17:27:39Z"
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.10/NovaStore-v0.1.10.apk",
+      "releaseId": "rel_novastore_11",
+      "releaseNotes": "Shows real app icons in catalog rows with installed-app launcher icons and bundled app-specific catalog art.",
+      "publishedAt": "2026-06-09T18:52:43Z"
     },
     {
       "schemaVersion": 1,
