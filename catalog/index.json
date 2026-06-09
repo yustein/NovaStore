@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T18:04:36Z",
+  "generatedAt": "2026-06-09T18:37:26Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -50,17 +50,17 @@
       "publisherName": "Lenomila",
       "category": "Weather",
       "channel": "stable",
-      "versionName": "3.0.20",
-      "versionCode": 57,
+      "versionName": "3.0.21",
+      "versionCode": 58,
       "minSdk": 26,
       "targetSdk": 35,
-      "sizeBytes": 2408458,
-      "sha256": "bd2b04f034d2e46c446ba39140fd7c00f1f6a31e2e98838ec5e3e0201809e03a",
+      "sizeBytes": 2412542,
+      "sha256": "f1631cec7cb07a4429219dff9b95831ec736e2c513a0e17687a04a3e404ba85d",
       "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.20/AuroraWeather-v3.0.20.apk",
-      "releaseId": "rel_auroraweather_57",
-      "releaseNotes": "Fixes app and widget rain prediction by ignoring past hourly rows and tiny trace signals.",
-      "publishedAt": "2026-06-09T18:20:10Z"
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.21/AuroraWeather-v3.0.21.apk",
+      "releaseId": "rel_auroraweather_58",
+      "releaseNotes": "Adds a taller home-screen widget with next-5-day forecast rows showing condition, high/low, and rain chance.",
+      "publishedAt": "2026-06-09T18:37:26Z"
     },
     {
       "schemaVersion": 1,
