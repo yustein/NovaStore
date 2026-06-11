@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T21:13:37Z",
+  "generatedAt": "2026-06-11T21:33:03Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -430,17 +430,17 @@
       "publisherName": "Lenomila",
       "category": "Tools",
       "channel": "stable",
-      "versionName": "0.1.0",
-      "versionCode": 1,
+      "versionName": "0.1.1",
+      "versionCode": 2,
       "minSdk": 26,
       "targetSdk": 36,
-      "sizeBytes": 17912772,
-      "sha256": "9d487ece5dd70d158c3cc09f9b014c07a8362646652f364bd49225f0760c9a7e",
+      "sizeBytes": 17929152,
+      "sha256": "2ef519b4a502b5c3ce2a3fab793f3e3e94eb036bde11ad4dfebde8a538a21fe7",
       "signingCertSha256": "77bd7b32711738bf4837f604e00b8c137675755cbe199611e8612b410d68841f",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/torrentatlas-v0.1.0/TorrentAtlas-v0.1.0.apk",
-      "releaseId": "rel_torrentatlas_1",
-      "releaseNotes": "Adds TorrentAtlas as a legal torrent utility for user-provided magnet links, torrent files, Internet Archive search, official Linux torrent sources, downloads, file browsing, and safe ZIP extraction. It intentionally avoids piracy indexes.",
-      "publishedAt": "2026-06-11T21:00:00Z"
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/torrentatlas-v0.1.1/TorrentAtlas-v0.1.1.apk",
+      "releaseId": "rel_torrentatlas_2",
+      "releaseNotes": "Expands TorrentAtlas search into a federated legal/open torrent search across Internet Archive and official Ubuntu, Debian, Fedora, Arch, and Linux Mint torrent sources. Provider failures now degrade gracefully so one unavailable source does not break the whole search.",
+      "publishedAt": "2026-06-11T21:33:03Z"
     }
   ]
 }
