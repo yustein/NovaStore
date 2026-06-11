@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T19:11:47Z",
+  "generatedAt": "2026-06-11T20:26:42Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -230,8 +230,8 @@
       "publisherName": "Lenomila",
       "category": "Entertainment",
       "channel": "stable",
-      "versionName": "0.1.4",
-      "versionCode": 5,
+      "versionName": "0.1.2",
+      "versionCode": 3,
       "minSdk": 26,
       "targetSdk": 36,
       "sizeBytes": 48497249,
