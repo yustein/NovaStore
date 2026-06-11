@@ -6,15 +6,15 @@
   "publisherName": "Lenomila",
   "category": "Sports",
   "channel": "stable",
-  "versionName": "0.1.2",
-  "versionCode": 3,
+  "versionName": "0.1.3",
+  "versionCode": 4,
   "minSdk": 26,
   "targetSdk": 36,
-  "sizeBytes": 675146,
-  "sha256": "a160a7b9eb4e1f891b4feac537489a800e15255b71479e58cc49185852a3caff",
+  "sizeBytes": 675294,
+  "sha256": "76b45fc4a9fd1344cd7f26ab25890708fbe840c46b4fdc99a9413df642bc0fab",
   "signingCertSha256": "574ab287ee443e3c6474aaf8372bce70fc33712dd063bc73198c38139f255243",
-  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/worldcup2026-v0.1.2/WorldCup2026-v0.1.2.apk",
-  "releaseId": "rel_worldcup2026_3",
-  "releaseNotes": "Fixes fixture presentation against ESPN schedule data: refreshes the live ESPN feed on launch with cache fallback, shows home-vs-away order, hides pre-match 0-0 scores, adds group/knockout stage chips, and links the in-app Schedule button to the ESPN fixture article.",
-  "publishedAt": "2026-06-11T14:09:42Z"
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/worldcup2026-v0.1.3/WorldCup2026-v0.1.3.apk",
+  "releaseId": "rel_worldcup2026_4",
+  "releaseNotes": "Fixes ESPN kickoff parsing for minute-precision UTC schedule times, so all 104 fixtures display real dates/times in the phone local timezone. Fixture rows and daily briefs now show the timezone abbreviation.",
+  "publishedAt": "2026-06-11T19:11:47Z"
 }
