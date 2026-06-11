@@ -6,15 +6,15 @@
   "publisherName": "Lenomila",
   "category": "Store",
   "channel": "stable",
-  "versionName": "0.2.5",
-  "versionCode": 25,
+  "versionName": "0.2.6",
+  "versionCode": 26,
   "minSdk": 26,
   "targetSdk": 36,
-  "sizeBytes": 12541056,
-  "sha256": "fe624f57d3b5c076f038b45c33e054d4e9a7e8faea8705b406b3c5c0b7c31a28",
+  "sizeBytes": 12541248,
+  "sha256": "b91eed95b34dc58fa8f1830e64f94f7a49a891e14e19dfb5f5160a3a4e71379b",
   "signingCertSha256": "115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c",
-  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.5/NovaStore-v0.2.5.apk",
-  "releaseId": "rel_novastore_25",
-  "releaseNotes": "Restores the NovaStore v0.1.4-style installer capability for app installs and updates by adding REQUEST_INSTALL_PACKAGES while keeping the modern release-signed, non-debuggable store identity. Keeps the ACTION_VIEW + APK MIME + FileProvider + explicit installer target + ClipData handoff, SHA-256/size verification, no boot or notification permission, no broad package query, and no install-session API. Moves signed catalog refresh to raw.githubusercontent.com to avoid GitHub Contents API 403 failures.",
-  "publishedAt": "2026-06-11T13:04:30Z"
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.6/NovaStore-v0.2.6.apk",
+  "releaseId": "rel_novastore_26",
+  "releaseNotes": "Supersedes v0.2.5/v0.3.5. Restores NovaStore v0.1.4-style app install/update capability with REQUEST_INSTALL_PACKAGES while keeping the modern release-signed, non-debuggable store identity. Keeps ACTION_VIEW + APK MIME + FileProvider + explicit installer target + ClipData handoff, SHA-256/size verification, no boot or notification permission, no broad package query, and no install-session API. Uses jsDelivr GitHub-backed signed catalog URLs to avoid GitHub Contents API 403 failures and raw GitHub index/signature cache mismatch.",
+  "publishedAt": "2026-06-11T13:10:00Z"
 }
