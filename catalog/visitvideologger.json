@@ -6,15 +6,15 @@
   "publisherName": "Lenomila",
   "category": "Travel",
   "channel": "stable",
-  "versionName": "0.1.8",
-  "versionCode": 9,
+  "versionName": "0.1.9",
+  "versionCode": 10,
   "minSdk": 26,
   "targetSdk": 36,
-  "sizeBytes": 680286,
-  "sha256": "f5523f7334ea497bce04b5b9345a16c0fdb24a0e6d3b9aa325a1d3753e68cbbe",
+  "sizeBytes": 680554,
+  "sha256": "47997a16a457b7481f9265efed2a3217c90205960da58c3a1f0564e180a098df",
   "signingCertSha256": "d7b7bcd3e7f71979811709cbca98e3f984c43cdcf8c96b3ba808ef9972139ec6",
-  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.8/VisitVideoLogger-v0.1.8.apk",
-  "releaseId": "rel_visitvideologger_9",
-  "releaseNotes": "Adds map location stabilization with stale/poor GPS rejection, jump plausibility checks, speed-aware GPS smoothing, compass/rotation-vector heading at low speed, and gyroscope-assisted heading settling during turns.",
-  "publishedAt": "2026-06-11T17:28:10Z"
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.9/VisitVideoLogger-v0.1.9.apk",
+  "releaseId": "rel_visitvideologger_10",
+  "releaseNotes": "Fixes recording aspect matching: the MP4 encoder canvas now follows the current landscape preview aspect, MediaStore records the matching dimensions, bitrate scales with frame area, and the camera source rotates from a portrait-shaped buffer before center-cropping so saved video matches the live preview more closely.",
+  "publishedAt": "2026-06-11T17:39:19Z"
 }
