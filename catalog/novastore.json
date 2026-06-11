@@ -6,15 +6,15 @@
   "publisherName": "Lenomila",
   "category": "Store",
   "channel": "stable",
-  "versionName": "0.2.7",
-  "versionCode": 27,
+  "versionName": "0.2.8",
+  "versionCode": 28,
   "minSdk": 26,
   "targetSdk": 36,
-  "sizeBytes": 12541300,
-  "sha256": "d7f905c66622bf39d19fa35cc1289ee3c8a22989b87f6c673851d64ddc84f5d0",
+  "sizeBytes": 12542318,
+  "sha256": "6e7523a6555c45efe1987aa14534e3242394d4d270b545ef6e98e1f20a8c99e4",
   "signingCertSha256": "115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c",
-  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.7/NovaStore-v0.2.7.apk",
-  "releaseId": "rel_novastore_27",
-  "releaseNotes": "Final hardened restore of NovaStore v0.1.4-style app installs/updates. Adds REQUEST_INSTALL_PACKAGES while staying release-signed and non-debuggable, with no boot or notification permission, no broad package query, and no install-session API. Keeps ACTION_VIEW + APK MIME + FileProvider + explicit installer target + ClipData handoff. Uses jsDelivr signed catalog URLs first, then falls back to GitHub Contents API and raw GitHub if the CDN is stale or unavailable; stale signed self-catalogs are skipped.",
-  "publishedAt": "2026-06-11T13:15:00Z"
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.8/NovaStore-v0.2.8.apk",
+  "releaseId": "rel_novastore_28",
+  "releaseNotes": "Catalog refresh now prefers GitHub Contents API and raw GitHub before jsDelivr, adds runtime ?time=<epochSeconds> cache-busting to GitHub index/signature/app/release fetches, and still verifies signed catalog bytes before trusting metadata. Installer behavior and permissions are unchanged from v0.2.7/v0.3.7.",
+  "publishedAt": "2026-06-11T18:33:20Z"
 }
