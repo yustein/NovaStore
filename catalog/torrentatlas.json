@@ -6,15 +6,15 @@
   "publisherName": "Lenomila",
   "category": "Tools",
   "channel": "stable",
-  "versionName": "0.1.4",
-  "versionCode": 5,
+  "versionName": "0.1.5",
+  "versionCode": 6,
   "minSdk": 26,
   "targetSdk": 36,
-  "sizeBytes": 17929156,
-  "sha256": "fcca8121b6ea7ce6f01a29060195f1fa374dd5917a925d4e1c6deffa50513827",
+  "sizeBytes": 1777753,
+  "sha256": "cc80ddf2dcc17e1cc7007705ee1db51e4f8777a02b7515e023415f39157bc43c",
   "signingCertSha256": "77bd7b32711738bf4837f604e00b8c137675755cbe199611e8612b410d68841f",
-  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/torrentatlas-v0.1.4/TorrentAtlas-v0.1.4.apk",
-  "releaseId": "rel_torrentatlas_5",
-  "releaseNotes": "Hardens the remaining magnet-add crash path by serializing libtorrent operations onto one engine worker thread, returning cached Java snapshots to the UI instead of polling native handles from status refreshes, narrowing libtorrent alert subscriptions, avoiding immediate native resume calls inside add-torrent alerts, and adding a local crash breadcrumb for any remaining Java exception.",
-  "publishedAt": "2026-06-11T22:14:21Z"
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/torrentatlas-v0.1.5/TorrentAtlas-v0.1.5.apk",
+  "releaseId": "rel_torrentatlas_6",
+  "releaseNotes": "Stability hotfix for the v0.1.4 device crash: removes the bundled native libtorrent4j downloader from the APK and switches TorrentAtlas to safe handoff mode. The app can search, save, copy, and open legal torrent/magnet links in another torrent-capable app without loading the native torrent engine.",
+  "publishedAt": "2026-06-11T22:37:06Z"
 }
