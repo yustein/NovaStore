@@ -6,15 +6,15 @@
   "publisherName": "Lenomila",
   "category": "Tools",
   "channel": "stable",
-  "versionName": "0.1.5",
-  "versionCode": 6,
+  "versionName": "0.1.6",
+  "versionCode": 7,
   "minSdk": 26,
   "targetSdk": 36,
-  "sizeBytes": 1777753,
-  "sha256": "cc80ddf2dcc17e1cc7007705ee1db51e4f8777a02b7515e023415f39157bc43c",
+  "sizeBytes": 1778245,
+  "sha256": "7b5c60244a8402f8b16ea0df8f8db24d8fd694ef482d0cbe97e24d032571ba45",
   "signingCertSha256": "77bd7b32711738bf4837f604e00b8c137675755cbe199611e8612b410d68841f",
-  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/torrentatlas-v0.1.5/TorrentAtlas-v0.1.5.apk",
-  "releaseId": "rel_torrentatlas_6",
-  "releaseNotes": "Stability hotfix for the v0.1.4 device crash: removes the bundled native libtorrent4j downloader from the APK and switches TorrentAtlas to safe handoff mode. The app can search, save, copy, and open legal torrent/magnet links in another torrent-capable app without loading the native torrent engine.",
-  "publishedAt": "2026-06-11T22:37:06Z"
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/torrentatlas-v0.1.6/TorrentAtlas-v0.1.6.apk",
+  "releaseId": "rel_torrentatlas_7",
+  "releaseNotes": "Crash hotfix for safe handoff mode: catches external torrent app resolver failures, avoids magnet self-handoff reentry, guards nullable saved/search state, adds startup storage fallback, and keeps the APK free of bundled native libtorrent code.",
+  "publishedAt": "2026-06-11T23:12:10Z"
 }
