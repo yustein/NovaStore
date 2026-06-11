@@ -6,15 +6,15 @@
   "publisherName": "Lenomila",
   "category": "Travel",
   "channel": "stable",
-  "versionName": "0.1.5",
-  "versionCode": 6,
+  "versionName": "0.1.6",
+  "versionCode": 7,
   "minSdk": 26,
   "targetSdk": 36,
-  "sizeBytes": 678178,
-  "sha256": "c4580d64dcd73ef525cf18515d96cd10557097f02cceac8d633b74586e7b312a",
+  "sizeBytes": 678514,
+  "sha256": "90bd37e552eb6dc8917a8e2975377342f0996a4469d1bdf00b779840d74ce395",
   "signingCertSha256": "d7b7bcd3e7f71979811709cbca98e3f984c43cdcf8c96b3ba808ef9972139ec6",
-  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.5/VisitVideoLogger-v0.1.5.apk",
-  "releaseId": "rel_visitvideologger_6",
-  "releaseNotes": "Fixes sideways recorded camera video. The app is now locked to standard landscape instead of sensor-landscape, and the composed MP4 recorder explicitly rotates the camera bitmap 90 degrees left into the 1280x720 landscape canvas while keeping the MP4 orientation metadata at 0 degrees.",
-  "publishedAt": "2026-06-11T16:51:48Z"
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.6/VisitVideoLogger-v0.1.6.apk",
+  "releaseId": "rel_visitvideologger_7",
+  "releaseNotes": "Enables camera stabilization at launch. The rear Camera2 session now turns on optical image stabilization when supported; if optical stabilization is unavailable, it falls back to video/preview stabilization before any recording starts.",
+  "publishedAt": "2026-06-11T17:02:05Z"
 }
