@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T20:36:40Z",
+  "generatedAt": "2026-06-11T21:06:22Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -10,17 +10,17 @@
       "publisherName": "Lenomila",
       "category": "Store",
       "channel": "stable",
-      "versionName": "0.2.9",
-      "versionCode": 29,
+      "versionName": "0.2.10",
+      "versionCode": 30,
       "minSdk": 26,
       "targetSdk": 36,
-      "sizeBytes": 12542118,
-      "sha256": "b1ab06cf418029d6886e4b0f23988574d36d0ec535ebadc386c49f7b0126ca1f",
+      "sizeBytes": 12543136,
+      "sha256": "2f0e2d4de770287081d9849e5901c6f3b5dd96f72af08ec8ac34b835b2d94966",
       "signingCertSha256": "115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.9/NovaStore-v0.2.9.apk",
-      "releaseId": "rel_novastore_29",
-      "releaseNotes": "Installed-state detection now includes Android package visibility for World Cup 2026 and Visit Video Logger, so Android 11+ can report those apps as installed/current instead of hiding them from PackageManager. The release build now refuses catalog packages missing from <queries>.",
-      "publishedAt": "2026-06-11T18:52:53Z"
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.10/NovaStore-v0.2.10.apk",
+      "releaseId": "rel_novastore_30",
+      "releaseNotes": "Adds TorrentAtlas to the signed catalog and Android package visibility queries so the store can list the app and recognize it after install.",
+      "publishedAt": "2026-06-11T21:05:16Z"
     },
     {
       "schemaVersion": 1,
@@ -40,7 +40,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/antikythera-v0.1.1/Antikythera-v0.1.1.apk",
       "releaseId": "rel_antikythera_2",
       "releaseNotes": "Adds the source-honest Antikythera mechanism reconstruction prototype with animated gear/dial surfaces, evidence-tier overlays, and learn/gallery/source views.",
-      "publishedAt": "2026-06-09T18:20:10Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -80,7 +80,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/backgammonlan-v0.1.10/BackgammonLAN-v0.1.10.apk",
       "releaseId": "rel_backgammonlan_11",
       "releaseNotes": "Adds heartbeat-notified LAN backgammon reliability improvements with Android/Windows compatible discovery, reconnect, and board sync behavior.",
-      "publishedAt": "2026-06-09T18:20:10Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -100,7 +100,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/calcfx-v0.1.1/CalcFX-v0.1.1.apk",
       "releaseId": "rel_calcfx_2",
       "releaseNotes": "Publishes the latest CalcFX Android calculator prototype to NovaStore.",
-      "publishedAt": "2026-06-09T18:20:10Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -120,7 +120,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/carpetmeasure-v0.1.9/CarpetMeasure-v0.1.9.apk",
       "releaseId": "rel_carpetmeasure_10",
       "releaseNotes": "Publishes the latest AR carpet measurement prototype with corner measurement and segmentation support.",
-      "publishedAt": "2026-06-09T18:20:10Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -160,7 +160,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/echoatlas-v0.1.5/EchoAtlas-v0.1.5.apk",
       "releaseId": "rel_echoatlas_6",
       "releaseNotes": "Publishes the latest Echo Atlas Android prototype to NovaStore.",
-      "publishedAt": "2026-06-09T18:20:10Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -180,7 +180,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/fileatlas-v0.1.4/FileAtlas-v0.1.4.apk",
       "releaseId": "rel_fileatlas_5",
       "releaseNotes": "Publishes the latest File Atlas Android prototype to NovaStore.",
-      "publishedAt": "2026-06-09T18:20:10Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -200,7 +200,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/gatewayfieldbook-v1.3.0/GatewayFieldbook-v1.3.0.apk",
       "releaseId": "rel_gatewayfieldbook_5",
       "releaseNotes": "Publishes the recovered Gateway Fieldbook v1.3.0 build to NovaStore.",
-      "publishedAt": "2026-06-09T18:20:10Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -260,7 +260,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/quakeglobe-v0.1.7/QuakeGlobe-v0.1.7.apk",
       "releaseId": "rel_quakeglobe_8",
       "releaseNotes": "Publishes the latest Quake Globe earthquake monitor with corrected globe alignment, event picking, alert rules, and source-honest earthquake feeds.",
-      "publishedAt": "2026-06-09T18:20:10Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -280,7 +280,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/resonancefinder-v0.1.0/ResonanceFinder-v0.1.0.apk",
       "releaseId": "rel_resonancefinder_1",
       "releaseNotes": "Publishes the first Resonance Finder Android APK to NovaStore.",
-      "publishedAt": "2026-06-09T18:20:10Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -320,7 +320,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/speedtestlab-v0.1.5/SpeedTestLab-v0.1.5.apk",
       "releaseId": "rel_speedtestlab_6",
       "releaseNotes": "Publishes the latest Speed Test Lab Android prototype to NovaStore.",
-      "publishedAt": "2026-06-09T18:20:10Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -340,7 +340,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/speedcockpit-v0.1.13/SpeedCockpit-v0.1.13.apk",
       "releaseId": "rel_speedcockpit_14",
       "releaseNotes": "Publishes the latest SpeedCockpit build with map cockpit modes, stricter speed-limit display, warning tones, and reduced map tile flicker.",
-      "publishedAt": "2026-06-09T18:20:10Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -360,7 +360,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/turkeytourism-v1.4.7/TurkeyTourism-v1.4.7.apk",
       "releaseId": "rel_turkeytourism_12",
       "releaseNotes": "Publishes the latest Turkey Tourism travel guide prototype to NovaStore.",
-      "publishedAt": "2026-06-09T18:20:10Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -380,7 +380,7 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/wavevid-v0.1.3/WaveVidAndroid-v0.1.3.apk",
       "releaseId": "rel_wavevid_4",
       "releaseNotes": "Publishes the latest WaveVid Android media prototype to NovaStore.",
-      "publishedAt": "2026-06-09T18:20:10Z"
+      "publishedAt": "2026-06-09T17:06:28Z"
     },
     {
       "schemaVersion": 1,
@@ -421,6 +421,26 @@
       "releaseId": "rel_visitvideologger_12",
       "releaseNotes": "Extends automatic recording segments from 1 minute to 3 minutes to reduce boundary hitches, and moves MediaStore/MediaRecorder segment startup off the UI thread onto the recorder worker. Keeps the v0.1.10 fixed-time 30 fps pacing, hardware-canvas fallback, overlay cache, and preview-matching recording geometry.",
       "publishedAt": "2026-06-11T18:33:20Z"
+    },
+    {
+      "schemaVersion": 1,
+      "appRole": "managed",
+      "packageName": "com.lenomila.torrentatlas",
+      "name": "TorrentAtlas",
+      "publisherName": "Lenomila",
+      "category": "Tools",
+      "channel": "stable",
+      "versionName": "0.1.0",
+      "versionCode": 1,
+      "minSdk": 26,
+      "targetSdk": 36,
+      "sizeBytes": 17912772,
+      "sha256": "9d487ece5dd70d158c3cc09f9b014c07a8362646652f364bd49225f0760c9a7e",
+      "signingCertSha256": "77bd7b32711738bf4837f604e00b8c137675755cbe199611e8612b410d68841f",
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/torrentatlas-v0.1.0/TorrentAtlas-v0.1.0.apk",
+      "releaseId": "rel_torrentatlas_1",
+      "releaseNotes": "Adds TorrentAtlas as a legal torrent utility for user-provided magnet links, torrent files, Internet Archive search, official Linux torrent sources, downloads, file browsing, and safe ZIP extraction. It intentionally avoids piracy indexes.",
+      "publishedAt": "2026-06-11T21:00:00Z"
     }
   ]
 }
