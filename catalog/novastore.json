@@ -10,11 +10,11 @@
   "versionCode": 30,
   "minSdk": 26,
   "targetSdk": 36,
-  "sizeBytes": 12543136,
-  "sha256": "2f0e2d4de770287081d9849e5901c6f3b5dd96f72af08ec8ac34b835b2d94966",
+  "sizeBytes": 12542944,
+  "sha256": "f659edbad3fedc3a5791e45c77992cbe8482ea593d3790cca4986bd33dbd71bf",
   "signingCertSha256": "115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c",
   "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.10/NovaStore-v0.2.10.apk",
   "releaseId": "rel_novastore_30",
   "releaseNotes": "Adds TorrentAtlas to the signed catalog and Android package visibility queries so the store can list the app and recognize it after install.",
-  "publishedAt": "2026-06-11T21:05:16Z"
+  "publishedAt": "2026-06-11T21:12:49Z"
 }
