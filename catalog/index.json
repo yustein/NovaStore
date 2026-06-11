@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T16:10:12Z",
+  "generatedAt": "2026-06-11T17:28:10Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -410,17 +410,17 @@
       "publisherName": "Lenomila",
       "category": "Travel",
       "channel": "stable",
-      "versionName": "0.1.7",
-      "versionCode": 8,
+      "versionName": "0.1.8",
+      "versionCode": 9,
       "minSdk": 26,
       "targetSdk": 36,
-      "sizeBytes": 678562,
-      "sha256": "643a58ae4279e590969720c0d23b206087ceac2bc2debd9834c758b0a671662d",
+      "sizeBytes": 680286,
+      "sha256": "f5523f7334ea497bce04b5b9345a16c0fdb24a0e6d3b9aa325a1d3753e68cbbe",
       "signingCertSha256": "d7b7bcd3e7f71979811709cbca98e3f984c43cdcf8c96b3ba808ef9972139ec6",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.7/VisitVideoLogger-v0.1.7.apk",
-      "releaseId": "rel_visitvideologger_8",
-      "releaseNotes": "Tightens the location/map overlay by removing the LOCATION header, moving the location name, GPS coordinates, and local info upward, and giving the scrolling info text more room above the map.",
-      "publishedAt": "2026-06-11T17:14:32Z"
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.8/VisitVideoLogger-v0.1.8.apk",
+      "releaseId": "rel_visitvideologger_9",
+      "releaseNotes": "Adds map location stabilization with stale/poor GPS rejection, jump plausibility checks, speed-aware GPS smoothing, compass/rotation-vector heading at low speed, and gyroscope-assisted heading settling during turns.",
+      "publishedAt": "2026-06-11T17:28:10Z"
     }
   ]
 }
