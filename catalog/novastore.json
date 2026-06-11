@@ -6,15 +6,15 @@
   "publisherName": "Lenomila",
   "category": "Store",
   "channel": "stable",
-  "versionName": "0.2.1",
-  "versionCode": 21,
+  "versionName": "0.2.2",
+  "versionCode": 22,
   "minSdk": 26,
   "targetSdk": 36,
   "sizeBytes": 12539634,
-  "sha256": "1bc2ce5de1a8dcf3ee08d01d98e43b2fec421384e1cd9acb1cc42910fff5b9aa",
+  "sha256": "1f8e936bec95b0443b350cb66366b4fc44f27c4fe8b0d50ab727e0bd2b740d9e",
   "signingCertSha256": "115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c",
-  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.1/NovaStore-v0.2.1.apk",
-  "releaseId": "rel_novastore_21",
-  "releaseNotes": "Restores verified APK download, SHA-256 check, Android installer handoff without app-install permission, installed-app Open buttons, and three-times-daily update checks.",
-  "publishedAt": "2026-06-11T10:55:27Z"
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.2/NovaStore-v0.2.2.apk",
+  "releaseId": "rel_novastore_22",
+  "releaseNotes": "Adds native GitHub catalog and release discovery for new-app checks while keeping verified APK download, Android handoff without app-install permission, installed-app Open buttons, and 8-hour update checks.",
+  "publishedAt": "2026-06-11T11:09:31Z"
 }
