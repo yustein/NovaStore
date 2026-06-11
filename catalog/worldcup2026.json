@@ -6,15 +6,15 @@
   "publisherName": "Lenomila",
   "category": "Sports",
   "channel": "stable",
-  "versionName": "0.1.1",
-  "versionCode": 2,
+  "versionName": "0.1.2",
+  "versionCode": 3,
   "minSdk": 26,
   "targetSdk": 36,
-  "sizeBytes": 673642,
-  "sha256": "f3c522dd3e10f17c2ab87bd5fe042d2821e3bbd25aae0922f4d7ecfe2ab86826",
+  "sizeBytes": 675130,
+  "sha256": "25a0ebe3e97547c981d7ff222fc1ab4ffcdf1779f6574b9233c529731d4ccfe6",
   "signingCertSha256": "574ab287ee443e3c6474aaf8372bce70fc33712dd063bc73198c38139f255243",
-  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/worldcup2026-v0.1.1/WorldCup2026-v0.1.1.apk",
-  "releaseId": "rel_worldcup2026_2",
-  "releaseNotes": "Fixes top Android status bar/system-bar handling and keeps ordinary web, news, highlight, venue, FIFA, ESPN, and YouTube links inside the app with an in-app browser surface and return-to-app navigation. Map links still open in the phone's map app.",
-  "publishedAt": "2026-06-11T13:53:46Z"
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/worldcup2026-v0.1.2/WorldCup2026-v0.1.2.apk",
+  "releaseId": "rel_worldcup2026_3",
+  "releaseNotes": "Fixes fixture presentation against ESPN schedule data: refreshes the live ESPN feed on launch with cache fallback, shows home-vs-away order, hides pre-match 0-0 scores, adds group/knockout stage chips, and links the in-app Schedule button to the ESPN fixture article.",
+  "publishedAt": "2026-06-11T14:09:42Z"
 }
