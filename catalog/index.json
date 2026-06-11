@@ -230,8 +230,8 @@
       "publisherName": "Lenomila",
       "category": "Entertainment",
       "channel": "stable",
-      "versionName": "0.1.2",
-      "versionCode": 3,
+      "versionName": "0.1.3",
+      "versionCode": 4,
       "minSdk": 26,
       "targetSdk": 36,
       "sizeBytes": 48497249,
@@ -410,17 +410,17 @@
       "publisherName": "Lenomila",
       "category": "Travel",
       "channel": "stable",
-      "versionName": "0.1.2",
-      "versionCode": 3,
+      "versionName": "0.1.3",
+      "versionCode": 4,
       "minSdk": 26,
       "targetSdk": 36,
-      "sizeBytes": 676154,
-      "sha256": "c3648c16bba917cabdbbbe07082ea37ed29bc6e10830a19a2f6bcfd09df2390c",
+      "sizeBytes": 676342,
+      "sha256": "6e5f6ac7a0d1f01a010c339b6f2b21d9167fe016f1ba84c1f792f1df31a7fb32",
       "signingCertSha256": "d7b7bcd3e7f71979811709cbca98e3f984c43cdcf8c96b3ba808ef9972139ec6",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.2/VisitVideoLogger-v0.1.2.apk",
-      "releaseId": "rel_visitvideologger_3",
-      "releaseNotes": "Fixes reported v0.1.1 issues: drops composed recording to 720p/30 for lower overhead, writes one-minute finalized MP4 clips for better crash survivability, moves recorder stop/finalization off the UI thread, only reports Saved after MediaRecorder finalizes cleanly, makes the OpenStreetMap panel larger and more opaque, rotates the map direction-up, preloads bounded tiles ahead of movement and around the current area, removes waypoint-like loading marks, stabilizes panel backgrounds, and displays fuller locality hierarchy with country code.",
-      "publishedAt": "2026-06-11T16:10:12Z"
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.3/VisitVideoLogger-v0.1.3.apk",
+      "releaseId": "rel_visitvideologger_4",
+      "releaseNotes": "Fixes landscape-only behavior and recorded video orientation. The app now locks the Activity to landscape-only sensor mode at runtime, refuses to start recording until the camera and overlay surfaces are laid out landscape, and writes every MP4 segment as 1280x720 with a zero-degree orientation hint plus matching MediaStore width, height, and orientation metadata.",
+      "publishedAt": "2026-06-11T16:21:01Z"
     }
   ]
 }
