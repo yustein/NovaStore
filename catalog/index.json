@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T11:34:54Z",
+  "generatedAt": "2026-06-11T15:06:19Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -401,6 +401,26 @@
       "releaseId": "rel_worldcup2026_3",
       "releaseNotes": "Fixes fixture presentation against ESPN schedule data: refreshes the live ESPN feed on launch with cache fallback, shows home-vs-away order, hides pre-match 0-0 scores, adds group/knockout stage chips, and links the in-app Schedule button to the ESPN fixture article.",
       "publishedAt": "2026-06-11T14:09:42Z"
+    },
+    {
+      "schemaVersion": 1,
+      "appRole": "managed",
+      "packageName": "com.lenomila.visitvideologger",
+      "name": "Visit Video Logger",
+      "publisherName": "Lenomila",
+      "category": "Travel",
+      "channel": "stable",
+      "versionName": "0.1.0",
+      "versionCode": 1,
+      "minSdk": 26,
+      "targetSdk": 33,
+      "sizeBytes": 672202,
+      "sha256": "22f87ad6d23a50deb6d991057cc82f257fd0c7bf7b2a288dbe784510a822c3b2",
+      "signingCertSha256": "d7b7bcd3e7f71979811709cbca98e3f984c43cdcf8c96b3ba808ef9972139ec6",
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.0/VisitVideoLogger-v0.1.0.apk",
+      "releaseId": "rel_visitvideologger_1",
+      "releaseNotes": "Adds Visit Video Logger: a fullscreen travel video recorder with rear-camera and microphone capture, 1080p composed-screen recording, OpenStreetMap car overlay with auto zoom, 10-second locality/fact updates, persistent camera zoom controls, and Visit Video Gallery output with sub-five-minute segments.",
+      "publishedAt": "2026-06-11T15:06:19Z"
     }
   ]
 }
