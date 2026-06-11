@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T18:33:20Z",
+  "generatedAt": "2026-06-11T18:52:53Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -10,17 +10,17 @@
       "publisherName": "Lenomila",
       "category": "Store",
       "channel": "stable",
-      "versionName": "0.2.8",
-      "versionCode": 28,
+      "versionName": "0.2.9",
+      "versionCode": 29,
       "minSdk": 26,
       "targetSdk": 36,
-      "sizeBytes": 12542318,
-      "sha256": "6e7523a6555c45efe1987aa14534e3242394d4d270b545ef6e98e1f20a8c99e4",
+      "sizeBytes": 12542118,
+      "sha256": "b1ab06cf418029d6886e4b0f23988574d36d0ec535ebadc386c49f7b0126ca1f",
       "signingCertSha256": "115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.8/NovaStore-v0.2.8.apk",
-      "releaseId": "rel_novastore_28",
-      "releaseNotes": "Catalog refresh now prefers GitHub Contents API and raw GitHub before jsDelivr, adds runtime ?time=<epochSeconds> cache-busting to GitHub index/signature/app/release fetches, and still verifies signed catalog bytes before trusting metadata. Installer behavior and permissions are unchanged from v0.2.7/v0.3.7.",
-      "publishedAt": "2026-06-11T18:33:20Z"
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.9/NovaStore-v0.2.9.apk",
+      "releaseId": "rel_novastore_29",
+      "releaseNotes": "Installed-state detection now includes Android package visibility for World Cup 2026 and Visit Video Logger, so Android 11+ can report those apps as installed/current instead of hiding them from PackageManager. The release build now refuses catalog packages missing from <queries>.",
+      "publishedAt": "2026-06-11T18:52:53Z"
     },
     {
       "schemaVersion": 1,
