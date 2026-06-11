@@ -390,17 +390,17 @@
       "publisherName": "Lenomila",
       "category": "Sports",
       "channel": "stable",
-      "versionName": "0.1.0",
-      "versionCode": 1,
+      "versionName": "0.1.1",
+      "versionCode": 2,
       "minSdk": 26,
       "targetSdk": 36,
-      "sizeBytes": 669338,
-      "sha256": "2119ddeb7e68b666d039e37cdbccadcfb63fdcf5bb3595e2c1f29edb92a5b075",
+      "sizeBytes": 673642,
+      "sha256": "f3c522dd3e10f17c2ab87bd5fe042d2821e3bbd25aae0922f4d7ecfe2ab86826",
       "signingCertSha256": "574ab287ee443e3c6474aaf8372bce70fc33712dd063bc73198c38139f255243",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/worldcup2026-v0.1.0/WorldCup2026-v0.1.0.apk",
-      "releaseId": "rel_worldcup2026_1",
-      "releaseNotes": "Initial World Cup 2026 match center with phone-local kickoff times, all 104 fixtures, live results/statuses, team crests, broadcasts, ESPN news/highlights, venue introductions/photos, video/map links, offline cache, and an 08:00 local daily match brief notification.",
-      "publishedAt": "2026-06-11T12:22:32Z"
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/worldcup2026-v0.1.1/WorldCup2026-v0.1.1.apk",
+      "releaseId": "rel_worldcup2026_2",
+      "releaseNotes": "Fixes top Android status bar/system-bar handling and keeps ordinary web, news, highlight, venue, FIFA, ESPN, and YouTube links inside the app with an in-app browser surface and return-to-app navigation. Map links still open in the phone's map app.",
+      "publishedAt": "2026-06-11T13:53:46Z"
     }
   ]
 }
