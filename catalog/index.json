@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-11T15:24:28Z",
+  "generatedAt": "2026-06-11T16:10:12Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -410,17 +410,17 @@
       "publisherName": "Lenomila",
       "category": "Travel",
       "channel": "stable",
-      "versionName": "0.1.1",
-      "versionCode": 2,
+      "versionName": "0.1.2",
+      "versionCode": 3,
       "minSdk": 26,
       "targetSdk": 36,
-      "sizeBytes": 673154,
-      "sha256": "9004dcdbf3cf4af98a2fb0e20ca8dc7580a8c85d66b930cac8cc6920a1ba7ee2",
+      "sizeBytes": 676154,
+      "sha256": "c3648c16bba917cabdbbbe07082ea37ed29bc6e10830a19a2f6bcfd09df2390c",
       "signingCertSha256": "d7b7bcd3e7f71979811709cbca98e3f984c43cdcf8c96b3ba808ef9972139ec6",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.1/VisitVideoLogger-v0.1.1.apk",
-      "releaseId": "rel_visitvideologger_2",
-      "releaseNotes": "Fixes reported v0.1.0 issues: targets Android SDK 36 to remove the older-version warning, uses SpeedCockpit-style OpenStreetMap tile loading, removes the oversized top status windows, keeps locality names stable while fading wrapped facts, and replaces Android screen-capture selection with direct in-app composed 1080p MP4 recording.",
-      "publishedAt": "2026-06-11T15:24:28Z"
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.2/VisitVideoLogger-v0.1.2.apk",
+      "releaseId": "rel_visitvideologger_3",
+      "releaseNotes": "Fixes reported v0.1.1 issues: drops composed recording to 720p/30 for lower overhead, writes one-minute finalized MP4 clips for better crash survivability, moves recorder stop/finalization off the UI thread, only reports Saved after MediaRecorder finalizes cleanly, makes the OpenStreetMap panel larger and more opaque, rotates the map direction-up, preloads bounded tiles ahead of movement and around the current area, removes waypoint-like loading marks, stabilizes panel backgrounds, and displays fuller locality hierarchy with country code.",
+      "publishedAt": "2026-06-11T16:10:12Z"
     }
   ]
 }
