@@ -6,15 +6,15 @@
   "publisherName": "Lenomila",
   "category": "Travel",
   "channel": "stable",
-  "versionName": "0.1.4",
-  "versionCode": 5,
+  "versionName": "0.1.5",
+  "versionCode": 6,
   "minSdk": 26,
   "targetSdk": 36,
-  "sizeBytes": 678246,
-  "sha256": "b7e5cc8c49043ec06ecf87490c7afd54d4c9d60a2a9ec7f7f9048576026af57c",
+  "sizeBytes": 678178,
+  "sha256": "c4580d64dcd73ef525cf18515d96cd10557097f02cceac8d633b74586e7b312a",
   "signingCertSha256": "d7b7bcd3e7f71979811709cbca98e3f984c43cdcf8c96b3ba808ef9972139ec6",
-  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.4/VisitVideoLogger-v0.1.4.apk",
-  "releaseId": "rel_visitvideologger_5",
-  "releaseNotes": "Fixes overlay readability and map resilience. Removes the on-screen Gallery and status/Ready panels, lowers locality typography, joins the location and map backgrounds, scrolls longer fun facts vertically, adds an in-map compass, starts tile prefetch as soon as GPS location is available, improves speed-sensitive zoom, increases in-memory tile cache, stores OSM tiles on disk, retries failed tiles sooner, and draws cached parent tiles/placeholders so the map does not go black while exact tiles load.",
-  "publishedAt": "2026-06-11T16:35:04Z"
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.5/VisitVideoLogger-v0.1.5.apk",
+  "releaseId": "rel_visitvideologger_6",
+  "releaseNotes": "Fixes sideways recorded camera video. The app is now locked to standard landscape instead of sensor-landscape, and the composed MP4 recorder explicitly rotates the camera bitmap 90 degrees left into the 1280x720 landscape canvas while keeping the MP4 orientation metadata at 0 degrees.",
+  "publishedAt": "2026-06-11T16:51:48Z"
 }
