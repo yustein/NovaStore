@@ -6,15 +6,15 @@
   "publisherName": "Lenomila",
   "category": "Media",
   "channel": "stable",
-  "versionName": "0.1.23",
-  "versionCode": 24,
+  "versionName": "0.1.24",
+  "versionCode": 25,
   "minSdk": 26,
   "targetSdk": 36,
-  "sizeBytes": 30942765,
-  "sha256": "0a0553798729f041cdc18aa454da2bad9ac67afdb035f4372ccc974d66dda2db",
+  "sizeBytes": 30942897,
+  "sha256": "1958c4ff905d867c3c29359258b0099f7dddc8bc50394694b2e587406443c56e",
   "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
-  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/muzoplay-v0.1.23/MuzoPlay-v0.1.23.apk",
-  "releaseId": "rel_muzoplay_24",
-  "releaseNotes": "Adds the latest MuzoPlay IPTV player build with dense browsing, VLC fallback, VOD search, subtitle/audio controls, and fullscreen improvements.",
-  "publishedAt": "2026-06-09T17:06:28Z"
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/muzoplay-v0.1.24/MuzoPlay-v0.1.24.apk",
+  "releaseId": "rel_muzoplay_25",
+  "releaseNotes": "Keeps the screen awake while MuzoPlay is foregrounded, covering normal browsing, fullscreen playback, Media3, and VLC software-decoder surfaces. No new Android permissions.",
+  "publishedAt": "2026-06-11T19:56:44Z"
 }
