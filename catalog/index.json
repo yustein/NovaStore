@@ -381,6 +381,26 @@
       "releaseId": "rel_wavevid_4",
       "releaseNotes": "Publishes the latest WaveVid Android media prototype to NovaStore.",
       "publishedAt": "2026-06-09T18:20:10Z"
+    },
+    {
+      "schemaVersion": 1,
+      "appRole": "managed",
+      "packageName": "com.lenomila.worldcup2026",
+      "name": "World Cup 2026",
+      "publisherName": "Lenomila",
+      "category": "Sports",
+      "channel": "stable",
+      "versionName": "0.1.0",
+      "versionCode": 1,
+      "minSdk": 26,
+      "targetSdk": 36,
+      "sizeBytes": 669338,
+      "sha256": "2119ddeb7e68b666d039e37cdbccadcfb63fdcf5bb3595e2c1f29edb92a5b075",
+      "signingCertSha256": "574ab287ee443e3c6474aaf8372bce70fc33712dd063bc73198c38139f255243",
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/worldcup2026-v0.1.0/WorldCup2026-v0.1.0.apk",
+      "releaseId": "rel_worldcup2026_1",
+      "releaseNotes": "Initial World Cup 2026 match center with phone-local kickoff times, all 104 fixtures, live results/statuses, team crests, broadcasts, ESPN news/highlights, venue introductions/photos, video/map links, offline cache, and an 08:00 local daily match brief notification.",
+      "publishedAt": "2026-06-11T12:22:32Z"
     }
   ]
 }
