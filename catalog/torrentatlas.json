@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "appRole": "managed",
+  "packageName": "com.lenomila.torrentatlas",
+  "name": "TorrentAtlas",
+  "publisherName": "Lenomila",
+  "category": "Tools",
+  "channel": "stable",
+  "versionName": "0.1.0",
+  "versionCode": 1,
+  "minSdk": 26,
+  "targetSdk": 36,
+  "sizeBytes": 17912772,
+  "sha256": "9d487ece5dd70d158c3cc09f9b014c07a8362646652f364bd49225f0760c9a7e",
+  "signingCertSha256": "77bd7b32711738bf4837f604e00b8c137675755cbe199611e8612b410d68841f",
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/torrentatlas-v0.1.0/TorrentAtlas-v0.1.0.apk",
+  "releaseId": "rel_torrentatlas_1",
+  "releaseNotes": "Adds TorrentAtlas as a legal torrent utility for user-provided magnet links, torrent files, Internet Archive search, official Linux torrent sources, downloads, file browsing, and safe ZIP extraction. It intentionally avoids piracy indexes.",
+  "publishedAt": "2026-06-11T21:00:00Z"
+}
