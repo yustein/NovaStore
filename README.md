@@ -9,7 +9,7 @@ This repository is the Phase 0/1 foundation from `docs/novastore_ai_coding_agent
 - `services/api`: NestJS API shell with health, catalog, app admin CRUD, release state transitions, update checks, download tickets, device registration, telemetry, RBAC placeholders, audit logs, Prisma schema, and tests.
 - `services/worker`: BullMQ worker shell for future artifact processing.
 - `apps/admin-console`: Next.js publisher console shell.
-- `apps/android-store-client`: Kotlin Compose Android client with GitHub catalog checks for managed apps, update notifications, pinned SHA-256/signing metadata, and browser download handoff.
+- `apps/android-store-client`: Kotlin Compose Android client with signed GitHub catalog checks for managed apps, update notifications, pinned SHA-256/signing metadata, and browser download handoff.
 - `hosting`: public catalog metadata mirrored to `https://github.com/yustein/NovaStore`.
 - `samples/sample-android-app`: signed debug sample app for future install-flow testing.
 - `infra/docker-compose.yml`: PostgreSQL, Redis, MinIO, API, worker, and admin services for local development.
@@ -51,7 +51,7 @@ gradle :app:assembleDebug --no-daemon
 
 ## Safety Notes
 
-NovaStore does not silently install apps. The v0.1.13 Android client no longer requests Android's package-install permission and no longer hands APK files directly to the package installer; it opens GitHub-hosted APK downloads in the browser so Android and Play Protect own the install prompt. The client still pins APK SHA-256, size, and signing metadata in the public catalog, checks GitHub raw-content catalog data whenever NovaStore returns to the foreground and three times a day in the background, supports pull-to-refresh on Apps and Updates, opens update notifications directly to the Updates tab, includes a proper adaptive launcher icon, and uses real installed-app launcher icons plus bundled app-specific catalog art in app rows. Server-side artifact parsing and promotion are still future work for new uploads.
+NovaStore does not silently install apps. The v0.1.14 Android client verifies `catalog/index.json` against a detached RSA/SHA-256 signature before caching remote release metadata. It does not request Android's package-install permission and does not hand APK files directly to the package installer; it opens GitHub-hosted APK downloads in the browser so Android and Play Protect own the install prompt. The client still pins APK SHA-256, size, and signing metadata in the public catalog, checks GitHub raw-content catalog data whenever NovaStore returns to the foreground and three times a day in the background, supports pull-to-refresh on Apps and Updates, opens update notifications directly to the Updates tab, includes a proper adaptive launcher icon, and uses real installed-app launcher icons plus bundled app-specific catalog art in app rows. Server-side artifact parsing and promotion are still future work for new uploads.
 
 ## Useful Endpoints
 
