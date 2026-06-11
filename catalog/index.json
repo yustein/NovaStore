@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T19:45:19Z",
+  "generatedAt": "2026-06-11T07:54:20Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -221,6 +221,26 @@
       "releaseId": "rel_muzoplay_24",
       "releaseNotes": "Adds the latest MuzoPlay IPTV player build with dense browsing, VLC fallback, VOD search, subtitle/audio controls, and fullscreen improvements.",
       "publishedAt": "2026-06-09T18:20:10Z"
+    },
+    {
+      "schemaVersion": 1,
+      "appRole": "managed",
+      "packageName": "com.lenomila.phantomxray",
+      "name": "PhantomXRay",
+      "publisherName": "Lenomila",
+      "category": "Entertainment",
+      "channel": "stable",
+      "versionName": "0.1.0",
+      "versionCode": 1,
+      "minSdk": 26,
+      "targetSdk": 36,
+      "sizeBytes": 48899663,
+      "sha256": "ed0f40abd12cb33c003f8417938e421ee6befa49540a40cff76e250106577762",
+      "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/phantomxray-v0.1.0/PhantomXRay-v0.1.0.apk",
+      "releaseId": "rel_phantomxray_1",
+      "releaseNotes": "Publishes the first PhantomXRay camera AR prototype with real-time on-device pose/face tracking and transparent spooky skeleton/skull overlays.",
+      "publishedAt": "2026-06-11T07:54:20Z"
     },
     {
       "schemaVersion": 1,

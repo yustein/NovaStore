@@ -6,8 +6,8 @@ NovaStore clients fetch `catalog/index.json`, verify APK SHA-256 after download,
 
 ## Catalog Summary
 
-- Generated: `2026-06-09T17:27:39Z`
-- Apps: `18` total (`1` store app, `17` managed apps)
+- Generated: `2026-06-11T07:54:20Z`
+- Apps: `19` total (`1` store app, `18` managed apps)
 - Excluded: companion sample APKs, Windows packages, recovered duplicate projects, and AAB-only artifacts.
 
 ## NovaStore App
@@ -112,6 +112,15 @@ NovaStore is the private Android app store client. It installs and updates our o
 - APK SHA-256: `0a0553798729f041cdc18aa454da2bad9ac67afdb035f4372ccc974d66dda2db`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
+### PhantomXRay
+
+- Package: `com.lenomila.phantomxray`
+- Category: `Entertainment`
+- Version: `0.1.0` / code `1`
+- Download: <https://github.com/yustein/NovaStore/releases/download/phantomxray-v0.1.0/PhantomXRay-v0.1.0.apk>
+- APK SHA-256: `ed0f40abd12cb33c003f8417938e421ee6befa49540a40cff76e250106577762`
+- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
+
 ### Quake Globe
 
 - Package: `com.lenomila.quakeglobe`
@@ -174,7 +183,6 @@ NovaStore is the private Android app store client. It installs and updates our o
 - Download: <https://github.com/yustein/NovaStore/releases/download/wavevid-v0.1.3/WaveVidAndroid-v0.1.3.apk>
 - APK SHA-256: `a1995b27a22afaddbec35177e150cbf10c15ffbcf1285730c5868e7c24f0e1a7`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
-
 ## Manifests
 
 - Full catalog: `catalog/index.json`
@@ -189,6 +197,7 @@ NovaStore is the private Android app store client. It installs and updates our o
 - File Atlas: `catalog/fileatlas.json`
 - Gateway Fieldbook: `catalog/gatewayfieldbook.json`
 - MuzoPlay: `catalog/muzoplay.json`
+- PhantomXRay: `catalog/phantomxray.json`
 - Quake Globe: `catalog/quakeglobe.json`
 - Resonance Finder: `catalog/resonancefinder.json`
 - Resonance Lab: `catalog/resonancelab.json`
