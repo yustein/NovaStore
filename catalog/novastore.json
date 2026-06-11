@@ -6,15 +6,15 @@
   "publisherName": "Lenomila",
   "category": "Store",
   "channel": "stable",
-  "versionName": "0.1.11",
-  "versionCode": 12,
+  "versionName": "0.1.12",
+  "versionCode": 13,
   "minSdk": 26,
   "targetSdk": 36,
-  "sizeBytes": 18534615,
-  "sha256": "073613b416a0396e6de98c8575b081aeb0073693a323e8ddcfb4821a985cb591",
+  "sizeBytes": 18535628,
+  "sha256": "c32b356b91b2754ef0925d35d2ba0bea7fe8d98460a4828b6924820f707696ac",
   "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
-  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.11/NovaStore-v0.1.11.apk",
-  "releaseId": "rel_novastore_12",
-  "releaseNotes": "Refreshes installed-app state from Android package changes so newly installed apps show as installed without restarting NovaStore.",
-  "publishedAt": "2026-06-09T19:31:31Z"
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.12/NovaStore-v0.1.12.apk",
+  "releaseId": "rel_novastore_13",
+  "releaseNotes": "Adds PhantomXRay package visibility, bundled catalog icon art, and built-in fallback catalog metadata so the store recognizes the new AR app cleanly.",
+  "publishedAt": "2026-06-11T08:03:11Z"
 }
