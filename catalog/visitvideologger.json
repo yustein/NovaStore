@@ -6,15 +6,15 @@
   "publisherName": "Lenomila",
   "category": "Travel",
   "channel": "stable",
-  "versionName": "0.1.9",
-  "versionCode": 10,
+  "versionName": "0.1.10",
+  "versionCode": 11,
   "minSdk": 26,
   "targetSdk": 36,
-  "sizeBytes": 680554,
-  "sha256": "47997a16a457b7481f9265efed2a3217c90205960da58c3a1f0564e180a098df",
+  "sizeBytes": 681426,
+  "sha256": "d625582cfe9e029919284d9a00290298ab4a23e49701b26edfb6df2406792bff",
   "signingCertSha256": "d7b7bcd3e7f71979811709cbca98e3f984c43cdcf8c96b3ba808ef9972139ec6",
-  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.9/VisitVideoLogger-v0.1.9.apk",
-  "releaseId": "rel_visitvideologger_10",
-  "releaseNotes": "Fixes recording aspect matching: the MP4 encoder canvas now follows the current landscape preview aspect, MediaStore records the matching dimensions, bitrate scales with frame area, and the camera source rotates from a portrait-shaped buffer before center-cropping so saved video matches the live preview more closely.",
-  "publishedAt": "2026-06-11T17:39:19Z"
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.10/VisitVideoLogger-v0.1.10.apk",
+  "releaseId": "rel_visitvideologger_11",
+  "releaseNotes": "Improves recording frame rate and smoothness with fixed-time 30 fps pacing, hardware recorder canvas when available, cached map/info overlay rendering, aspect-preserving recording dimensions under roughly the previous 720p pixel budget, and smaller camera bitmap readback buffers.",
+  "publishedAt": "2026-06-11T17:58:23Z"
 }
