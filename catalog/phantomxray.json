@@ -16,5 +16,6 @@
   "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/phantomxray-v0.1.2/PhantomXRay-v0.1.2.apk",
   "releaseId": "rel_phantomxray_3",
   "releaseNotes": "Updates PhantomXRay with a more biological skeleton overlay: skull, clavicles, ribs, pelvis, joint capsules, and paired limb bones read less like prop bones over the camera.",
-  "publishedAt": "2026-06-11T10:43:41Z"
+  "publishedAt": "2026-06-11T10:43:41Z",
+  "description": "PhantomXRay is an entertainment camera AR app that overlays a stylized skeleton and skull effect on people in the camera preview. It uses on-device pose/face tracking for spooky visual play and is not medical imaging, diagnosis, security scanning, or a real X-ray tool."
 }
