@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-12T16:28:27Z",
+  "generatedAt": "2026-06-12T17:20:08Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -75,18 +75,18 @@
       "publisherName": "Lenomila",
       "category": "Weather",
       "channel": "stable",
-      "versionName": "3.0.25",
-      "versionCode": 62,
+      "versionName": "3.0.28",
+      "versionCode": 65,
       "minSdk": 26,
       "targetSdk": 35,
-      "sizeBytes": 2415102,
-      "sha256": "054f6cf898cd0cadb7dca1717151f5b869063afdf41110b9da22b6ba6e62486d",
+      "sizeBytes": 2416990,
+      "sha256": "009e26bd175880436842c27b9ede4d3afb0cd8351888ad8292def6e6a7efb1cb",
       "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.25/AuroraWeather-v3.0.25.apk",
-      "releaseId": "rel_auroraweather_62",
-      "releaseNotes": "Adds real automatic current-location weather updates: the app watches foreground Android location changes, checks fresh last-known device location on startup/resume, honors Auto-detect location, and refreshes after meaningful movement.",
-      "publishedAt": "2026-06-11T20:51:19Z",
-      "description": "Aurora Weather is a local weather app focused on clear current conditions, forecasts, rain awareness, and location-aware updates. It can follow the phone's current position, refresh weather after movement, cache recent results, and support practical daily/weather-alert workflows without requiring an account."
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.28/AuroraWeather-v3.0.28.apk",
+      "releaseId": "rel_auroraweather_65",
+      "releaseNotes": "Fixes home-screen widget current-location refresh: the widget now resolves a fresh Android network/GPS location before fetching weather, bypasses the normal refresh throttle after meaningful movement, and keeps retrying with a clear location-waiting state instead of silently using an old cached coordinate.",
+      "publishedAt": "2026-06-12T17:19:23Z",
+      "description": "Aurora Weather is a local weather app focused on clear current conditions, forecasts, rain awareness, widgets, and location-aware updates. It can follow the phone's current position, actively refresh widget weather after movement, cache recent results, and support practical daily/weather-alert workflows without requiring an account."
     },
     {
       "schemaVersion": 1,
