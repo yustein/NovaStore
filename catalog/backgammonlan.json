@@ -16,5 +16,6 @@
   "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/backgammonlan-v0.1.10/BackgammonLAN-v0.1.10.apk",
   "releaseId": "rel_backgammonlan_11",
   "releaseNotes": "Adds heartbeat-notified LAN backgammon reliability improvements with Android/Windows compatible discovery, reconnect, and board sync behavior.",
-  "publishedAt": "2026-06-09T17:06:28Z"
+  "publishedAt": "2026-06-09T17:06:28Z",
+  "description": "Backgammon LAN is a local-network backgammon game for Android and Windows players on the same LAN. It provides a playable board, dice, legal move handling, match state sync, reconnect behavior, and local discovery so two devices can play directly without an online account."
 }
