@@ -16,5 +16,6 @@
   "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/worldcup2026-v0.1.3/WorldCup2026-v0.1.3.apk",
   "releaseId": "rel_worldcup2026_4",
   "releaseNotes": "Fixes ESPN kickoff parsing for minute-precision UTC schedule times, so all 104 fixtures display real dates/times in the phone local timezone. Fixture rows and daily briefs now show the timezone abbreviation.",
-  "publishedAt": "2026-06-11T19:11:47Z"
+  "publishedAt": "2026-06-11T19:11:47Z",
+  "description": "World Cup 2026 is a tournament companion for fixtures, kickoff times, teams, venues, match status, results, news, and daily brief-style schedule checks. It is designed to show real local-time match information and open related web content inside the app."
 }
