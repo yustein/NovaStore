@@ -6,15 +6,15 @@
   "publisherName": "Lenomila",
   "category": "Tools",
   "channel": "stable",
-  "versionName": "0.1.6",
-  "versionCode": 7,
+  "versionName": "0.1.7",
+  "versionCode": 8,
   "minSdk": 26,
   "targetSdk": 36,
-  "sizeBytes": 1778245,
-  "sha256": "7b5c60244a8402f8b16ea0df8f8db24d8fd694ef482d0cbe97e24d032571ba45",
+  "sizeBytes": 3961473,
+  "sha256": "ae953e8131b4698817b77360f8f57319ab9dfe1f6f64070c422b4e3e19b60aad",
   "signingCertSha256": "77bd7b32711738bf4837f604e00b8c137675755cbe199611e8612b410d68841f",
-  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/torrentatlas-v0.1.6/TorrentAtlas-v0.1.6.apk",
-  "releaseId": "rel_torrentatlas_7",
-  "releaseNotes": "Crash hotfix for safe handoff mode: catches external torrent app resolver failures, avoids magnet self-handoff reentry, guards nullable saved/search state, adds startup storage fallback, and keeps the APK free of bundled native libtorrent code.",
-  "publishedAt": "2026-06-11T23:12:10Z"
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/torrentatlas-v0.1.7/TorrentAtlas-v0.1.7.apk",
+  "releaseId": "rel_torrentatlas_8",
+  "releaseNotes": "Restores real in-app torrent downloading with a pure-Java BitTorrent engine, removes the crash-prone native libtorrent/libtorrent4j payload, routes magnet and .torrent URL adds into the internal engine, caps .torrent metadata fetches, and keeps cached Java download rows for UI refreshes.",
+  "publishedAt": "2026-06-12T04:49:51Z"
 }
