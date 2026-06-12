@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "appRole": "managed",
+  "packageName": "com.lenomila.solarflyover",
+  "name": "Solar Flyover",
+  "publisherName": "Lenomila",
+  "category": "Science",
+  "channel": "stable",
+  "versionName": "0.1.0",
+  "versionCode": 1,
+  "minSdk": 26,
+  "targetSdk": 36,
+  "sizeBytes": 665550,
+  "sha256": "fe42182dd304131463c54c50b047eb1b2a6901dd002445e5856b1ce3a72bc4c9",
+  "signingCertSha256": "000c29c806e7c126947e4289a3ca7c4e6a3331f883f22d819ff544a43a6199e0",
+  "releaseId": "rel_solarflyover_1",
+  "releaseNotes": "First practical accurate Solar Flyover release with offline realtime planet positions, 3D flyover navigation, labels, orbit trails, time controls, Earth/selected-body centering, and accurate/compressed distance modes.",
+  "publishedAt": "2026-06-12T14:00:18Z",
+  "description": "Solar Flyover is an offline 3D solar system model built for practical accuracy. It computes realtime or accelerated planet positions from JPL/NASA-style orbital elements, lets users fly around the system, inspect planets, follow Earth or selected bodies, view orbit trails, and switch between accurate AU distances and a phone-friendly compressed display.",
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/solarflyover-v0.1.0/SolarFlyover-v0.1.0.apk"
+}
