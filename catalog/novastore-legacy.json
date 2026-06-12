@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "appRole": "store",
+  "packageName": "com.novastore.client",
+  "name": "NovaStore",
+  "publisherName": "Lenomila",
+  "category": "Store compatibility",
+  "channel": "stable",
+  "versionName": "0.1.14",
+  "versionCode": 15,
+  "minSdk": 26,
+  "targetSdk": 36,
+  "sizeBytes": 12519738,
+  "sha256": "9b2218469afd71809942bab1ca0ada4414f87cae2083d97e3fda960195c5b547",
+  "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.14/NovaStore-v0.1.14.apk",
+  "releaseId": "rel_novastore_legacy_15",
+  "releaseNotes": "Final compatibility update for legacy NovaStore installs that still use package com.novastore.client. Install this same-package update first, then install the modern com.lenomila.novastore NovaStore line if it is not already present.",
+  "publishedAt": "2026-06-12T10:20:00Z",
+  "updatedAt": "2026-06-12T10:20:00Z",
+  "description": "This NovaStore entry is a compatibility bridge for older NovaStore 0.1.x installations that used the original com.novastore.client package. It lets those installs update to the final old-package build before moving to the modern NovaStore package."
+}
