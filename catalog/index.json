@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-12T09:26:16Z",
+  "generatedAt": "2026-06-12T09:44:33Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -22,7 +22,7 @@
       "releaseNotes": "Fixes NovaStore self-update detection for installed v0.2.10 clients by accepting both raw RSA detached catalog signatures and Base64 text signatures. The public catalog signature is Base64-compatible again so older clients can verify the catalog, see this update, and move onto the dual-format verifier.",
       "publishedAt": "2026-06-12T09:26:16Z",
       "updatedAt": "2026-06-12T09:26:16Z",
-      "description": "Private Android app store for signed GitHub-hosted APK releases and managed app updates."
+      "description": "NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, checks installed versions, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval."
     },
     {
       "schemaVersion": 1,
@@ -42,7 +42,8 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/antikythera-v0.1.1/Antikythera-v0.1.1.apk",
       "releaseId": "rel_antikythera_2",
       "releaseNotes": "Adds the source-honest Antikythera mechanism reconstruction prototype with animated gear/dial surfaces, evidence-tier overlays, and learn/gallery/source views.",
-      "publishedAt": "2026-06-09T17:06:28Z"
+      "publishedAt": "2026-06-09T17:06:28Z",
+      "description": "Antikythera is an interactive reconstruction and learning tool for the ancient Antikythera mechanism. It lets you operate a 3D-style gear-and-dial model, change time, inspect calendar and eclipse-cycle readouts, and compare evidence-backed parts with more speculative reconstruction layers."
     },
     {
       "schemaVersion": 1,
@@ -62,7 +63,8 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.25/AuroraWeather-v3.0.25.apk",
       "releaseId": "rel_auroraweather_62",
       "releaseNotes": "Adds real automatic current-location weather updates: the app watches foreground Android location changes, checks fresh last-known device location on startup/resume, honors Auto-detect location, and refreshes after meaningful movement.",
-      "publishedAt": "2026-06-11T20:51:19Z"
+      "publishedAt": "2026-06-11T20:51:19Z",
+      "description": "Aurora Weather is a local weather app focused on clear current conditions, forecasts, rain awareness, and location-aware updates. It can follow the phone's current position, refresh weather after movement, cache recent results, and support practical daily/weather-alert workflows without requiring an account."
     },
     {
       "schemaVersion": 1,
@@ -82,7 +84,8 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/backgammonlan-v0.1.10/BackgammonLAN-v0.1.10.apk",
       "releaseId": "rel_backgammonlan_11",
       "releaseNotes": "Adds heartbeat-notified LAN backgammon reliability improvements with Android/Windows compatible discovery, reconnect, and board sync behavior.",
-      "publishedAt": "2026-06-09T17:06:28Z"
+      "publishedAt": "2026-06-09T17:06:28Z",
+      "description": "Backgammon LAN is a local-network backgammon game for Android and Windows players on the same LAN. It provides a playable board, dice, legal move handling, match state sync, reconnect behavior, and local discovery so two devices can play directly without an online account."
     },
     {
       "schemaVersion": 1,
@@ -102,7 +105,8 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/calcfx-v0.1.1/CalcFX-v0.1.1.apk",
       "releaseId": "rel_calcfx_2",
       "releaseNotes": "Publishes the latest CalcFX Android calculator prototype to NovaStore.",
-      "publishedAt": "2026-06-09T17:06:28Z"
+      "publishedAt": "2026-06-09T17:06:28Z",
+      "description": "CalcFX combines a polished scientific calculator with a currency exchange workspace. It supports expression preview, memory, history, degree/radian mode, advanced functions, reusable results, currency pair selection, rate refresh, offline/stale-rate display, and favorite comparison currencies."
     },
     {
       "schemaVersion": 1,
@@ -122,7 +126,8 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/carpetmeasure-v0.1.9/CarpetMeasure-v0.1.9.apk",
       "releaseId": "rel_carpetmeasure_10",
       "releaseNotes": "Publishes the latest AR carpet measurement prototype with corner measurement and segmentation support.",
-      "publishedAt": "2026-06-09T17:06:28Z"
+      "publishedAt": "2026-06-09T17:06:28Z",
+      "description": "Carpet Measure is an AR measurement prototype for estimating carpet and floor dimensions with the phone camera. It helps mark corners, inspect measured spans, and work toward area estimates using ARCore-style spatial tracking and segmentation-assisted measurement workflows."
     },
     {
       "schemaVersion": 1,
@@ -142,7 +147,8 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/clawdeck-v1.0.26/ClawDeck-v1.0.26.apk",
       "releaseId": "rel_clawdeck_27",
       "releaseNotes": "Keeps live OpenClaw chat sessions running in the background with a foreground chat service and partial wake lock.",
-      "publishedAt": "2026-06-09T19:45:19Z"
+      "publishedAt": "2026-06-09T19:45:19Z",
+      "description": "ClawDeck is an Android-first OpenClaw operations console. It keeps saved server targets, SSH command surfaces, safe command templates, local operator notes, chat with OpenClaw, background chat keepalive, logs, redaction, and a setup flow for managing Tony's own infrastructure from a phone."
     },
     {
       "schemaVersion": 1,
@@ -162,7 +168,8 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/echoatlas-v0.1.5/EchoAtlas-v0.1.5.apk",
       "releaseId": "rel_echoatlas_6",
       "releaseNotes": "Publishes the latest Echo Atlas Android prototype to NovaStore.",
-      "publishedAt": "2026-06-09T17:06:28Z"
+      "publishedAt": "2026-06-09T17:06:28Z",
+      "description": "Echo Atlas is an experimental sensor-driven exploration game. It blends touch, motion, microphone, camera light, GPS, battery, and device-state signals into an anomaly-hunting interface where the player tunes signals, stabilizes or harvests discoveries, and reads changing visual feedback."
     },
     {
       "schemaVersion": 1,
@@ -182,7 +189,8 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/fileatlas-v0.1.4/FileAtlas-v0.1.4.apk",
       "releaseId": "rel_fileatlas_5",
       "releaseNotes": "Publishes the latest File Atlas Android prototype to NovaStore.",
-      "publishedAt": "2026-06-09T17:06:28Z"
+      "publishedAt": "2026-06-09T17:06:28Z",
+      "description": "File Atlas is a phone file manager for browsing local storage with a practical dashboard, folders, file categories, search, sort modes, recent/storage context, file details, open/share actions, rename, delete, and path copying. It is designed for direct on-device file work."
     },
     {
       "schemaVersion": 1,
@@ -202,7 +210,8 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/gatewayfieldbook-v1.3.0/GatewayFieldbook-v1.3.0.apk",
       "releaseId": "rel_gatewayfieldbook_5",
       "releaseNotes": "Publishes the recovered Gateway Fieldbook v1.3.0 build to NovaStore.",
-      "publishedAt": "2026-06-09T17:06:28Z"
+      "publishedAt": "2026-06-09T17:06:28Z",
+      "description": "Gateway Fieldbook is a field journal and training companion rebuilt from Tony's recovered APK. It includes focus timers, guided sessions, tone/audio exercises, profile and log tools, remote-viewing style practice targets, and structured notes for recording observations during sessions."
     },
     {
       "schemaVersion": 1,
@@ -222,7 +231,8 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/muzoplay-v0.1.24/MuzoPlay-v0.1.24.apk",
       "releaseId": "rel_muzoplay_25",
       "releaseNotes": "Keeps the screen awake while MuzoPlay is foregrounded, covering normal browsing, fullscreen playback, Media3, and VLC software-decoder surfaces. No new Android permissions.",
-      "publishedAt": "2026-06-11T19:56:44Z"
+      "publishedAt": "2026-06-11T19:56:44Z",
+      "description": "MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports M3U/M3U8 and XMLTV-style guide data, plays streams with Media3/ExoPlayer, supports favorites and search, and intentionally includes no bundled channels, subscriptions, provider credentials, or public stream lists."
     },
     {
       "schemaVersion": 1,
@@ -242,7 +252,8 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/phantomxray-v0.1.2/PhantomXRay-v0.1.2.apk",
       "releaseId": "rel_phantomxray_3",
       "releaseNotes": "Updates PhantomXRay with a more biological skeleton overlay: skull, clavicles, ribs, pelvis, joint capsules, and paired limb bones read less like prop bones over the camera.",
-      "publishedAt": "2026-06-11T10:43:41Z"
+      "publishedAt": "2026-06-11T10:43:41Z",
+      "description": "PhantomXRay is an entertainment camera AR app that overlays a stylized skeleton and skull effect on people in the camera preview. It uses on-device pose/face tracking for spooky visual play and is not medical imaging, diagnosis, security scanning, or a real X-ray tool."
     },
     {
       "schemaVersion": 1,
@@ -262,7 +273,8 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/quakeglobe-v0.1.7/QuakeGlobe-v0.1.7.apk",
       "releaseId": "rel_quakeglobe_8",
       "releaseNotes": "Publishes the latest Quake Globe earthquake monitor with corrected globe alignment, event picking, alert rules, and source-honest earthquake feeds.",
-      "publishedAt": "2026-06-09T17:06:28Z"
+      "publishedAt": "2026-06-09T17:06:28Z",
+      "description": "Quake Globe is an earthquake monitor with a live 3D globe, recent USGS earthquake feeds, selectable event markers, event details, and configurable local notifications. It visualizes magnitude, depth, location, and recency while keeping alerts local and source-honest."
     },
     {
       "schemaVersion": 1,
@@ -282,7 +294,8 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/resonancefinder-v0.1.0/ResonanceFinder-v0.1.0.apk",
       "releaseId": "rel_resonancefinder_1",
       "releaseNotes": "Publishes the first Resonance Finder Android APK to NovaStore.",
-      "publishedAt": "2026-06-09T17:06:28Z"
+      "publishedAt": "2026-06-09T17:06:28Z",
+      "description": "Resonance Finder is a science prototype for exploring frequency, vibration, and resonance ideas on Android. It is intended as a lightweight companion for finding or thinking through resonant behavior, experiments, and signal relationships rather than as a calibrated laboratory instrument."
     },
     {
       "schemaVersion": 1,
@@ -302,7 +315,8 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/resonancelab-v0.1.3/ResonanceLab-v0.1.3.apk",
       "releaseId": "rel_resonancelab_4",
       "releaseNotes": "Publishes the latest Resonance Lab acoustic prototype to NovaStore.",
-      "publishedAt": "2026-06-09T17:06:28Z"
+      "publishedAt": "2026-06-09T17:06:28Z",
+      "description": "Resonance Lab is an acoustic resonance field prototype. It plays controlled sine sweeps, records microphone response, estimates the strongest local response peak, and can play detected frequencies back with steady, pulsed, or wobbling output for visible small-object experiments."
     },
     {
       "schemaVersion": 1,
@@ -322,7 +336,8 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/speedcockpit-v0.1.13/SpeedCockpit-v0.1.13.apk",
       "releaseId": "rel_speedcockpit_14",
       "releaseNotes": "Publishes the latest SpeedCockpit build with map cockpit modes, stricter speed-limit display, warning tones, and reduced map tile flicker.",
-      "publishedAt": "2026-06-09T17:06:28Z"
+      "publishedAt": "2026-06-09T17:06:28Z",
+      "description": "SpeedCockpit is a driving cockpit with GPS speed, map context, speed-limit focused display, warning tones, and multiple map/cockpit modes. It is built for glanceable travel use with reduced map flicker and stricter speed-limit presentation."
     },
     {
       "schemaVersion": 1,
@@ -342,7 +357,8 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/speedtestlab-v0.1.5/SpeedTestLab-v0.1.5.apk",
       "releaseId": "rel_speedtestlab_6",
       "releaseNotes": "Publishes the latest Speed Test Lab Android prototype to NovaStore.",
-      "publishedAt": "2026-06-09T17:06:28Z"
+      "publishedAt": "2026-06-09T17:06:28Z",
+      "description": "Speed Test Lab measures network latency, jitter, download speed, upload speed, active Wi-Fi/mobile transport details, public IP/provider metadata when reachable, and local test history. It uses public endpoints and presents results for comparing network quality over time."
     },
     {
       "schemaVersion": 1,
@@ -362,7 +378,8 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/torrentatlas-v0.1.8/TorrentAtlas-v0.1.8.apk",
       "releaseId": "rel_torrentatlas_9",
       "releaseNotes": "Fixes Android startup for the pure-Java Bt engine by using the Android-safe Guice no-AOP runtime, removes the Android-incompatible Apache HttpClient tracker module, and verifies launch, magnet adds, and .torrent URL adds in the release APK.",
-      "publishedAt": "2026-06-12T05:15:34Z"
+      "publishedAt": "2026-06-12T05:15:34Z",
+      "description": "TorrentAtlas is a torrent search and download manager for legal/open torrents and user-provided magnet or .torrent files. It can browse supported sources, add downloads, track progress, and use a pure-Java BitTorrent engine without bundling native libtorrent components."
     },
     {
       "schemaVersion": 1,
@@ -382,7 +399,8 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/turkeytourism-v1.4.7/TurkeyTourism-v1.4.7.apk",
       "releaseId": "rel_turkeytourism_12",
       "releaseNotes": "Publishes the latest Turkey Tourism travel guide prototype to NovaStore.",
-      "publishedAt": "2026-06-09T17:06:28Z"
+      "publishedAt": "2026-06-09T17:06:28Z",
+      "description": "Turkey Tourism is a travel guide for exploring Turkey with place information, guide-style profiles, travel scoring, weather context, detail pages, images, and in-app web references. It is built for trip planning and quick tourist orientation while staying inside the app."
     },
     {
       "schemaVersion": 1,
@@ -402,7 +420,8 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.15/VisitVideoLogger-v0.1.15.apk",
       "releaseId": "rel_visitvideologger_16",
       "releaseNotes": "Adds black-screen driving mode. The BLACK switch blanks the live display with a centered REC timecode while the normal camera/map recording composition continues. Touching the black screen reveals the regular app for 10 seconds, then returns to black if the switch remains on.",
-      "publishedAt": "2026-06-12T08:02:57Z"
+      "publishedAt": "2026-06-12T08:02:57Z",
+      "description": "Visit Video Logger records driving or travel videos with a composed camera, map, GPS, heading, speed, timestamp, and optional front-camera picture-in-picture overlay. It includes stationary GPS/compass smoothing and a black-screen recording mode for lower distraction and battery use."
     },
     {
       "schemaVersion": 1,
@@ -422,7 +441,8 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/wavevid-v0.1.3/WaveVidAndroid-v0.1.3.apk",
       "releaseId": "rel_wavevid_4",
       "releaseNotes": "Publishes the latest WaveVid Android media prototype to NovaStore.",
-      "publishedAt": "2026-06-09T17:06:28Z"
+      "publishedAt": "2026-06-09T17:06:28Z",
+      "description": "WaveVid turns one image plus one audio file into a 720p MP4 with a full-width blue waveform along the bottom. It runs encoding on-device with Android media codecs, saves output to Movies/WaveVid, and can continue rendering in a foreground service."
     },
     {
       "schemaVersion": 1,
@@ -442,7 +462,8 @@
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/worldcup2026-v0.1.3/WorldCup2026-v0.1.3.apk",
       "releaseId": "rel_worldcup2026_4",
       "releaseNotes": "Fixes ESPN kickoff parsing for minute-precision UTC schedule times, so all 104 fixtures display real dates/times in the phone local timezone. Fixture rows and daily briefs now show the timezone abbreviation.",
-      "publishedAt": "2026-06-11T19:11:47Z"
+      "publishedAt": "2026-06-11T19:11:47Z",
+      "description": "World Cup 2026 is a tournament companion for fixtures, kickoff times, teams, venues, match status, results, news, and daily brief-style schedule checks. It is designed to show real local-time match information and open related web content inside the app."
     }
   ]
 }
