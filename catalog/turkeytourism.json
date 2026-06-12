@@ -16,5 +16,6 @@
   "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/turkeytourism-v1.4.7/TurkeyTourism-v1.4.7.apk",
   "releaseId": "rel_turkeytourism_12",
   "releaseNotes": "Publishes the latest Turkey Tourism travel guide prototype to NovaStore.",
-  "publishedAt": "2026-06-09T17:06:28Z"
+  "publishedAt": "2026-06-09T17:06:28Z",
+  "description": "Turkey Tourism is a travel guide for exploring Turkey with place information, guide-style profiles, travel scoring, weather context, detail pages, images, and in-app web references. It is built for trip planning and quick tourist orientation while staying inside the app."
 }
