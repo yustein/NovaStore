@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-12T05:15:34Z",
+  "generatedAt": "2026-06-12T08:25:27Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -10,17 +10,19 @@
       "publisherName": "Lenomila",
       "category": "Store",
       "channel": "stable",
-      "versionName": "0.2.10",
-      "versionCode": 30,
+      "versionName": "0.2.11",
+      "versionCode": 31,
       "minSdk": 26,
       "targetSdk": 36,
-      "sizeBytes": 12542944,
-      "sha256": "f659edbad3fedc3a5791e45c77992cbe8482ea593d3790cca4986bd33dbd71bf",
+      "sizeBytes": 12559288,
+      "sha256": "435c747201e1d25e8e0f476a91c3507f9fdd2af0b3239b132cfed4279c68209b",
       "signingCertSha256": "115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.10/NovaStore-v0.2.10.apk",
-      "releaseId": "rel_novastore_30",
-      "releaseNotes": "Adds TorrentAtlas to the signed catalog and Android package visibility queries so the store can list the app and recognize it after install.",
-      "publishedAt": "2026-06-11T21:12:49Z"
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.11/NovaStore-v0.2.11.apk",
+      "releaseId": "rel_novastore_31",
+      "releaseNotes": "Adds share buttons and rich app details to the store client. App listings can share the selected app APK link, app release page, current store APK link, and store release page. A separate store-only share action sends only the store APK/release links. App rows now open a details popup with purpose, version, release/update dates, package, direct APK link, release page, hashes, and signing metadata. Also verifies binary detached catalog signatures over the exact fetched index bytes.",
+      "publishedAt": "2026-06-12T08:25:27Z",
+      "updatedAt": "2026-06-12T08:25:27Z",
+      "description": "Private Android app store for signed GitHub-hosted APK releases and managed app updates."
     },
     {
       "schemaVersion": 1,
