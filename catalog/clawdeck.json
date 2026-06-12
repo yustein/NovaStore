@@ -16,5 +16,6 @@
   "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/clawdeck-v1.0.26/ClawDeck-v1.0.26.apk",
   "releaseId": "rel_clawdeck_27",
   "releaseNotes": "Keeps live OpenClaw chat sessions running in the background with a foreground chat service and partial wake lock.",
-  "publishedAt": "2026-06-09T19:45:19Z"
+  "publishedAt": "2026-06-09T19:45:19Z",
+  "description": "ClawDeck is an Android-first OpenClaw operations console. It keeps saved server targets, SSH command surfaces, safe command templates, local operator notes, chat with OpenClaw, background chat keepalive, logs, redaction, and a setup flow for managing Tony's own infrastructure from a phone."
 }
