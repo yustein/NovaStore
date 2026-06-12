@@ -16,5 +16,6 @@
   "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/echoatlas-v0.1.5/EchoAtlas-v0.1.5.apk",
   "releaseId": "rel_echoatlas_6",
   "releaseNotes": "Publishes the latest Echo Atlas Android prototype to NovaStore.",
-  "publishedAt": "2026-06-09T17:06:28Z"
+  "publishedAt": "2026-06-09T17:06:28Z",
+  "description": "Echo Atlas is an experimental sensor-driven exploration game. It blends touch, motion, microphone, camera light, GPS, battery, and device-state signals into an anomaly-hunting interface where the player tunes signals, stabilizes or harvests discoveries, and reads changing visual feedback."
 }
