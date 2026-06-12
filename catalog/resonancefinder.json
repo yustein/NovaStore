@@ -16,5 +16,6 @@
   "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/resonancefinder-v0.1.0/ResonanceFinder-v0.1.0.apk",
   "releaseId": "rel_resonancefinder_1",
   "releaseNotes": "Publishes the first Resonance Finder Android APK to NovaStore.",
-  "publishedAt": "2026-06-09T17:06:28Z"
+  "publishedAt": "2026-06-09T17:06:28Z",
+  "description": "Resonance Finder is a science prototype for exploring frequency, vibration, and resonance ideas on Android. It is intended as a lightweight companion for finding or thinking through resonant behavior, experiments, and signal relationships rather than as a calibrated laboratory instrument."
 }
