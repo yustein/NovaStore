@@ -16,5 +16,6 @@
   "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.25/AuroraWeather-v3.0.25.apk",
   "releaseId": "rel_auroraweather_62",
   "releaseNotes": "Adds real automatic current-location weather updates: the app watches foreground Android location changes, checks fresh last-known device location on startup/resume, honors Auto-detect location, and refreshes after meaningful movement.",
-  "publishedAt": "2026-06-11T20:51:19Z"
+  "publishedAt": "2026-06-11T20:51:19Z",
+  "description": "Aurora Weather is a local weather app focused on clear current conditions, forecasts, rain awareness, and location-aware updates. It can follow the phone's current position, refresh weather after movement, cache recent results, and support practical daily/weather-alert workflows without requiring an account."
 }
