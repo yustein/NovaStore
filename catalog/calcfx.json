@@ -16,5 +16,6 @@
   "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/calcfx-v0.1.1/CalcFX-v0.1.1.apk",
   "releaseId": "rel_calcfx_2",
   "releaseNotes": "Publishes the latest CalcFX Android calculator prototype to NovaStore.",
-  "publishedAt": "2026-06-09T17:06:28Z"
+  "publishedAt": "2026-06-09T17:06:28Z",
+  "description": "CalcFX combines a polished scientific calculator with a currency exchange workspace. It supports expression preview, memory, history, degree/radian mode, advanced functions, reusable results, currency pair selection, rate refresh, offline/stale-rate display, and favorite comparison currencies."
 }
