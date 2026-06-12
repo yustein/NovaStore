@@ -16,5 +16,6 @@
   "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/torrentatlas-v0.1.8/TorrentAtlas-v0.1.8.apk",
   "releaseId": "rel_torrentatlas_9",
   "releaseNotes": "Fixes Android startup for the pure-Java Bt engine by using the Android-safe Guice no-AOP runtime, removes the Android-incompatible Apache HttpClient tracker module, and verifies launch, magnet adds, and .torrent URL adds in the release APK.",
-  "publishedAt": "2026-06-12T05:15:34Z"
+  "publishedAt": "2026-06-12T05:15:34Z",
+  "description": "TorrentAtlas is a torrent search and download manager for legal/open torrents and user-provided magnet or .torrent files. It can browse supported sources, add downloads, track progress, and use a pure-Java BitTorrent engine without bundling native libtorrent components."
 }
