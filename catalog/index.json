@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-12T14:15:20Z",
+  "generatedAt": "2026-06-12T14:42:58Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -486,6 +486,27 @@
       "releaseNotes": "Publishes the latest WaveVid Android media prototype to NovaStore.",
       "publishedAt": "2026-06-09T17:06:28Z",
       "description": "WaveVid turns one image plus one audio file into a 720p MP4 with a full-width blue waveform along the bottom. It runs encoding on-device with Android media codecs, saves output to Movies/WaveVid, and can continue rendering in a foreground service."
+    },
+    {
+      "schemaVersion": 1,
+      "appRole": "managed",
+      "packageName": "com.lenomila.whisperscribe",
+      "name": "Whisper Scribe",
+      "publisherName": "Lenomila",
+      "category": "Productivity",
+      "channel": "stable",
+      "versionName": "0.1.0",
+      "versionCode": 1,
+      "minSdk": 26,
+      "targetSdk": 36,
+      "sizeBytes": 658562,
+      "sha256": "19477538f699946a3e324f5b11ee39b4db73f25314459c2d9ef16a3cddee7858",
+      "signingCertSha256": "34b116221abae424c6d63d867303037ac43b826f6e95a092f79994e67f23a2aa",
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/whisperscribe-v0.1.0/WhisperScribe-v0.1.0.apk",
+      "releaseId": "rel_whisperscribe_1",
+      "releaseNotes": "First Whisper Scribe release with high-quality OpenAI transcription, local recording, audio import, editable transcripts, copy/save/share export, model selection, language hinting, and optional transcription context prompts.",
+      "publishedAt": "2026-06-12T14:41:49Z",
+      "description": "Whisper Scribe records or imports audio on Android, sends it to OpenAI's transcription API using gpt-4o-transcribe by default, and returns an editable text transcript that can be copied, saved, or shared. The OpenAI API key is entered by the user and stored only on-device."
     },
     {
       "schemaVersion": 1,
