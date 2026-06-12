@@ -16,5 +16,6 @@
   "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/muzoplay-v0.1.24/MuzoPlay-v0.1.24.apk",
   "releaseId": "rel_muzoplay_25",
   "releaseNotes": "Keeps the screen awake while MuzoPlay is foregrounded, covering normal browsing, fullscreen playback, Media3, and VLC software-decoder surfaces. No new Android permissions.",
-  "publishedAt": "2026-06-11T19:56:44Z"
+  "publishedAt": "2026-06-11T19:56:44Z",
+  "description": "MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports M3U/M3U8 and XMLTV-style guide data, plays streams with Media3/ExoPlayer, supports favorites and search, and intentionally includes no bundled channels, subscriptions, provider credentials, or public stream lists."
 }
