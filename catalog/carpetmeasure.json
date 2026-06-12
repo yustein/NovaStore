@@ -16,5 +16,6 @@
   "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/carpetmeasure-v0.1.9/CarpetMeasure-v0.1.9.apk",
   "releaseId": "rel_carpetmeasure_10",
   "releaseNotes": "Publishes the latest AR carpet measurement prototype with corner measurement and segmentation support.",
-  "publishedAt": "2026-06-09T17:06:28Z"
+  "publishedAt": "2026-06-09T17:06:28Z",
+  "description": "Carpet Measure is an AR measurement prototype for estimating carpet and floor dimensions with the phone camera. It helps mark corners, inspect measured spans, and work toward area estimates using ARCore-style spatial tracking and segmentation-assisted measurement workflows."
 }
