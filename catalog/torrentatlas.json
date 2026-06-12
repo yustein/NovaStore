@@ -6,15 +6,15 @@
   "publisherName": "Lenomila",
   "category": "Tools",
   "channel": "stable",
-  "versionName": "0.1.7",
-  "versionCode": 8,
+  "versionName": "0.1.8",
+  "versionCode": 9,
   "minSdk": 26,
   "targetSdk": 36,
-  "sizeBytes": 3961473,
-  "sha256": "ae953e8131b4698817b77360f8f57319ab9dfe1f6f64070c422b4e3e19b60aad",
+  "sizeBytes": 3268610,
+  "sha256": "00c3ae20dca9b94f03d269aea2bf8382f0e224cb0bcd6108b54cbb3832829840",
   "signingCertSha256": "77bd7b32711738bf4837f604e00b8c137675755cbe199611e8612b410d68841f",
-  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/torrentatlas-v0.1.7/TorrentAtlas-v0.1.7.apk",
-  "releaseId": "rel_torrentatlas_8",
-  "releaseNotes": "Restores real in-app torrent downloading with a pure-Java BitTorrent engine, removes the crash-prone native libtorrent/libtorrent4j payload, routes magnet and .torrent URL adds into the internal engine, caps .torrent metadata fetches, and keeps cached Java download rows for UI refreshes.",
-  "publishedAt": "2026-06-12T04:49:51Z"
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/torrentatlas-v0.1.8/TorrentAtlas-v0.1.8.apk",
+  "releaseId": "rel_torrentatlas_9",
+  "releaseNotes": "Fixes Android startup for the pure-Java Bt engine by using the Android-safe Guice no-AOP runtime, removes the Android-incompatible Apache HttpClient tracker module, and verifies launch, magnet adds, and .torrent URL adds in the release APK.",
+  "publishedAt": "2026-06-12T05:15:34Z"
 }
