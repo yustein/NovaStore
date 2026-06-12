@@ -48,10 +48,10 @@ This entry is only for old NovaStore 0.1.x installations that still use the orig
 
 - Package: `com.lenomila.auroraweather`
 - Category: `Weather`
-- Version: `3.0.25` / code `62`
-- Description: Aurora Weather is a local weather app focused on clear current conditions, forecasts, rain awareness, and location-aware updates. It can follow the phone's current position, refresh weather after movement, cache recent results, and support practical daily/weather-alert workflows without requiring an account.
-- Download: <https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.25/AuroraWeather-v3.0.25.apk>
-- APK SHA-256: `054f6cf898cd0cadb7dca1717151f5b869063afdf41110b9da22b6ba6e62486d`
+- Version: `3.0.28` / code `65`
+- Description: Aurora Weather is a local weather app focused on clear current conditions, forecasts, rain awareness, widgets, and location-aware updates. It can follow the phone's current position, actively refresh widget weather after movement, cache recent results, and support practical daily/weather-alert workflows without requiring an account.
+- Download: <https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.28/AuroraWeather-v3.0.28.apk>
+- APK SHA-256: `009e26bd175880436842c27b9ede4d3afb0cd8351888ad8292def6e6a7efb1cb`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
 ### Backgammon LAN
