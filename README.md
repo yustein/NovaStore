@@ -15,10 +15,10 @@ NovaStore clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 si
 NovaStore is the private Android app catalog/update client.
 
 - Package: `com.lenomila.novastore`
-- Version: `0.2.13` / code `33`
+- Version: `0.2.14` / code `34`
 - Description: NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, checks installed versions, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval.
-- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.13/NovaStore-v0.2.13.apk>
-- APK SHA-256: `3accd4f25e005d584b2835d5db630d60361c011f3c164db6df7d850f8dfe72a7`
+- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.14/NovaStore-v0.2.14.apk>
+- APK SHA-256: `c940724bbc312c403a9b8b08eb6eaef4ecc8bd6adc13e3feff3a41f04a0983a1`
 - Signing certificate SHA-256: `115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c`
 
 ## NovaStore Legacy Updater
