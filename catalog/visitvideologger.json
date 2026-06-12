@@ -6,15 +6,15 @@
   "publisherName": "Lenomila",
   "category": "Travel",
   "channel": "stable",
-  "versionName": "0.1.14",
-  "versionCode": 15,
+  "versionName": "0.1.15",
+  "versionCode": 16,
   "minSdk": 26,
   "targetSdk": 36,
-  "sizeBytes": 689834,
-  "sha256": "50e962e84f48646f73aa580c105f74c8e95707a7ad7fba8921a5082d1d9c9bfb",
+  "sizeBytes": 691694,
+  "sha256": "3f665799191ee83dde6898489167e346968b89f093e892be89008e7b1ad14c8b",
   "signingCertSha256": "d7b7bcd3e7f71979811709cbca98e3f984c43cdcf8c96b3ba808ef9972139ec6",
-  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.14/VisitVideoLogger-v0.1.14.apk",
-  "releaseId": "rel_visitvideologger_15",
-  "releaseNotes": "Removes visible front-camera labels from the PiP/front-camera control and adds extreme stationary GPS and compass smoothing so the map does not spin or jump while stopped. Keeps the v0.1.13 front PiP recording orientation/aspect fix.",
-  "publishedAt": "2026-06-12T07:36:20Z"
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.15/VisitVideoLogger-v0.1.15.apk",
+  "releaseId": "rel_visitvideologger_16",
+  "releaseNotes": "Adds black-screen driving mode. The BLACK switch blanks the live display with a centered REC timecode while the normal camera/map recording composition continues. Touching the black screen reveals the regular app for 10 seconds, then returns to black if the switch remains on.",
+  "publishedAt": "2026-06-12T08:02:57Z"
 }
