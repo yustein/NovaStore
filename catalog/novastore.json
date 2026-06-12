@@ -18,5 +18,5 @@
   "releaseNotes": "Fixes NovaStore self-update detection for installed v0.2.10 clients by accepting both raw RSA detached catalog signatures and Base64 text signatures. The public catalog signature is Base64-compatible again so older clients can verify the catalog, see this update, and move onto the dual-format verifier.",
   "publishedAt": "2026-06-12T09:26:16Z",
   "updatedAt": "2026-06-12T09:26:16Z",
-  "description": "Private Android app store for signed GitHub-hosted APK releases and managed app updates."
+  "description": "NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, checks installed versions, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval."
 }
