@@ -16,5 +16,6 @@
   "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.15/VisitVideoLogger-v0.1.15.apk",
   "releaseId": "rel_visitvideologger_16",
   "releaseNotes": "Adds black-screen driving mode. The BLACK switch blanks the live display with a centered REC timecode while the normal camera/map recording composition continues. Touching the black screen reveals the regular app for 10 seconds, then returns to black if the switch remains on.",
-  "publishedAt": "2026-06-12T08:02:57Z"
+  "publishedAt": "2026-06-12T08:02:57Z",
+  "description": "Visit Video Logger records driving or travel videos with a composed camera, map, GPS, heading, speed, timestamp, and optional front-camera picture-in-picture overlay. It includes stationary GPS/compass smoothing and a black-screen recording mode for lower distraction and battery use."
 }
