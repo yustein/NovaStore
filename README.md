@@ -7,7 +7,7 @@ NovaStore clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 si
 ## Catalog Summary
 
 - Generated: `2026-06-12T09:44:33Z`
-- Apps: `22` total (`1` store app, `21` managed apps)
+- Apps: `23` total (`1` current store app, `1` legacy store updater, `21` managed apps)
 - Excluded: companion sample APKs, Windows packages, recovered duplicate projects, and AAB-only artifacts.
 
 ## NovaStore App
@@ -15,11 +15,22 @@ NovaStore clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 si
 NovaStore is the private Android app catalog/update client.
 
 - Package: `com.lenomila.novastore`
-- Version: `0.2.12` / code `32`
+- Version: `0.2.13` / code `33`
 - Description: NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, checks installed versions, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval.
-- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.12/NovaStore-v0.2.12.apk>
-- APK SHA-256: `c387f623614096b0fe368d7750e7ef5612d59d1b06de457b1c28143344029367`
+- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.13/NovaStore-v0.2.13.apk>
+- APK SHA-256: `3accd4f25e005d584b2835d5db630d60361c011f3c164db6df7d850f8dfe72a7`
 - Signing certificate SHA-256: `115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c`
+
+## NovaStore Legacy Updater
+
+This entry is only for old NovaStore 0.1.x installations that still use the original `com.novastore.client` package.
+
+- Package: `com.novastore.client`
+- Version: `0.1.14` / code `15`
+- Description: This NovaStore entry is a compatibility bridge for older NovaStore 0.1.x installations that used the original com.novastore.client package. It lets those installs update to the final old-package build before moving to the modern NovaStore package.
+- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.14/NovaStore-v0.1.14.apk>
+- APK SHA-256: `9b2218469afd71809942bab1ca0ada4414f87cae2083d97e3fda960195c5b547`
+- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
 ## Catalog Apps
 
@@ -237,6 +248,7 @@ NovaStore is the private Android app catalog/update client.
 
 - Full catalog: `catalog/index.json`
 - NovaStore: `catalog/novastore.json`
+- NovaStore Legacy Updater: `catalog/novastore-legacy.json`
 - Antikythera: `catalog/antikythera.json`
 - Aurora Weather: `catalog/auroraweather.json`
 - Backgammon LAN: `catalog/backgammonlan.json`
@@ -258,4 +270,3 @@ NovaStore is the private Android app catalog/update client.
 - Visit Video Logger: `catalog/visitvideologger.json`
 - WaveVid: `catalog/wavevid.json`
 - World Cup 2026: `catalog/worldcup2026.json`
-
