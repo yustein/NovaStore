@@ -2,23 +2,23 @@
 
 This public repository hosts NovaStore catalog metadata and public APK release assets for Tony's private Android app store.
 
-NovaStore clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, show pinned APK SHA-256/signing metadata, and open GitHub-hosted APK downloads in the browser. Android and Play Protect own install approval.
+NovaStore clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, show pinned APK SHA-256/signing metadata, and install GitHub-hosted APK downloads only through Android user consent.
 
 ## Catalog Summary
 
-- Generated: `2026-06-11T20:51:19Z`
-- Apps: `19` total (`1` store app, `18` managed apps)
+- Generated: `2026-06-12T09:26:16Z`
+- Apps: `22` total (`1` store app, `21` managed apps)
 - Excluded: companion sample APKs, Windows packages, recovered duplicate projects, and AAB-only artifacts.
 
 ## NovaStore App
 
-NovaStore is the private Android app catalog/update client. v0.1.14 verifies the signed GitHub catalog and keeps the v0.1.13 Play Protect mitigation that removed Android package-install permission and installer handoff.
+NovaStore is the private Android app catalog/update client. Fixes NovaStore self-update detection for installed v0.2.10 clients by accepting both raw RSA detached catalog signatures and Base64 text signatures. The public catalog signature is Base64-compatible again so older clients can verify the catalog, see this update, and move onto the dual-format verifier.
 
-- Package: `com.novastore.client`
-- Version: `0.1.14` / code `15`
-- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.14/NovaStore-v0.1.14.apk>
-- APK SHA-256: `9b2218469afd71809942bab1ca0ada4414f87cae2083d97e3fda960195c5b547`
-- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
+- Package: `com.lenomila.novastore`
+- Version: `0.2.12` / code `32`
+- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.12/NovaStore-v0.2.12.apk>
+- APK SHA-256: `c387f623614096b0fe368d7750e7ef5612d59d1b06de457b1c28143344029367`
+- Signing certificate SHA-256: `115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c`
 
 ## Catalog Apps
 
@@ -107,18 +107,18 @@ NovaStore is the private Android app catalog/update client. v0.1.14 verifies the
 
 - Package: `com.lenomila.muzoplay`
 - Category: `Media`
-- Version: `0.1.23` / code `24`
-- Download: <https://github.com/yustein/NovaStore/releases/download/muzoplay-v0.1.23/MuzoPlay-v0.1.23.apk>
-- APK SHA-256: `0a0553798729f041cdc18aa454da2bad9ac67afdb035f4372ccc974d66dda2db`
+- Version: `0.1.24` / code `25`
+- Download: <https://github.com/yustein/NovaStore/releases/download/muzoplay-v0.1.24/MuzoPlay-v0.1.24.apk>
+- APK SHA-256: `1958c4ff905d867c3c29359258b0099f7dddc8bc50394694b2e587406443c56e`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
 ### PhantomXRay
 
 - Package: `com.lenomila.phantomxray`
 - Category: `Entertainment`
-- Version: `0.1.1` / code `2`
-- Download: <https://github.com/yustein/NovaStore/releases/download/phantomxray-v0.1.1/PhantomXRay-v0.1.1.apk>
-- APK SHA-256: `21aaf1350e5a4d4b857ecaee76adf8619b53b6bd1879fefe15fa05f58d8d3ceb`
+- Version: `0.1.2` / code `3`
+- Download: <https://github.com/yustein/NovaStore/releases/download/phantomxray-v0.1.2/PhantomXRay-v0.1.2.apk>
+- APK SHA-256: `4d0a8d0897a7e2e6738b2b053bce820016ca48b99108fcfc57c320de4f2370ad`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
 ### Quake Globe
@@ -148,6 +148,15 @@ NovaStore is the private Android app catalog/update client. v0.1.14 verifies the
 - APK SHA-256: `92fef8233be2354a0c7bfeb023aecb4a6d6814555c3278d482ac1ab5dcdae6f1`
 - Signing certificate SHA-256: `2f251bc0a8c8ee73f48e88b31889c834035f83ce9281d9b16e7a7fb0010ae395`
 
+### SpeedCockpit
+
+- Package: `com.lenomila.speedcockpit`
+- Category: `Navigation`
+- Version: `0.1.13` / code `14`
+- Download: <https://github.com/yustein/NovaStore/releases/download/speedcockpit-v0.1.13/SpeedCockpit-v0.1.13.apk>
+- APK SHA-256: `33368b1bbb81b58b514b40e89d8f0eb39334d2b5605898e807958bebbd0d0d0e`
+- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
+
 ### Speed Test Lab
 
 - Package: `com.lenomila.speedtest`
@@ -157,14 +166,14 @@ NovaStore is the private Android app catalog/update client. v0.1.14 verifies the
 - APK SHA-256: `d7ec76ae5b07dad6686939f392692189695cf55a701e14a7a8e8c200a678b7ba`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
-### SpeedCockpit
+### TorrentAtlas
 
-- Package: `com.lenomila.speedcockpit`
-- Category: `Navigation`
-- Version: `0.1.13` / code `14`
-- Download: <https://github.com/yustein/NovaStore/releases/download/speedcockpit-v0.1.13/SpeedCockpit-v0.1.13.apk>
-- APK SHA-256: `33368b1bbb81b58b514b40e89d8f0eb39334d2b5605898e807958bebbd0d0d0e`
-- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
+- Package: `com.lenomila.torrentatlas`
+- Category: `Tools`
+- Version: `0.1.8` / code `9`
+- Download: <https://github.com/yustein/NovaStore/releases/download/torrentatlas-v0.1.8/TorrentAtlas-v0.1.8.apk>
+- APK SHA-256: `00c3ae20dca9b94f03d269aea2bf8382f0e224cb0bcd6108b54cbb3832829840`
+- Signing certificate SHA-256: `77bd7b32711738bf4837f604e00b8c137675755cbe199611e8612b410d68841f`
 
 ### Turkey Tourism
 
@@ -175,6 +184,15 @@ NovaStore is the private Android app catalog/update client. v0.1.14 verifies the
 - APK SHA-256: `cbeed03a5b423ef93ef0d7d694eee7e62f8e7c98b07a77d7960d97ce8038771b`
 - Signing certificate SHA-256: `2f251bc0a8c8ee73f48e88b31889c834035f83ce9281d9b16e7a7fb0010ae395`
 
+### Visit Video Logger
+
+- Package: `com.lenomila.visitvideologger`
+- Category: `Travel`
+- Version: `0.1.15` / code `16`
+- Download: <https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.15/VisitVideoLogger-v0.1.15.apk>
+- APK SHA-256: `3f665799191ee83dde6898489167e346968b89f093e892be89008e7b1ad14c8b`
+- Signing certificate SHA-256: `d7b7bcd3e7f71979811709cbca98e3f984c43cdcf8c96b3ba808ef9972139ec6`
+
 ### WaveVid
 
 - Package: `com.lenomila.wavevid`
@@ -183,7 +201,17 @@ NovaStore is the private Android app catalog/update client. v0.1.14 verifies the
 - Download: <https://github.com/yustein/NovaStore/releases/download/wavevid-v0.1.3/WaveVidAndroid-v0.1.3.apk>
 - APK SHA-256: `a1995b27a22afaddbec35177e150cbf10c15ffbcf1285730c5868e7c24f0e1a7`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
-## Manifests
+
+### World Cup 2026
+
+- Package: `com.lenomila.worldcup2026`
+- Category: `Sports`
+- Version: `0.1.3` / code `4`
+- Download: <https://github.com/yustein/NovaStore/releases/download/worldcup2026-v0.1.3/WorldCup2026-v0.1.3.apk>
+- APK SHA-256: `76b45fc4a9fd1344cd7f26ab25890708fbe840c46b4fdc99a9413df642bc0fab`
+- Signing certificate SHA-256: `574ab287ee443e3c6474aaf8372bce70fc33712dd063bc73198c38139f255243`
+
+## Catalog Files
 
 - Full catalog: `catalog/index.json`
 - NovaStore: `catalog/novastore.json`
@@ -201,16 +229,11 @@ NovaStore is the private Android app catalog/update client. v0.1.14 verifies the
 - Quake Globe: `catalog/quakeglobe.json`
 - Resonance Finder: `catalog/resonancefinder.json`
 - Resonance Lab: `catalog/resonancelab.json`
-- Speed Test Lab: `catalog/speedtestlab.json`
 - SpeedCockpit: `catalog/speedcockpit.json`
+- Speed Test Lab: `catalog/speedtestlab.json`
+- TorrentAtlas: `catalog/torrentatlas.json`
 - Turkey Tourism: `catalog/turkeytourism.json`
+- Visit Video Logger: `catalog/visitvideologger.json`
 - WaveVid: `catalog/wavevid.json`
+- World Cup 2026: `catalog/worldcup2026.json`
 
-## Update Behavior
-
-NovaStore checks this public catalog through GitHub raw-content API whenever the app returns to the foreground, when the user manually refreshes Apps or Updates, and three times a day in the background. It notifies for:
-
-- a newer NovaStore APK,
-- a newer catalog app already installed on the phone.
-
-It does not silently install updates. The user always confirms in Android's installer.
