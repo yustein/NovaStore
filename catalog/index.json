@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-14T04:39:30Z",
+  "generatedAt": "2026-06-14T04:54:06Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -453,19 +453,19 @@
       "publisherName": "Lenomila",
       "category": "Travel",
       "channel": "stable",
-      "versionName": "0.1.22",
-      "versionCode": 23,
+      "versionName": "0.1.23",
+      "versionCode": 24,
       "minSdk": 26,
       "targetSdk": 36,
-      "sizeBytes": 698858,
-      "sha256": "36003d6fc23d6da3f9fb4ac283d37d652607a4d0f46d05c3be2834eee7d63eb3",
+      "sizeBytes": 698902,
+      "sha256": "5a9b9ed0b335d4dd6eda2b4c0d46964cd4723dca48e5370c274ba808b9420e08",
       "signingCertSha256": "d7b7bcd3e7f71979811709cbca98e3f984c43cdcf8c96b3ba808ef9972139ec6",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.22/VisitVideoLogger-v0.1.22.apk",
-      "releaseId": "rel_visitvideologger_23",
-      "releaseNotes": "Adds an AF auto focus setting to the hamburger settings menu. The default stays Off - fixed focus, preserving the current mounted-driving fixed/infinity focus profile; turning it On uses supported rear autofocus modes, preferring continuous-video AF.",
-      "publishedAt": "2026-06-14T04:39:30Z",
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.23/VisitVideoLogger-v0.1.23.apk",
+      "releaseId": "rel_visitvideologger_24",
+      "releaseNotes": "Slows the info panel so place and fact text stays readable: facts rotate every 30 seconds instead of 10, and overflowing detailed text pauses longer and scrolls more slowly.",
+      "publishedAt": "2026-06-14T04:54:06Z",
       "description": "Visit Video Logger records driving or travel videos with a composed camera, map, GPS, heading, speed, timestamp, and optional front-camera picture-in-picture overlay. It includes stationary GPS/compass smoothing, camera-aspect-safe recording composition, rear driving camera controls, and a black-screen recording mode for lower distraction and battery use.",
-      "updatedAt": "2026-06-14T04:39:30Z"
+      "updatedAt": "2026-06-14T04:54:06Z"
     },
     {
       "schemaVersion": 1,
