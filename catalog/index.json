@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-14T04:54:06Z",
+  "generatedAt": "2026-06-14T05:06:52Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -453,19 +453,19 @@
       "publisherName": "Lenomila",
       "category": "Travel",
       "channel": "stable",
-      "versionName": "0.1.23",
-      "versionCode": 24,
+      "versionName": "0.1.24",
+      "versionCode": 25,
       "minSdk": 26,
       "targetSdk": 36,
-      "sizeBytes": 698902,
-      "sha256": "5a9b9ed0b335d4dd6eda2b4c0d46964cd4723dca48e5370c274ba808b9420e08",
+      "sizeBytes": 699838,
+      "sha256": "61fa32da322e71cefaa6c8a6bc993c8fd5ef274248e780efe2c244c7739c13fd",
       "signingCertSha256": "d7b7bcd3e7f71979811709cbca98e3f984c43cdcf8c96b3ba808ef9972139ec6",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.23/VisitVideoLogger-v0.1.23.apk",
-      "releaseId": "rel_visitvideologger_24",
-      "releaseNotes": "Slows the info panel so place and fact text stays readable: facts rotate every 30 seconds instead of 10, and overflowing detailed text pauses longer and scrolls more slowly.",
-      "publishedAt": "2026-06-14T04:54:06Z",
+      "releaseId": "rel_visitvideologger_25",
+      "releaseNotes": "Adds a hamburger-menu slider for the combined right info/map panel transparency. The default 0% keeps the current right-panel look, and increasing the slider fades the whole right-side info/map overlay over the camera preview.",
+      "publishedAt": "2026-06-14T05:06:52Z",
       "description": "Visit Video Logger records driving or travel videos with a composed camera, map, GPS, heading, speed, timestamp, and optional front-camera picture-in-picture overlay. It includes stationary GPS/compass smoothing, camera-aspect-safe recording composition, rear driving camera controls, and a black-screen recording mode for lower distraction and battery use.",
-      "updatedAt": "2026-06-14T04:54:06Z"
+      "updatedAt": "2026-06-14T05:06:52Z",
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.24/VisitVideoLogger-v0.1.24.apk"
     },
     {
       "schemaVersion": 1,
