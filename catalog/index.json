@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-14T04:16:02Z",
+  "generatedAt": "2026-06-14T04:39:30Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -453,19 +453,19 @@
       "publisherName": "Lenomila",
       "category": "Travel",
       "channel": "stable",
-      "versionName": "0.1.21",
-      "versionCode": 22,
+      "versionName": "0.1.22",
+      "versionCode": 23,
       "minSdk": 26,
       "targetSdk": 36,
-      "sizeBytes": 698406,
-      "sha256": "22730a2b0b39be7ba6a68e712a5a7d3a23d8d8033443f9cde4f80a8a844360ba",
+      "sizeBytes": 698858,
+      "sha256": "36003d6fc23d6da3f9fb4ac283d37d652607a4d0f46d05c3be2834eee7d63eb3",
       "signingCertSha256": "d7b7bcd3e7f71979811709cbca98e3f984c43cdcf8c96b3ba808ef9972139ec6",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.21/VisitVideoLogger-v0.1.21.apk",
-      "releaseId": "rel_visitvideologger_22",
-      "releaseNotes": "Adds a top-left hamburger settings menu while preserving the safe current defaults. Settings now include front-video size Large/Medium/Small, info panel Normal/Detailed, rear video 540p/720p/1080p, and clip length 3/5/15/30 minutes.",
-      "publishedAt": "2026-06-14T04:16:02Z",
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.22/VisitVideoLogger-v0.1.22.apk",
+      "releaseId": "rel_visitvideologger_23",
+      "releaseNotes": "Adds an AF auto focus setting to the hamburger settings menu. The default stays Off - fixed focus, preserving the current mounted-driving fixed/infinity focus profile; turning it On uses supported rear autofocus modes, preferring continuous-video AF.",
+      "publishedAt": "2026-06-14T04:39:30Z",
       "description": "Visit Video Logger records driving or travel videos with a composed camera, map, GPS, heading, speed, timestamp, and optional front-camera picture-in-picture overlay. It includes stationary GPS/compass smoothing, camera-aspect-safe recording composition, rear driving camera controls, and a black-screen recording mode for lower distraction and battery use.",
-      "updatedAt": "2026-06-14T04:16:02Z"
+      "updatedAt": "2026-06-14T04:39:30Z"
     },
     {
       "schemaVersion": 1,
