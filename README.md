@@ -6,7 +6,7 @@ NovaStore clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 si
 
 ## Catalog Summary
 
-- Generated: `2026-06-14T06:34:39Z`
+- Generated: `2026-06-14T07:29:40Z`
 - Apps: `25` total (`1` current store app, `1` legacy store updater, `23` managed apps)
 - Excluded: companion sample APKs, Windows packages, recovered duplicate projects, and AAB-only artifacts.
 
@@ -209,10 +209,10 @@ This entry is only for old NovaStore 0.1.x installations that still use the orig
 
 - Package: `com.lenomila.visitvideologger`
 - Category: `Travel`
-- Version: `0.1.25` / code `26`
+- Version: `0.1.26` / code `27`
 - Description: Visit Video Logger records driving or travel videos with a composed camera, map, GPS, heading, speed, timestamp, and optional front-camera picture-in-picture overlay. It includes stationary GPS/compass smoothing, camera-aspect-safe recording composition, rear driving camera controls, a black-screen recording mode, and readable location/story panels for travel narration.
-- Download: <https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.25/VisitVideoLogger-v0.1.25.apk>
-- APK SHA-256: `8bdd112a75aa0f5e03606331e727f21b475b746f1ebdfe8ea07901755e48a6cf`
+- Download: <https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.26/VisitVideoLogger-v0.1.26.apk>
+- APK SHA-256: `7a56ab79b0a1ca061d7bd62799fef5fcf73f3ddc9b5889e187aed4ad78e9a08b`
 - Signing certificate SHA-256: `d7b7bcd3e7f71979811709cbca98e3f984c43cdcf8c96b3ba808ef9972139ec6`
 ### WaveVid
 
