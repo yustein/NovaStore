@@ -6,7 +6,7 @@ NovaStore clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 si
 
 ## Catalog Summary
 
-- Generated: `2026-06-16T21:13:22Z`
+- Generated: `2026-06-16T21:40:20Z`
 - Apps: `26` total (`2` current store app, `0` legacy store updater, `24` managed apps)
 - Excluded: companion sample APKs, Windows packages, recovered duplicate projects, and AAB-only artifacts.
 
@@ -209,10 +209,10 @@ This NovaStore entry is a compatibility bridge for older NovaStore 0.1.x install
 
 - Package: `com.lenomila.uniwhisper`
 - Category: `Lifestyle`
-- Version: `0.1.1` / code `2`
-- Description: UniWhisper is an offline symbolic reflection app with daily universe messages, reflective questions, grounded actions, Ask Universe prompts, local journaling, and searchable curated messages. It stores user data locally, uses no runtime AI, and presents messages as reflection rather than prediction or professional advice.
-- Download: <https://github.com/yustein/NovaStore/releases/download/uniwhisper-v0.1.1/UniWhisper-v0.1.1.apk>
-- APK SHA-256: `ac828ffc53a3ee04639ef147c064b7d670d596bab9b02caff53118b27b42929d`
+- Version: `0.1.2` / code `3`
+- Description: UniWhisper is an offline symbolic reflection app with daily universe messages, optional local reminder notifications, reflective questions, grounded actions, Ask Universe prompts, local journaling, and searchable curated messages. It stores user data locally, uses no runtime AI, and presents messages as reflection rather than prediction or professional advice.
+- Download: <https://github.com/yustein/NovaStore/releases/download/uniwhisper-v0.1.2/UniWhisper-v0.1.2.apk>
+- APK SHA-256: `b98a4014bd1275e868eefefc30196233699aa3f8872b94611b4197f4566cfb2b`
 - Signing certificate SHA-256: `223e0e1b6de9a302235bb5d1012ab76c6522431d5be32318124ae90781889dc2`
 ### Visit Video Logger
 
