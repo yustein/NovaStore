@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-14T10:07:02Z",
+  "generatedAt": "2026-06-16T21:13:22Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -364,27 +364,6 @@
     {
       "schemaVersion": 1,
       "appRole": "managed",
-      "packageName": "com.lenomila.speedcockpit",
-      "name": "SpeedCockpit",
-      "publisherName": "Lenomila",
-      "category": "Navigation",
-      "channel": "stable",
-      "versionName": "0.1.13",
-      "versionCode": 14,
-      "minSdk": 26,
-      "targetSdk": 36,
-      "sizeBytes": 2491123,
-      "sha256": "33368b1bbb81b58b514b40e89d8f0eb39334d2b5605898e807958bebbd0d0d0e",
-      "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/speedcockpit-v0.1.13/SpeedCockpit-v0.1.13.apk",
-      "releaseId": "rel_speedcockpit_14",
-      "releaseNotes": "Publishes the latest SpeedCockpit build with map cockpit modes, stricter speed-limit display, warning tones, and reduced map tile flicker.",
-      "publishedAt": "2026-06-09T17:06:28Z",
-      "description": "SpeedCockpit is a driving cockpit with GPS speed, map context, speed-limit focused display, warning tones, and multiple map/cockpit modes. It is built for glanceable travel use with reduced map flicker and stricter speed-limit presentation."
-    },
-    {
-      "schemaVersion": 1,
-      "appRole": "managed",
       "packageName": "com.lenomila.speedtest",
       "name": "Speed Test Lab",
       "publisherName": "Lenomila",
@@ -402,6 +381,27 @@
       "releaseNotes": "Publishes the latest Speed Test Lab Android prototype to NovaStore.",
       "publishedAt": "2026-06-09T17:06:28Z",
       "description": "Speed Test Lab measures network latency, jitter, download speed, upload speed, active Wi-Fi/mobile transport details, public IP/provider metadata when reachable, and local test history. It uses public endpoints and presents results for comparing network quality over time."
+    },
+    {
+      "schemaVersion": 1,
+      "appRole": "managed",
+      "packageName": "com.lenomila.speedcockpit",
+      "name": "SpeedCockpit",
+      "publisherName": "Lenomila",
+      "category": "Navigation",
+      "channel": "stable",
+      "versionName": "0.1.13",
+      "versionCode": 14,
+      "minSdk": 26,
+      "targetSdk": 36,
+      "sizeBytes": 2491123,
+      "sha256": "33368b1bbb81b58b514b40e89d8f0eb39334d2b5605898e807958bebbd0d0d0e",
+      "signingCertSha256": "1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6",
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/speedcockpit-v0.1.13/SpeedCockpit-v0.1.13.apk",
+      "releaseId": "rel_speedcockpit_14",
+      "releaseNotes": "Publishes the latest SpeedCockpit build with map cockpit modes, stricter speed-limit display, warning tones, and reduced map tile flicker.",
+      "publishedAt": "2026-06-09T17:06:28Z",
+      "description": "SpeedCockpit is a driving cockpit with GPS speed, map context, speed-limit focused display, warning tones, and multiple map/cockpit modes. It is built for glanceable travel use with reduced map flicker and stricter speed-limit presentation."
     },
     {
       "schemaVersion": 1,
@@ -444,6 +444,28 @@
       "releaseNotes": "Publishes the latest Turkey Tourism travel guide prototype to NovaStore.",
       "publishedAt": "2026-06-09T17:06:28Z",
       "description": "Turkey Tourism is a travel guide for exploring Turkey with place information, guide-style profiles, travel scoring, weather context, detail pages, images, and in-app web references. It is built for trip planning and quick tourist orientation while staying inside the app."
+    },
+    {
+      "schemaVersion": 1,
+      "appRole": "managed",
+      "packageName": "com.lenomila.uniwhisper",
+      "name": "UniWhisper",
+      "publisherName": "Lenomila",
+      "category": "Lifestyle",
+      "channel": "stable",
+      "versionName": "0.1.1",
+      "versionCode": 2,
+      "minSdk": 26,
+      "targetSdk": 36,
+      "sizeBytes": 20608776,
+      "sha256": "ac828ffc53a3ee04639ef147c064b7d670d596bab9b02caff53118b27b42929d",
+      "signingCertSha256": "223e0e1b6de9a302235bb5d1012ab76c6522431d5be32318124ae90781889dc2",
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/uniwhisper-v0.1.1/UniWhisper-v0.1.1.apk",
+      "releaseId": "rel_uniwhisper_2",
+      "releaseNotes": "First UniWhisper Android MVP with the curated 33,600-message offline library, Daily Whisper, Ask Universe keyword mapping, local journal, library search, settings, safety boundary, and no runtime AI.",
+      "publishedAt": "2026-06-16T21:13:22Z",
+      "updatedAt": "2026-06-16T21:13:22Z",
+      "description": "UniWhisper is an offline symbolic reflection app with daily universe messages, reflective questions, grounded actions, Ask Universe prompts, local journaling, and searchable curated messages. It stores user data locally, uses no runtime AI, and presents messages as reflection rather than prediction or professional advice."
     },
     {
       "schemaVersion": 1,
