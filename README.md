@@ -6,32 +6,32 @@ NovaStore clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 si
 
 ## Catalog Summary
 
-- Generated: `2026-06-14T09:51:44Z`
-- Apps: `25` total (`1` current store app, `1` legacy store updater, `23` managed apps)
+- Generated: `2026-06-16T21:13:22Z`
+- Apps: `26` total (`2` current store app, `0` legacy store updater, `24` managed apps)
 - Excluded: companion sample APKs, Windows packages, recovered duplicate projects, and AAB-only artifacts.
 
 ## NovaStore App
 
-NovaStore is the private Android app catalog/update client.
+NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, checks installed versions, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval.
 
 - Package: `com.lenomila.novastore`
+- Category: `Store`
 - Version: `0.2.14` / code `34`
 - Description: NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, checks installed versions, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval.
 - Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.14/NovaStore-v0.2.14.apk>
 - APK SHA-256: `c940724bbc312c403a9b8b08eb6eaef4ecc8bd6adc13e3feff3a41f04a0983a1`
 - Signing certificate SHA-256: `115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c`
+## NovaStore App
 
-## NovaStore Legacy Updater
-
-This entry is only for old NovaStore 0.1.x installations that still use the original `com.novastore.client` package.
+This NovaStore entry is a compatibility bridge for older NovaStore 0.1.x installations that used the original com.novastore.client package. It lets those installs update to the final old-package build before moving to the modern NovaStore package.
 
 - Package: `com.novastore.client`
+- Category: `Store compatibility`
 - Version: `0.1.14` / code `15`
 - Description: This NovaStore entry is a compatibility bridge for older NovaStore 0.1.x installations that used the original com.novastore.client package. It lets those installs update to the final old-package build before moving to the modern NovaStore package.
 - Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.14/NovaStore-v0.1.14.apk>
 - APK SHA-256: `9b2218469afd71809942bab1ca0ada4414f87cae2083d97e3fda960195c5b547`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
-
 ## Catalog Apps
 
 ### Antikythera
@@ -169,15 +169,6 @@ This entry is only for old NovaStore 0.1.x installations that still use the orig
 - Download: <https://github.com/yustein/NovaStore/releases/download/solarflyover-v0.1.0/SolarFlyover-v0.1.0.apk>
 - APK SHA-256: `fe42182dd304131463c54c50b047eb1b2a6901dd002445e5856b1ce3a72bc4c9`
 - Signing certificate SHA-256: `000c29c806e7c126947e4289a3ca7c4e6a3331f883f22d819ff544a43a6199e0`
-### SpeedCockpit
-
-- Package: `com.lenomila.speedcockpit`
-- Category: `Navigation`
-- Version: `0.1.13` / code `14`
-- Description: SpeedCockpit is a driving cockpit with GPS speed, map context, speed-limit focused display, warning tones, and multiple map/cockpit modes. It is built for glanceable travel use with reduced map flicker and stricter speed-limit presentation.
-- Download: <https://github.com/yustein/NovaStore/releases/download/speedcockpit-v0.1.13/SpeedCockpit-v0.1.13.apk>
-- APK SHA-256: `33368b1bbb81b58b514b40e89d8f0eb39334d2b5605898e807958bebbd0d0d0e`
-- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 ### Speed Test Lab
 
 - Package: `com.lenomila.speedtest`
@@ -186,6 +177,15 @@ This entry is only for old NovaStore 0.1.x installations that still use the orig
 - Description: Speed Test Lab measures network latency, jitter, download speed, upload speed, active Wi-Fi/mobile transport details, public IP/provider metadata when reachable, and local test history. It uses public endpoints and presents results for comparing network quality over time.
 - Download: <https://github.com/yustein/NovaStore/releases/download/speedtestlab-v0.1.5/SpeedTestLab-v0.1.5.apk>
 - APK SHA-256: `d7ec76ae5b07dad6686939f392692189695cf55a701e14a7a8e8c200a678b7ba`
+- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
+### SpeedCockpit
+
+- Package: `com.lenomila.speedcockpit`
+- Category: `Navigation`
+- Version: `0.1.13` / code `14`
+- Description: SpeedCockpit is a driving cockpit with GPS speed, map context, speed-limit focused display, warning tones, and multiple map/cockpit modes. It is built for glanceable travel use with reduced map flicker and stricter speed-limit presentation.
+- Download: <https://github.com/yustein/NovaStore/releases/download/speedcockpit-v0.1.13/SpeedCockpit-v0.1.13.apk>
+- APK SHA-256: `33368b1bbb81b58b514b40e89d8f0eb39334d2b5605898e807958bebbd0d0d0e`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 ### TorrentAtlas
 
@@ -205,6 +205,15 @@ This entry is only for old NovaStore 0.1.x installations that still use the orig
 - Download: <https://github.com/yustein/NovaStore/releases/download/turkeytourism-v1.4.7/TurkeyTourism-v1.4.7.apk>
 - APK SHA-256: `cbeed03a5b423ef93ef0d7d694eee7e62f8e7c98b07a77d7960d97ce8038771b`
 - Signing certificate SHA-256: `2f251bc0a8c8ee73f48e88b31889c834035f83ce9281d9b16e7a7fb0010ae395`
+### UniWhisper
+
+- Package: `com.lenomila.uniwhisper`
+- Category: `Lifestyle`
+- Version: `0.1.1` / code `2`
+- Description: UniWhisper is an offline symbolic reflection app with daily universe messages, reflective questions, grounded actions, Ask Universe prompts, local journaling, and searchable curated messages. It stores user data locally, uses no runtime AI, and presents messages as reflection rather than prediction or professional advice.
+- Download: <https://github.com/yustein/NovaStore/releases/download/uniwhisper-v0.1.1/UniWhisper-v0.1.1.apk>
+- APK SHA-256: `ac828ffc53a3ee04639ef147c064b7d670d596bab9b02caff53118b27b42929d`
+- Signing certificate SHA-256: `223e0e1b6de9a302235bb5d1012ab76c6522431d5be32318124ae90781889dc2`
 ### Visit Video Logger
 
 - Package: `com.lenomila.visitvideologger`
@@ -244,28 +253,6 @@ This entry is only for old NovaStore 0.1.x installations that still use the orig
 ## Catalog Files
 
 - Full catalog: `catalog/index.json`
-- NovaStore: `catalog/novastore.json`
-- NovaStore Legacy Updater: `catalog/novastore-legacy.json`
-- Antikythera: `catalog/antikythera.json`
-- Aurora Weather: `catalog/auroraweather.json`
-- Backgammon LAN: `catalog/backgammonlan.json`
-- CalcFX: `catalog/calcfx.json`
-- Carpet Measure: `catalog/carpetmeasure.json`
-- ClawDeck: `catalog/clawdeck.json`
-- Echo Atlas: `catalog/echoatlas.json`
-- File Atlas: `catalog/fileatlas.json`
-- Gateway Fieldbook: `catalog/gatewayfieldbook.json`
-- MuzoPlay: `catalog/muzoplay.json`
-- PhantomXRay: `catalog/phantomxray.json`
-- Quake Globe: `catalog/quakeglobe.json`
-- Resonance Finder: `catalog/resonancefinder.json`
-- Resonance Lab: `catalog/resonancelab.json`
-- Solar Flyover: `catalog/solarflyover.json`
-- SpeedCockpit: `catalog/speedcockpit.json`
-- Speed Test Lab: `catalog/speedtestlab.json`
-- TorrentAtlas: `catalog/torrentatlas.json`
-- Turkey Tourism: `catalog/turkeytourism.json`
-- Visit Video Logger: `catalog/visitvideologger.json`
-- WaveVid: `catalog/wavevid.json`
-- Whisper Scribe: `catalog/whisperscribe.json`
-- World Cup 2026: `catalog/worldcup2026.json`
+- Detached signature: `catalog/index.json.sig`
+- Public key: `catalog/index-public-key.der.b64`
+- Per-app metadata: `catalog/<app-id>.json` files, including `catalog/uniwhisper.json`
