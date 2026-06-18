@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "appRole": "managed",
+  "packageName": "com.lenomila.clawchat",
+  "name": "ClawChat",
+  "publisherName": "Lenomila",
+  "category": "Communication",
+  "channel": "stable",
+  "versionName": "0.2.5",
+  "versionCode": 16,
+  "minSdk": 26,
+  "targetSdk": 36,
+  "sizeBytes": 23915388,
+  "sha256": "3053d6834746eeefc03138dfe33f007559e8b784fa638e8f67c0c2156abd0836",
+  "signingCertSha256": "93336087c5dad5b338268773963969acfaeda07a351062000c8754b4ac5e06cc",
+  "releaseId": "rel_clawchat_16",
+  "releaseNotes": "Publishes the stabilized ClawChat private messenger build. Live audio/video calling is removed for stability; messaging, attachments, chat sessions, delivered/read receipts, local notifications, and embedded Syncthing encrypted sync remain.",
+  "publishedAt": "2026-06-18T04:15:38Z",
+  "description": "ClawChat is an Android-first private messenger for no-phone-number chat. It creates a local cryptographic identity, pairs devices with invites, syncs encrypted message events through embedded Syncthing, supports attachments, delivered/read receipts, local notifications, and keeps live calling disabled for stability.",
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/clawchat-v0.2.5/ClawChat-v0.2.5.apk"
+}
