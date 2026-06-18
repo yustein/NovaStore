@@ -6,8 +6,8 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-06-18T10:14:03Z`
-- Apps: `28`
+- Generated: `2026-06-18T11:53:26Z`
+- Apps: `29`
 
 ## Catalog Apps
 
@@ -131,6 +131,18 @@ Gateway Fieldbook is a field journal and training companion rebuilt from Tony's 
 - APK SHA-256: `29964a09beffeff9617b02da7479fe48a12dd65b700980d356fc76255618e813`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
+### Lenomila PDF
+
+Lenomila PDF is a native Android PDF viewer for local documents. It opens PDFs from Android file/document providers, can be chosen as the default PDF viewer through Android's Open with / Always flow, renders pages on device, offers zoom controls, saves a copy through the system document picker, and shares the current PDF through Android share targets without requiring broad storage access.
+
+- Package: `com.lenomila.pdfviewer`
+- Category: `Tools`
+- Version: `0.1.0` / code `1`
+- Description: Lenomila PDF is a native Android PDF viewer for local documents. It opens PDFs from Android file/document providers, can be chosen as the default PDF viewer through Android's Open with / Always flow, renders pages on device, offers zoom controls, saves a copy through the system document picker, and shares the current PDF through Android share targets without requiring broad storage access.
+- Download: <https://github.com/yustein/NovaStore/releases/download/lenomilapdf-v0.1.0/LenomilaPDF-v0.1.0.apk>
+- APK SHA-256: `ba14993cad8509cd2dae58691f55e7bb1b1df9fc9bf35a869f52663bcc559c8d`
+- Signing certificate SHA-256: `4eb5935ed24028ea6e1340b2bb7d6ec4e73fd4804d76ca2f0b3a013198868bab`
+
 ### MuzoPlay
 
 MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports M3U/M3U8 and XMLTV-style guide data, plays streams with Media3/ExoPlayer, supports favorites and search, and intentionally includes no bundled channels, subscriptions, provider credentials, or public stream lists.
@@ -190,7 +202,6 @@ Prism Launcher is a privacy-first Android home launcher with Flow, Grid, Board, 
 - Download: <https://github.com/yustein/NovaStore/releases/download/prismlauncher-v0.2.0/PrismLauncher-v0.2.0.apk>
 - APK SHA-256: `e264ce657d765eda494913d5597866c04521ff1a1738c54dbd84f6c471e97576`
 - Signing certificate SHA-256: `c4aa92d9993a681e00b88e1298d782e84e94a95345a286bde6fee7a288e0033c`
-
 
 ### Quake Globe
 
@@ -347,8 +358,3 @@ World Cup 2026 is a tournament companion for fixtures, kickoff times, teams, ven
 - Download: <https://github.com/yustein/NovaStore/releases/download/worldcup2026-v0.1.4/WorldCup2026-v0.1.4.apk>
 - APK SHA-256: `482b66a79b72649d8a23a6b678fd9c55b26f0ff4dcd1aedfa922968567401383`
 - Signing certificate SHA-256: `574ab287ee443e3c6474aaf8372bce70fc33712dd063bc73198c38139f255243`
-
-## Signature
-
-- Public key: `catalog/index-public-key.der.b64`
-- Detached signature: `catalog/index.json.sig`
