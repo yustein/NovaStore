@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T09:40:31Z",
+  "generatedAt": "2026-06-18T10:14:03Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -308,20 +308,21 @@
       "publisherName": "Lenomila",
       "category": "Tools",
       "channel": "stable",
-      "versionName": "0.1.0",
-      "versionCode": 1,
+      "versionName": "0.1.1",
+      "versionCode": 2,
       "minSdk": 26,
       "targetSdk": 36,
-      "sizeBytes": 12505666,
-      "sha256": "72440061f1d1519cdf8f86b546274f1d7c4033c716338655a30528f1d0e7b9a0",
+      "sizeBytes": 13760069,
+      "sha256": "0a24c710409d4602388c7cda4450d04924ebfe63b9930624516718a8f95eec30",
       "signingCertSha256": "c4aa92d9993a681e00b88e1298d782e84e94a95345a286bde6fee7a288e0033c",
-      "releaseId": "rel_prismlauncher_1",
-      "releaseNotes": "Initial Prism Launcher MVP from Tony's launcher blueprint. Adds a privacy-first Android HOME launcher with Flow and Grid homes, LauncherApps-based app indexing, universal app search, favorites, hidden apps, aliases, tags, theme controls, and local JSON backup/import. It does not request network, notification, contacts, calendar, location, usage stats, Accessibility, or QUERY_ALL_PACKAGES.",
-      "publishedAt": "2026-06-18T09:40:31Z",
-      "description": "Prism Launcher is a privacy-first Android home launcher MVP with Flow and Grid home styles, LauncherApps-based app indexing, local universal app search, favorites, hidden apps, aliases, tags, theme controls, and local JSON backup/import. It works without sensitive permissions and avoids ads, trackers, network calls, notification access, Accessibility, and broad package queries.",
+      "releaseId": "rel_prismlauncher_2",
+      "releaseNotes": "Production-architecture MVP update. Adds Room-backed app/index/customization state, DataStore settings, cached launcher icons, Flow/Grid/Board/Command home styles, app library/search, long-press customization, JSON backup/import, and zero-sensitive-permission onboarding. It does not request Internet, Contacts, Notifications, Accessibility, Location, Calendar, Usage Stats, or QUERY_ALL_PACKAGES.",
+      "publishedAt": "2026-06-18T10:14:03Z",
+      "description": "Prism Launcher is a privacy-first Android home launcher MVP with Flow, Grid, Board, and Command home styles, LauncherApps-based profile-aware app indexing, Room-backed local app data, DataStore settings, cached icons, fuzzy app search, favorites, hidden apps, aliases, tags, theme controls, and local JSON backup/import. It avoids ads, trackers, network calls, Accessibility, sensitive permissions, and broad package queries.",
       "iconPngBase64": "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",
       "iconBackgroundColor": "#0D1117",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/prismlauncher-v0.1.0/PrismLauncher-v0.1.0.apk"
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/prismlauncher-v0.1.1/PrismLauncher-v0.1.1.apk",
+      "updatedAt": "2026-06-18T10:14:03Z"
     },
     {
       "schemaVersion": 1,

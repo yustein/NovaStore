@@ -6,7 +6,7 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-06-18T09:40:31Z`
+- Generated: `2026-06-18T10:14:03Z`
 - Apps: `28`
 
 ## Catalog Apps
@@ -181,15 +181,16 @@ PhantomXRay is an entertainment camera AR app that overlays a stylized skeleton 
 
 ### Prism Launcher
 
-Prism Launcher is a privacy-first Android home launcher MVP with Flow and Grid home styles, LauncherApps-based app indexing, local universal app search, favorites, hidden apps, aliases, tags, theme controls, and local JSON backup/import. It works without sensitive permissions and avoids ads, trackers, network calls, notification access, Accessibility, and broad package queries.
+Prism Launcher is a privacy-first Android home launcher MVP with Flow, Grid, Board, and Command home styles, LauncherApps-based profile-aware app indexing, Room-backed local app data, DataStore settings, cached icons, fuzzy app search, favorites, hidden apps, aliases, tags, theme controls, and local JSON backup/import. It avoids ads, trackers, network calls, Accessibility, sensitive permissions, and broad package queries.
 
 - Package: `com.lenomila.prismlauncher`
 - Category: `Tools`
-- Version: `0.1.0` / code `1`
-- Description: Prism Launcher is a privacy-first Android home launcher MVP with Flow and Grid home styles, LauncherApps-based app indexing, local universal app search, favorites, hidden apps, aliases, tags, theme controls, and local JSON backup/import. It works without sensitive permissions and avoids ads, trackers, network calls, notification access, Accessibility, and broad package queries.
-- Download: <https://github.com/yustein/NovaStore/releases/download/prismlauncher-v0.1.0/PrismLauncher-v0.1.0.apk>
-- APK SHA-256: `72440061f1d1519cdf8f86b546274f1d7c4033c716338655a30528f1d0e7b9a0`
+- Version: `0.1.1` / code `2`
+- Description: Prism Launcher is a privacy-first Android home launcher MVP with Flow, Grid, Board, and Command home styles, LauncherApps-based profile-aware app indexing, Room-backed local app data, DataStore settings, cached icons, fuzzy app search, favorites, hidden apps, aliases, tags, theme controls, and local JSON backup/import. It avoids ads, trackers, network calls, Accessibility, sensitive permissions, and broad package queries.
+- Download: <https://github.com/yustein/NovaStore/releases/download/prismlauncher-v0.1.1/PrismLauncher-v0.1.1.apk>
+- APK SHA-256: `0a24c710409d4602388c7cda4450d04924ebfe63b9930624516718a8f95eec30`
 - Signing certificate SHA-256: `c4aa92d9993a681e00b88e1298d782e84e94a95345a286bde6fee7a288e0033c`
+
 
 ### Quake Globe
 
