@@ -6,8 +6,8 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-06-18T12:06:12Z`
-- Apps: `29`
+- Generated: `2026-06-18T13:43:13Z`
+- Apps: `30`
 
 ## Catalog Apps
 
@@ -142,6 +142,18 @@ Lenomila PDF is a native Android PDF viewer for local documents. It opens PDFs f
 - Download: <https://github.com/yustein/NovaStore/releases/download/lenomilapdf-v0.1.1/LenomilaPDF-v0.1.1.apk>
 - APK SHA-256: `4c9d91a61857f803d7caeb221ba54c78547606847313e2185d654f68e0b5a0db`
 - Signing certificate SHA-256: `4eb5935ed24028ea6e1340b2bb7d6ec4e73fd4804d76ca2f0b3a013198868bab`
+
+### Lenomila Upscaler
+
+Lenomila Upscaler is a local Android image upscaler. It opens images through Android document providers or share intents, runs Real-ESRGAN style upscaling on the phone through NCNN/Vulkan with bundled lightweight model files, previews the result with pinch zoom, and saves or shares a PNG without Internet or broad storage permissions.
+
+- Package: `com.lenomila.upscaler`
+- Category: `Media`
+- Version: `0.1.0` / code `1`
+- Description: Lenomila Upscaler is a local Android image upscaler. It opens images through Android document providers or share intents, runs Real-ESRGAN style upscaling on the phone through NCNN/Vulkan with bundled lightweight model files, previews the result with pinch zoom, and saves or shares a PNG without Internet or broad storage permissions.
+- Download: <https://github.com/yustein/NovaStore/releases/download/lenomilaupscaler-v0.1.0/LenomilaUpscaler-v0.1.0.apk>
+- APK SHA-256: `525aa7ca9150e361c42b1195e37a1e5c3b3858f35bec83c63542bb05b60d80c3`
+- Signing certificate SHA-256: `048412542caeeab6c205961f1f8fdc853a1b1185ad1cedac570152b4c3e63b73`
 
 ### MuzoPlay
 

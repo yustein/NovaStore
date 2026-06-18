@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "appRole": "managed",
+  "packageName": "com.lenomila.upscaler",
+  "name": "Lenomila Upscaler",
+  "publisherName": "Lenomila",
+  "category": "Media",
+  "channel": "stable",
+  "versionName": "0.1.0",
+  "versionCode": 1,
+  "minSdk": 26,
+  "targetSdk": 36,
+  "sizeBytes": 35691149,
+  "sha256": "525aa7ca9150e361c42b1195e37a1e5c3b3858f35bec83c63542bb05b60d80c3",
+  "signingCertSha256": "048412542caeeab6c205961f1f8fdc853a1b1185ad1cedac570152b4c3e63b73",
+  "releaseId": "rel_lenomilaupscaler_1",
+  "releaseNotes": "Initial release. Adds local on-device Real-ESRGAN image upscaling through NCNN/Vulkan, Android image picker and share-intent support, pinch-zoom preview, PNG save/share controls, bundled official lightweight Real-ESRGAN NCNN models, and no Internet or broad storage permissions.",
+  "publishedAt": "2026-06-18T13:43:13Z",
+  "description": "Lenomila Upscaler is a local Android image upscaler. It opens images through Android document providers or share intents, runs Real-ESRGAN style upscaling on the phone through NCNN/Vulkan with bundled lightweight model files, previews the result with pinch zoom, and saves or shares a PNG without Internet or broad storage permissions.",
+  "iconPngBase64": "iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAADvklEQVR4nO3dwWoTURSA4am49RUE6cpNQVz4IgW3xedw6XOIW8EX6aIIblwVwVcotHRVV4VSk8wk/9xzzr35v2WbZpJzf6/JJE1Pbu/uHybpQC+yb4D6ZkBCDEiIAQkxICEGJMSAhBiQEAMSYkBCDEiIAQkxICEGJMSAhLykV3B2cb3G7Qjx69tp2LGOZS7uQEIMSIgBCTEgIQYkxICEGJAQAxKCTyQuEXkCr4oq97n1CU13ICEGJMSAhBiQEAMSYkBCDEiIAQkJOZE4583bd9k3oVt/fv9MPX5qQIbDPc4wK6SUgAxnfVkhhT8GMp62oucbGpDxxIicc1hAxhMrat4+jRcSEpC7T46IubsDCTEgIQYkxICElHgt7Nhdf3//39dOP14l3JL9GVCiTeE8/171kAwowa5wtl22akg+Bgq2Tzxr/FxrBiTEgALRXaTiLmRAQgwoyFq7R7VdyICEGJAQAxJiQEIMKMhaZ5KrnZHGL2XMfRKX70bMdXN53vRXfdyBAtHdo9ruM00GJMiAGnn95dPGrx+6i1TcfaZpmk5u7+4fWh7gGB8DPY3n7+evWy+35KzyGuH4GAjYthNUOP7px6utgez6XiVD70BLd4JWx3wq6vibuAMd4PlCRuxEu46RvRO2MmRA2xZr1EXMNFxAc5G0imjJ9Y4Y8HABZdgnjNEiGiqgpYuz5iIecl0jRTRMQPsuSvYiZh9/LUMEdOhi0EXM/vkKug8oaxHXWvzeI+o6oFEWMfv4RLcBrT307GdSvUbUZUCjnsvpMaLuAmo95B4XMVN3AWXKfj2toq4CihrupuNELmxPEXUTUPRQnx4vY0F7iaiLgLKGmb2I2cdfonxA2UM89uPPKR1Q9eFFqTyHsgFVHlqGqvMoGVDVYWWrOBf8pvqzi+vZy9xcni++vopDqmafN+i/+vBj9jJzv56+S8kdSP0oFZC7zzKV5lQmoEpD6UGVeZUIqMowelNhbukBVRhCz7Lnl/63MjJ/5Vdc+g6kvhmQEAMSYkBCDEiIAQkxICEhAbX8iDVtFzF3dyAhYQG5C8WKmnfoDmREMSLnHP5fmBG1FT3flBdTH+/kMX6KfStZ/zBTX403JC57R09/O8c05Q9Bh/NpvBADEmJAQgxIiAEJMSAhBiTEgIQYkBADEmJAQgxISMiLqUs+xSwC+SSufVW5z625AwkxICEGJMSAhBiQEAMSYkBCDEgI/lMHOm7uQEIMSIgBCTEgIQYkxICEGJAQAxJiQEIMSIgBCTEgIQYkxICE/AMUsuSJSfciagAAAABJRU5ErkJggg==",
+  "iconBackgroundColor": "#F6F7F9",
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/lenomilaupscaler-v0.1.0/LenomilaUpscaler-v0.1.0.apk"
+}
