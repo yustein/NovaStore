@@ -1,40 +1,15 @@
 # NovaStore Public Catalog
 
-This public repository hosts NovaStore catalog metadata and public APK release assets for Tony's private Android app store.
+This public repository hosts NovaStore catalog metadata and public APK release assets for Tony's private Android app catalog.
 
 Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, show pinned APK SHA-256/signing metadata, and install GitHub-hosted APK downloads only through Android user consent.
 
 ## Catalog Summary
 
-- Generated: `2026-06-17T07:40:20Z`
-- Apps: `26` total (`2` current store app, `1` legacy store updater, `24` managed apps)
-- Excluded: companion sample APKs, Windows packages, recovered duplicate projects, and AAB-only artifacts.
-
-## NovaStore App
-
-NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, checks installed versions, verifies catalog signatures plus APK hashes, supports a persisted multi-language interface, and hands installs or updates to Android with normal user approval.
-
-- Package: `com.lenomila.novastore`
-- Category: `Store`
-- Version: `0.2.16` / code `36`
-- Description: NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, checks installed versions, verifies catalog signatures plus APK hashes, supports a persisted multi-language interface, and hands installs or updates to Android with normal user approval.
-- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.16/NovaStore-v0.2.16.apk>
-- APK SHA-256: `6752ee4ca1b241ee6c918c6e19e3b1f6ec7b2686e6a22b9f176779708e12842d`
-- Signing certificate SHA-256: `115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c`
+- Generated: `2026-06-18T09:40:31Z`
+- Apps: `28`
 
 ## Catalog Apps
-
-## NovaStore App
-
-This NovaStore entry is a compatibility bridge for older NovaStore 0.1.x installations that used the original com.novastore.client package. It lets those installs update to the final old-package build before moving to the modern NovaStore package.
-
-- Package: `com.novastore.client`
-- Category: `Store compatibility`
-- Version: `0.1.14` / code `15`
-- Description: This NovaStore entry is a compatibility bridge for older NovaStore 0.1.x installations that used the original com.novastore.client package. It lets those installs update to the final old-package build before moving to the modern NovaStore package.
-- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.14/NovaStore-v0.1.14.apk>
-- APK SHA-256: `9b2218469afd71809942bab1ca0ada4414f87cae2083d97e3fda960195c5b547`
-- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
 ### Antikythera
 
@@ -96,6 +71,18 @@ Carpet Measure is an AR measurement prototype for estimating carpet and floor di
 - APK SHA-256: `0be6bff3f3eb412d40d03c5ff07946874b8d117581f575efd413b4de5e9fc338`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
+### ClawChat
+
+ClawChat is an Android-first private messenger for no-phone-number chat. It creates a local cryptographic identity, pairs devices with invites, syncs encrypted message events through embedded Syncthing, supports attachments and voice messages, delivered/read receipts, local notifications, and keeps live calling disabled for stability.
+
+- Package: `com.lenomila.clawchat`
+- Category: `Communication`
+- Version: `0.2.7` / code `18`
+- Description: ClawChat is an Android-first private messenger for no-phone-number chat. It creates a local cryptographic identity, pairs devices with invites, syncs encrypted message events through embedded Syncthing, supports attachments and voice messages, delivered/read receipts, local notifications, and keeps live calling disabled for stability.
+- Download: <https://github.com/yustein/NovaStore/releases/download/clawchat-v0.2.7/ClawChat-v0.2.7.apk>
+- APK SHA-256: `2a3222620c764f2c044667eda113c78b2891d2fe254668787e02542e86782ba3`
+- Signing certificate SHA-256: `93336087c5dad5b338268773963969acfaeda07a351062000c8754b4ac5e06cc`
+
 ### ClawDeck
 
 ClawDeck is an Android-first OpenClaw operations console. It keeps saved server targets, SSH command surfaces, safe command templates, local operator notes, chat with OpenClaw, background chat keepalive, logs, redaction, and a setup flow for managing Tony's own infrastructure from a phone.
@@ -156,6 +143,30 @@ MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports 
 - APK SHA-256: `1958c4ff905d867c3c29359258b0099f7dddc8bc50394694b2e587406443c56e`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
+### NovaStore
+
+NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, uses signed catalog icon metadata, checks installed versions for catalog apps through Android launcher visibility without QUERY_ALL_PACKAGES, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval.
+
+- Package: `com.lenomila.novastore`
+- Category: `Store`
+- Version: `0.2.17` / code `37`
+- Description: NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, uses signed catalog icon metadata, checks installed versions for catalog apps through Android launcher visibility without QUERY_ALL_PACKAGES, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval.
+- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.17/NovaStore-v0.2.17.apk>
+- APK SHA-256: `dea688b6e84c3eba7741876334e95fc4446266bbfa25c96615b00e954dec4369`
+- Signing certificate SHA-256: `115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c`
+
+### NovaStore
+
+This NovaStore entry is a compatibility bridge for older NovaStore 0.1.x installations that used the original com.novastore.client package. It lets those installs update to the final old-package build before moving to the modern NovaStore package.
+
+- Package: `com.novastore.client`
+- Category: `Store compatibility`
+- Version: `0.1.14` / code `15`
+- Description: This NovaStore entry is a compatibility bridge for older NovaStore 0.1.x installations that used the original com.novastore.client package. It lets those installs update to the final old-package build before moving to the modern NovaStore package.
+- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.14/NovaStore-v0.1.14.apk>
+- APK SHA-256: `9b2218469afd71809942bab1ca0ada4414f87cae2083d97e3fda960195c5b547`
+- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
+
 ### PhantomXRay
 
 PhantomXRay is an entertainment camera AR app that overlays a stylized skeleton and skull effect on people in the camera preview. It uses on-device pose/face tracking for spooky visual play and is not medical imaging, diagnosis, security scanning, or a real X-ray tool.
@@ -167,6 +178,18 @@ PhantomXRay is an entertainment camera AR app that overlays a stylized skeleton 
 - Download: <https://github.com/yustein/NovaStore/releases/download/phantomxray-v0.1.2/PhantomXRay-v0.1.2.apk>
 - APK SHA-256: `4d0a8d0897a7e2e6738b2b053bce820016ca48b99108fcfc57c320de4f2370ad`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
+
+### Prism Launcher
+
+Prism Launcher is a privacy-first Android home launcher MVP with Flow and Grid home styles, LauncherApps-based app indexing, local universal app search, favorites, hidden apps, aliases, tags, theme controls, and local JSON backup/import. It works without sensitive permissions and avoids ads, trackers, network calls, notification access, Accessibility, and broad package queries.
+
+- Package: `com.lenomila.prismlauncher`
+- Category: `Tools`
+- Version: `0.1.0` / code `1`
+- Description: Prism Launcher is a privacy-first Android home launcher MVP with Flow and Grid home styles, LauncherApps-based app indexing, local universal app search, favorites, hidden apps, aliases, tags, theme controls, and local JSON backup/import. It works without sensitive permissions and avoids ads, trackers, network calls, notification access, Accessibility, and broad package queries.
+- Download: <https://github.com/yustein/NovaStore/releases/download/prismlauncher-v0.1.0/PrismLauncher-v0.1.0.apk>
+- APK SHA-256: `72440061f1d1519cdf8f86b546274f1d7c4033c716338655a30528f1d0e7b9a0`
+- Signing certificate SHA-256: `c4aa92d9993a681e00b88e1298d782e84e94a95345a286bde6fee7a288e0033c`
 
 ### Quake Globe
 
@@ -216,18 +239,6 @@ Solar Flyover is an offline 3D solar system model built for practical accuracy. 
 - APK SHA-256: `fe42182dd304131463c54c50b047eb1b2a6901dd002445e5856b1ce3a72bc4c9`
 - Signing certificate SHA-256: `000c29c806e7c126947e4289a3ca7c4e6a3331f883f22d819ff544a43a6199e0`
 
-### SpeedCockpit
-
-SpeedCockpit is a driving cockpit with GPS speed, map context, speed-limit focused display, warning tones, and multiple map/cockpit modes. It is built for glanceable travel use with reduced map flicker and stricter speed-limit presentation.
-
-- Package: `com.lenomila.speedcockpit`
-- Category: `Navigation`
-- Version: `0.1.13` / code `14`
-- Description: SpeedCockpit is a driving cockpit with GPS speed, map context, speed-limit focused display, warning tones, and multiple map/cockpit modes. It is built for glanceable travel use with reduced map flicker and stricter speed-limit presentation.
-- Download: <https://github.com/yustein/NovaStore/releases/download/speedcockpit-v0.1.13/SpeedCockpit-v0.1.13.apk>
-- APK SHA-256: `33368b1bbb81b58b514b40e89d8f0eb39334d2b5605898e807958bebbd0d0d0e`
-- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
-
 ### Speed Test Lab
 
 Speed Test Lab measures network latency, jitter, download speed, upload speed, active Wi-Fi/mobile transport details, public IP/provider metadata when reachable, and local test history. It uses public endpoints and presents results for comparing network quality over time.
@@ -238,6 +249,18 @@ Speed Test Lab measures network latency, jitter, download speed, upload speed, a
 - Description: Speed Test Lab measures network latency, jitter, download speed, upload speed, active Wi-Fi/mobile transport details, public IP/provider metadata when reachable, and local test history. It uses public endpoints and presents results for comparing network quality over time.
 - Download: <https://github.com/yustein/NovaStore/releases/download/speedtestlab-v0.1.5/SpeedTestLab-v0.1.5.apk>
 - APK SHA-256: `d7ec76ae5b07dad6686939f392692189695cf55a701e14a7a8e8c200a678b7ba`
+- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
+
+### SpeedCockpit
+
+SpeedCockpit is a driving cockpit with GPS speed, map context, speed-limit focused display, warning tones, and multiple map/cockpit modes. It is built for glanceable travel use with reduced map flicker and stricter speed-limit presentation.
+
+- Package: `com.lenomila.speedcockpit`
+- Category: `Navigation`
+- Version: `0.1.13` / code `14`
+- Description: SpeedCockpit is a driving cockpit with GPS speed, map context, speed-limit focused display, warning tones, and multiple map/cockpit modes. It is built for glanceable travel use with reduced map flicker and stricter speed-limit presentation.
+- Download: <https://github.com/yustein/NovaStore/releases/download/speedcockpit-v0.1.13/SpeedCockpit-v0.1.13.apk>
+- APK SHA-256: `33368b1bbb81b58b514b40e89d8f0eb39334d2b5605898e807958bebbd0d0d0e`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
 ### TorrentAtlas
