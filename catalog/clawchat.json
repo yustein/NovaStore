@@ -17,5 +17,7 @@
   "releaseNotes": "Fixes read receipts so read status is sent only while the app is resumed and the chat is displayed; restores background notification ownership; adds voice-message recording/sending; adds attachment open/save for images, videos, audio, and documents; and adds individual, multi-message, and full-chat deletion.",
   "publishedAt": "2026-06-18T04:44:24Z",
   "description": "ClawChat is an Android-first private messenger for no-phone-number chat. It creates a local cryptographic identity, pairs devices with invites, syncs encrypted message events through embedded Syncthing, supports attachments and voice messages, delivered/read receipts, local notifications, and keeps live calling disabled for stability.",
-  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/clawchat-v0.2.6/ClawChat-v0.2.6.apk"
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/clawchat-v0.2.6/ClawChat-v0.2.6.apk",
+  "iconPngBase64": "iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAB3klEQVR42u3dwa2CQBCA4YUQS9GaLMaTxViTVsCZC4kXvFmAcZdl5vsbUPB7M0rwOazLvBXpx0anQAAJIAEkgCSABJAAEkASQAJIAAkgCSABJIAEkASQABJAAkgASQAJIAEkgCSABJAAEkASQAJIAAkg6du01wOfbzdn/8+97vfmjzm0/B+J0MTDNMITs1bnu/oEAif2NBrhMY26BARPDkQ+xqs/QKZPnik0wgORFaZYK0wAWV/WmAkkK0wACSAJIAEkgASQBJAAUgdNR3miz+s73YtzeZxMIHhiH7cVJoAEkAASQBJAAkgA/bMjXFDLetyTkykrTAAJIAEkASSABJBS5I7ESmW5buWORM/ZChNAAkgASQAJIAEkgLrpiBflslxIdEeirDABJIAEkASQDgtoj98t176vkwkkgBQIkDWWZ31Vm0AQ5cBjhalfQKZQ/OlTfQJBFBtPKaUM6zJvLQ7CD/LGgtP8PZBpFA9P0wlkIsX8I90NUA/VQJxt0voYDw9A8AAED0DwACQBZPoABA9A8AAkeACCByB4AIIHIHgEEDwAwQMQPABJAJk+AMEDEDwAwQMQPPql1F/rkQkkgASQAJIAEkACSABJAAkgASSAJIAEkAASQBJAAkg99AGwu4r8Uh5wuwAAAABJRU5ErkJggg==",
+  "iconBackgroundColor": "#F7F2E8"
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T04:44:24Z",
+  "generatedAt": "2026-06-18T05:06:04Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -10,19 +10,19 @@
       "publisherName": "Lenomila",
       "category": "Store",
       "channel": "stable",
-      "versionName": "0.2.16",
-      "versionCode": 36,
+      "versionName": "0.2.17",
+      "versionCode": 37,
       "minSdk": 26,
       "targetSdk": 36,
-      "sizeBytes": 12620935,
-      "sha256": "6752ee4ca1b241ee6c918c6e19e3b1f6ec7b2686e6a22b9f176779708e12842d",
+      "sizeBytes": 12623517,
+      "sha256": "dea688b6e84c3eba7741876334e95fc4446266bbfa25c96615b00e954dec4369",
       "signingCertSha256": "115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.16/NovaStore-v0.2.16.apk",
-      "releaseId": "rel_novastore_36",
-      "releaseNotes": "Adds a persisted language selector with phone-language defaults and localizes NovaStore-owned UI, dialogs, download/status messages, share text, and update notifications across English, Mandarin Chinese, Hindi, Spanish, German, French, Italian, Arabic, Bengali, Portuguese, Russian, Japanese, and Turkish. Also adds targeted package visibility for UniWhisper and WhisperScribe without broad package queries.",
-      "publishedAt": "2026-06-17T07:38:07Z",
-      "updatedAt": "2026-06-17T07:40:20Z",
-      "description": "NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, checks installed versions, verifies catalog signatures plus APK hashes, supports a persisted multi-language interface, and hands installs or updates to Android with normal user approval."
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.17/NovaStore-v0.2.17.apk",
+      "releaseId": "rel_novastore_37",
+      "releaseNotes": "Adds catalog-driven app icons and launcher-visibility installed checks so newly cataloged launchable apps can show proper icons and installed/current/update state without store APK updates for every new package. Checks remain scoped to signed/discovered catalog package names and do not use QUERY_ALL_PACKAGES.",
+      "publishedAt": "2026-06-18T05:06:04Z",
+      "updatedAt": "2026-06-18T05:06:04Z",
+      "description": "NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, uses signed catalog icon metadata, checks installed versions for catalog apps through Android launcher visibility without QUERY_ALL_PACKAGES, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval."
     },
     {
       "schemaVersion": 1,
@@ -170,7 +170,9 @@
       "releaseNotes": "Fixes read receipts so read status is sent only while the app is resumed and the chat is displayed; restores background notification ownership; adds voice-message recording/sending; adds attachment open/save for images, videos, audio, and documents; and adds individual, multi-message, and full-chat deletion.",
       "publishedAt": "2026-06-18T04:44:24Z",
       "description": "ClawChat is an Android-first private messenger for no-phone-number chat. It creates a local cryptographic identity, pairs devices with invites, syncs encrypted message events through embedded Syncthing, supports attachments and voice messages, delivered/read receipts, local notifications, and keeps live calling disabled for stability.",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/clawchat-v0.2.6/ClawChat-v0.2.6.apk"
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/clawchat-v0.2.6/ClawChat-v0.2.6.apk",
+      "iconPngBase64": "iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAB3klEQVR42u3dwa2CQBCA4YUQS9GaLMaTxViTVsCZC4kXvFmAcZdl5vsbUPB7M0rwOazLvBXpx0anQAAJIAEkgCSABJAAEkASQAJIAAkgCSABJIAEkASQABJAAkgASQAJIAEkgCSABJAAEkASQAJIAAkg6du01wOfbzdn/8+97vfmjzm0/B+J0MTDNMITs1bnu/oEAif2NBrhMY26BARPDkQ+xqs/QKZPnik0wgORFaZYK0wAWV/WmAkkK0wACSAJIAEkgASQBJAAUgdNR3miz+s73YtzeZxMIHhiH7cVJoAEkAASQBJAAkgA/bMjXFDLetyTkykrTAAJIAEkASSABJBS5I7ESmW5buWORM/ZChNAAkgASQAJIAEkgLrpiBflslxIdEeirDABJIAEkASQDgtoj98t176vkwkkgBQIkDWWZ31Vm0AQ5cBjhalfQKZQ/OlTfQJBFBtPKaUM6zJvLQ7CD/LGgtP8PZBpFA9P0wlkIsX8I90NUA/VQJxt0voYDw9A8AAED0DwACQBZPoABA9A8AAkeACCByB4AIIHIHgEEDwAwQMQPABJAJk+AMEDEDwAwQMQPPql1F/rkQkkgASQAJIAEkACSABJAAkgASSAJIAEkAASQBJAAkg99AGwu4r8Uh5wuwAAAABJRU5ErkJggg==",
+      "iconBackgroundColor": "#F7F2E8"
     },
     {
       "schemaVersion": 1,
