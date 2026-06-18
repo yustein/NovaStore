@@ -6,7 +6,7 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-06-18T11:53:26Z`
+- Generated: `2026-06-18T12:06:12Z`
 - Apps: `29`
 
 ## Catalog Apps
@@ -133,14 +133,14 @@ Gateway Fieldbook is a field journal and training companion rebuilt from Tony's 
 
 ### Lenomila PDF
 
-Lenomila PDF is a native Android PDF viewer for local documents. It opens PDFs from Android file/document providers, can be chosen as the default PDF viewer through Android's Open with / Always flow, renders pages on device, offers zoom controls, saves a copy through the system document picker, and shares the current PDF through Android share targets without requiring broad storage access.
+Lenomila PDF is a native Android PDF viewer for local documents. It opens PDFs from Android file/document providers, can be chosen as the default PDF viewer through Android's Open with / Always flow, renders pages on device, offers button and pinch zoom controls, saves a copy through the system document picker, and shares the current PDF through Android share targets without requiring broad storage access.
 
 - Package: `com.lenomila.pdfviewer`
 - Category: `Tools`
-- Version: `0.1.0` / code `1`
-- Description: Lenomila PDF is a native Android PDF viewer for local documents. It opens PDFs from Android file/document providers, can be chosen as the default PDF viewer through Android's Open with / Always flow, renders pages on device, offers zoom controls, saves a copy through the system document picker, and shares the current PDF through Android share targets without requiring broad storage access.
-- Download: <https://github.com/yustein/NovaStore/releases/download/lenomilapdf-v0.1.0/LenomilaPDF-v0.1.0.apk>
-- APK SHA-256: `ba14993cad8509cd2dae58691f55e7bb1b1df9fc9bf35a869f52663bcc559c8d`
+- Version: `0.1.1` / code `2`
+- Description: Lenomila PDF is a native Android PDF viewer for local documents. It opens PDFs from Android file/document providers, can be chosen as the default PDF viewer through Android's Open with / Always flow, renders pages on device, offers button and pinch zoom controls, saves a copy through the system document picker, and shares the current PDF through Android share targets without requiring broad storage access.
+- Download: <https://github.com/yustein/NovaStore/releases/download/lenomilapdf-v0.1.1/LenomilaPDF-v0.1.1.apk>
+- APK SHA-256: `4c9d91a61857f803d7caeb221ba54c78547606847313e2185d654f68e0b5a0db`
 - Signing certificate SHA-256: `4eb5935ed24028ea6e1340b2bb7d6ec4e73fd4804d76ca2f0b3a013198868bab`
 
 ### MuzoPlay
