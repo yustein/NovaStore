@@ -6,8 +6,8 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-06-19T10:59:35Z`
-- Apps: `31`
+- Generated: `2026-06-19T11:38:03Z`
+- Apps: `32`
 
 ## Catalog Apps
 
@@ -370,6 +370,18 @@ Whisper Scribe records or imports audio on Android and turns speech into editabl
 - Download: <https://github.com/yustein/NovaStore/releases/download/whisperscribe-v0.2.1/WhisperScribe-v0.2.1.apk>
 - APK SHA-256: `9c2e821045c46c77c30fb2d97c809dd7cb68ffdfe89891bfb63a07c4664ea58c`
 - Signing certificate SHA-256: `34b116221abae424c6d63d867303037ac43b826f6e95a092f79994e67f23a2aa`
+
+### WiFi Spectrum Lab
+
+WiFi Spectrum Lab is a local Android Wi-Fi analyzer for inspecting nearby access points without sending scan data off the phone. It shows SSID/BSSID, signal strength, channel, band, channel width, security posture, vendor hints, connected-network context, channel congestion, signal history, and JSON report export while respecting Android scan throttling and permission limits.
+
+- Package: `com.lenomila.wifispectrumlab`
+- Category: `Tools`
+- Version: `0.1.0` / code `1`
+- Description: WiFi Spectrum Lab is a local Android Wi-Fi analyzer for inspecting nearby access points without sending scan data off the phone. It shows SSID/BSSID, signal strength, channel, band, channel width, security posture, vendor hints, connected-network context, channel congestion, signal history, and JSON report export while respecting Android scan throttling and permission limits.
+- Download: <https://github.com/yustein/NovaStore/releases/download/wifispectrumlab-v0.1.0/WiFiSpectrumLab-v0.1.0.apk>
+- APK SHA-256: `0d084ae5ba9231f6c358c9482cb71bc82b4734794082be4fd283a3816cdfa903`
+- Signing certificate SHA-256: `c9ba39e7554f56e0aa4236a5bea91cf199d0c5e5f7f48df2bdeb664fc4fef1a4`
 
 ### World Cup 2026
 
