@@ -6,8 +6,8 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-06-19T11:38:03Z`
-- Apps: `32`
+- Generated: `2026-06-19T12:04:07Z`
+- Apps: `33`
 
 ## Catalog Apps
 
@@ -46,6 +46,18 @@ Backgammon LAN is a local-network backgammon game for Android and Windows player
 - Download: <https://github.com/yustein/NovaStore/releases/download/backgammonlan-v0.1.10/BackgammonLAN-v0.1.10.apk>
 - APK SHA-256: `b92063e76ba776b953c51a415afebfe67d421f13034062b04e0c4df65b84369d`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
+
+### Bluetooth Explorer Lab
+
+Bluetooth Explorer Lab is a local Android Bluetooth diagnostics app for scanning nearby BLE advertisements, inspecting paired devices, service UUIDs, manufacturer data, RSSI, PHY, connectability, and safely probing GATT services read-only. It exports JSON locally and intentionally uses no Internet permission.
+
+- Package: `com.lenomila.bluetoothexplorerlab`
+- Category: `Tools`
+- Version: `0.1.0` / code `1`
+- Description: Bluetooth Explorer Lab is a local Android Bluetooth diagnostics app for scanning nearby BLE advertisements, inspecting paired devices, service UUIDs, manufacturer data, RSSI, PHY, connectability, and safely probing GATT services read-only. It exports JSON locally and intentionally uses no Internet permission.
+- Download: <https://github.com/yustein/NovaStore/releases/download/bluetoothexplorerlab-v0.1.0/BluetoothExplorerLab-v0.1.0.apk>
+- APK SHA-256: `ba32410f1e434d3938b7b162caf982e67df74e658b386d7e6115d5f7c499012e`
+- Signing certificate SHA-256: `2c439cbbf48ff1a3bd1ea5581f0b24b7ef5979485301b7116e8538f2271f2113`
 
 ### CalcFX
 
