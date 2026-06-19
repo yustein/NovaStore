@@ -6,8 +6,8 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-06-19T02:07:49Z`
-- Apps: `30`
+- Generated: `2026-06-19T10:59:35Z`
+- Apps: `31`
 
 ## Catalog Apps
 
@@ -83,7 +83,6 @@ ClawChat is an Android-first private messenger for no-phone-number chat. It crea
 - APK SHA-256: `f420f1870bae3bddc1ad45680f7a62fc5eef4d397274edc18bb3298a84471871`
 - Signing certificate SHA-256: `93336087c5dad5b338268773963969acfaeda07a351062000c8754b4ac5e06cc`
 
-
 ### ClawDeck
 
 ClawDeck is an Android-first OpenClaw operations console. It keeps saved server targets, SSH command surfaces, safe command templates, local operator notes, chat with OpenClaw, background chat keepalive, logs, redaction, and a setup flow for managing Tony's own infrastructure from a phone.
@@ -131,6 +130,18 @@ Gateway Fieldbook is a field journal and training companion rebuilt from Tony's 
 - Download: <https://github.com/yustein/NovaStore/releases/download/gatewayfieldbook-v1.3.0/GatewayFieldbook-v1.3.0.apk>
 - APK SHA-256: `29964a09beffeff9617b02da7479fe48a12dd65b700980d356fc76255618e813`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
+
+### GPU Video Combiner
+
+GPU Video Combiner is a local Android video tool for joining selected clips into one MP4. It lets you order a clip queue, choose output size, fit mode, codec, and audio behavior, then export through Android hardware encoding and save the result to Movies/GPUVideoCombiner.
+
+- Package: `com.lenomila.gpuvideocombiner`
+- Category: `Video`
+- Version: `0.1.0` / code `1`
+- Description: GPU Video Combiner is a local Android video tool for joining selected clips into one MP4. It lets you order a clip queue, choose output size, fit mode, codec, and audio behavior, then export through Android hardware encoding and save the result to Movies/GPUVideoCombiner.
+- Download: <https://github.com/yustein/NovaStore/releases/download/gpuvideocombiner-v0.1.0/GPUVideoCombiner-v0.1.0.apk>
+- APK SHA-256: `2db16b4db63e4c710c1712d97883cf7c0bb53360a27e548c68e1657f31959dc3`
+- Signing certificate SHA-256: `ed41e359ad6ae9bb4b086343ab72d3e45801998f832547c357bd1b92f8961740`
 
 ### Lenomila PDF
 
