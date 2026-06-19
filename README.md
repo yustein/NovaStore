@@ -73,15 +73,16 @@ Carpet Measure is an AR measurement prototype for estimating carpet and floor di
 
 ### ClawChat
 
-ClawChat is an Android-first private messenger for no-phone-number chat. It creates a local cryptographic identity, pairs devices with invites, syncs encrypted message events through embedded Syncthing, supports attachments and voice messages, delivered/read receipts, local notifications, opt-in background sync, and now pauses the native sync daemon when Android has no active network.
+ClawChat is an Android-first private messenger for no-phone-number chat. It creates a local cryptographic identity, pairs devices with invites, syncs encrypted message events through embedded Syncthing, supports attachments and voice messages, delivered/read receipts, local notifications, opt-in background sync, network-aware pause/resume, and a background check frequency control for battery savings.
 
 - Package: `com.lenomila.clawchat`
 - Category: `Communication`
-- Version: `0.2.9` / code `20`
-- Description: ClawChat is an Android-first private messenger for no-phone-number chat. It creates a local cryptographic identity, pairs devices with invites, syncs encrypted message events through embedded Syncthing, supports attachments and voice messages, delivered/read receipts, local notifications, opt-in background sync, and now pauses the native sync daemon when Android has no active network.
-- Download: <https://github.com/yustein/NovaStore/releases/download/clawchat-v0.2.9/ClawChat-v0.2.9.apk>
-- APK SHA-256: `5518153d604e5c00f8245937d9cc88287f6bc9d99d4a7cbb3e52c76bf4fbb643`
+- Version: `0.2.10` / code `21`
+- Description: ClawChat is an Android-first private messenger for no-phone-number chat. It creates a local cryptographic identity, pairs devices with invites, syncs encrypted message events through embedded Syncthing, supports attachments and voice messages, delivered/read receipts, local notifications, opt-in background sync, network-aware pause/resume, and a background check frequency control for battery savings.
+- Download: <https://github.com/yustein/NovaStore/releases/download/clawchat-v0.2.10/ClawChat-v0.2.10.apk>
+- APK SHA-256: `f420f1870bae3bddc1ad45680f7a62fc5eef4d397274edc18bb3298a84471871`
 - Signing certificate SHA-256: `93336087c5dad5b338268773963969acfaeda07a351062000c8754b4ac5e06cc`
+
 
 ### ClawDeck
 
