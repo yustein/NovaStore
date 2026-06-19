@@ -6,7 +6,7 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-06-19T01:43:19Z`
+- Generated: `2026-06-19T02:07:49Z`
 - Apps: `30`
 
 ## Catalog Apps
@@ -29,10 +29,10 @@ Aurora Weather is a local weather app focused on clear current conditions, forec
 
 - Package: `com.lenomila.auroraweather`
 - Category: `Weather`
-- Version: `3.0.29` / code `66`
+- Version: `3.0.30` / code `67`
 - Description: Aurora Weather is a local weather app focused on clear current conditions, forecasts, rain awareness, widgets, and location-aware updates. It can follow the phone's current position, actively refresh widget weather after movement, cache recent results, and support practical daily/weather-alert workflows without requiring an account.
-- Download: <https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.29/AuroraWeather-v3.0.29.apk>
-- APK SHA-256: `d75202bfc49dca7011c5908ec790cbb88ff9d4812d7fdcd69c804053089c814b`
+- Download: <https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.30/AuroraWeather-v3.0.30.apk>
+- APK SHA-256: `e4ddf76342955897d851679b7fcd2c54e529c2812fe854018b3c4df6ff471dd5`
 - Signing certificate SHA-256: `a2d688bd7db1138915692fd294c629545988524ff1a1d65dfee5263fc11a7cd3`
 
 ### Backgammon LAN
@@ -370,4 +370,3 @@ World Cup 2026 is a tournament companion for fixtures, kickoff times, teams, ven
 - Download: <https://github.com/yustein/NovaStore/releases/download/worldcup2026-v0.1.4/WorldCup2026-v0.1.4.apk>
 - APK SHA-256: `482b66a79b72649d8a23a6b678fd9c55b26f0ff4dcd1aedfa922968567401383`
 - Signing certificate SHA-256: `574ab287ee443e3c6474aaf8372bce70fc33712dd063bc73198c38139f255243`
-
