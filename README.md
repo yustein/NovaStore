@@ -326,14 +326,14 @@ UniWhisper is an offline symbolic reflection app with daily universe messages, o
 
 ### Visit Video Logger
 
-Visit Video Logger records driving or travel videos with a composed camera, map, GPS, heading, speed, timestamp, and optional front-camera picture-in-picture overlay. It includes stationary GPS/compass smoothing, camera-aspect-safe recording composition, rear driving camera controls, a black-screen recording mode, readable location/story panels for travel narration, localized UI text, and Celsius/Fahrenheit weather display.
+Visit Video Logger records driving or travel videos with a composed camera, map, GPS, heading, speed, timestamp, optional front-camera picture-in-picture, black-screen mode, localized UI, weather units, and configurable right-panel transparency.
 
 - Package: `com.lenomila.visitvideologger`
 - Category: `Travel`
-- Version: `0.1.30` / code `31`
-- Description: Visit Video Logger records driving or travel videos with a composed camera, map, GPS, heading, speed, timestamp, and optional front-camera picture-in-picture overlay. It includes stationary GPS/compass smoothing, camera-aspect-safe recording composition, rear driving camera controls, a black-screen recording mode, readable location/story panels for travel narration, localized UI text, and Celsius/Fahrenheit weather display.
-- Download: <https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.30/VisitVideoLogger-v0.1.30.apk>
-- APK SHA-256: `87681a2f456930ba17880aed0fe618019d628d832e60be261f90e467d5b4f5f2`
+- Version: `0.1.31` / code `32`
+- Description: Visit Video Logger records driving or travel videos with a composed camera, map, GPS, heading, speed, timestamp, optional front-camera picture-in-picture, black-screen mode, localized UI, weather units, and configurable right-panel transparency.
+- Download: <https://github.com/yustein/NovaStore/releases/download/visitvideologger-v0.1.31/VisitVideoLogger-v0.1.31.apk>
+- APK SHA-256: `be66a0c8c63adde86d4d9d8fd6dee09feec703646770499530672d46dfb11fd3`
 - Signing certificate SHA-256: `d7b7bcd3e7f71979811709cbca98e3f984c43cdcf8c96b3ba808ef9972139ec6`
 
 ### WaveVid
