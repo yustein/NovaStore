@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-20T06:18:12Z",
+  "generatedAt": "2026-06-20T06:54:44Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -316,19 +316,19 @@
       "publisherName": "Lenomila",
       "category": "Media",
       "channel": "stable",
-      "versionName": "0.1.30",
-      "versionCode": 31,
+      "versionName": "0.1.31",
+      "versionCode": 32,
       "minSdk": 26,
       "targetSdk": 36,
-      "sizeBytes": 26406347,
-      "sha256": "e265a25bfd8b21a2f9c6816c3724e0d9f5d820a1f9e382486ceaf3c5c4df51d8",
+      "sizeBytes": 26407127,
+      "sha256": "8aef24033c074cd8746243ab096235aff22454a2f406e1dbba1f58f8bc33f94a",
       "signingCertSha256": "2ac3f9f35ca75169ec9390bcab0f6f612b0f4d50899c7be6829a797a3d64a44d",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/muzoplay-v0.1.30/MuzoPlay-v0.1.30.apk",
-      "releaseId": "rel_muzoplay_31",
-      "releaseNotes": "Fixes recording persistence: recordings are indexed while active, the foreground service waits for finalization before stopping, partial recordings are kept when stream errors occur, and finalized recordings are exported to Android Movies/MuzoPlay Recordings on Android 10+.",
-      "publishedAt": "2026-06-20T06:39:08Z",
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/muzoplay-v0.1.31/MuzoPlay-v0.1.31.apk",
+      "releaseId": "rel_muzoplay_32",
+      "releaseNotes": "Startup crash hardening: delays and bounds public metadata backfill after launch, catches background metadata/artwork failures instead of terminating the app, samples artwork decoding to avoid memory spikes, and updates the in-app version string. Supersedes the crashing v0.1.28/v0.1.29 line and inherited v0.1.30 build.",
+      "publishedAt": "2026-06-20T06:54:44Z",
       "description": "MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports M3U/M3U8 and XMLTV-style guide data, plays live streams with Media3/ExoPlayer or the bundled VLC software decoder, keeps live/movie/show catalog data in a local private database, and intentionally includes no bundled channels, subscriptions, provider credentials, or public stream lists.",
-      "updatedAt": "2026-06-20T06:39:08Z"
+      "updatedAt": "2026-06-20T06:54:44Z"
     },
     {
       "schemaVersion": 1,
