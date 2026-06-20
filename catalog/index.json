@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-20T05:32:33Z",
+  "generatedAt": "2026-06-20T06:18:12Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -316,19 +316,19 @@
       "publisherName": "Lenomila",
       "category": "Media",
       "channel": "stable",
-      "versionName": "0.1.27",
-      "versionCode": 28,
+      "versionName": "0.1.29",
+      "versionCode": 30,
       "minSdk": 26,
       "targetSdk": 36,
-      "sizeBytes": 26389375,
-      "sha256": "614f759540ee8f3da3dc77461408c505a87527d6c8485aae7b662c89575e5080",
+      "sizeBytes": 26404939,
+      "sha256": "5e58644c829ba4c8d5494bc95d79563eb412e4e8f920efe959d7df76ea677fc1",
       "signingCertSha256": "2ac3f9f35ca75169ec9390bcab0f6f612b0f4d50899c7be6829a797a3d64a44d",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/muzoplay-v0.1.27/MuzoPlay-v0.1.27.apk",
-      "releaseId": "rel_muzoplay_28",
-      "releaseNotes": "Adds active recording/download button states, detail-first movie/show/episode popups with larger artwork and metadata, a recorded/downloaded media screen, and a three-concurrent-download offline queue with status and percentage. This is now release-signed.",
-      "publishedAt": "2026-06-20T05:32:33Z",
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/muzoplay-v0.1.29/MuzoPlay-v0.1.29.apk",
+      "releaseId": "rel_muzoplay_30",
+      "releaseNotes": "Adds foreground background transfers with wake locks, a dedicated Downloads screen with live status and retry rows, fit-inside media artwork in detail popups, public TV/movie metadata backfill from no-key public databases, automatic retry/reconnect for Media3/VLC playback, and retry/resume for movie and episode downloads.",
+      "publishedAt": "2026-06-20T06:18:12Z",
       "description": "MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports M3U/M3U8 and XMLTV-style guide data, plays live streams with Media3/ExoPlayer or the bundled VLC software decoder, keeps live/movie/show catalog data in a local private database, and intentionally includes no bundled channels, subscriptions, provider credentials, or public stream lists.",
-      "updatedAt": "2026-06-20T05:32:33Z"
+      "updatedAt": "2026-06-20T06:18:12Z"
     },
     {
       "schemaVersion": 1,
