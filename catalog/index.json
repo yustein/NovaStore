@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-20T07:17:55Z",
+  "generatedAt": "2026-06-20T07:35:20Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -316,19 +316,19 @@
       "publisherName": "Lenomila",
       "category": "Media",
       "channel": "stable",
-      "versionName": "0.1.32",
-      "versionCode": 33,
+      "versionName": "0.1.33",
+      "versionCode": 34,
       "minSdk": 26,
       "targetSdk": 36,
-      "sizeBytes": 27105932,
-      "sha256": "f53e12bfdeaa2b32eb4b5c7d16c823fd9d2c6ddb74d6029028893f765708b2e4",
+      "sizeBytes": 27106928,
+      "sha256": "cc37a1d0fdacce863795546e2ff70d878860ded545eadeb99cbf23451a7876a1",
       "signingCertSha256": "2ac3f9f35ca75169ec9390bcab0f6f612b0f4d50899c7be6829a797a3d64a44d",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/muzoplay-v0.1.32/MuzoPlay-v0.1.32.apk",
-      "releaseId": "rel_muzoplay_33",
-      "releaseNotes": "Recording visibility and sharing: finalized recordings are exported to Android Videos and Downloads under MuzoPlay Recordings, completed recording rows expose Share next to Play, recording detail popups include Share, and app-private fallback recording files are shared through FileProvider instead of raw file URIs.",
-      "publishedAt": "2026-06-20T07:17:55Z",
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/muzoplay-v0.1.33/MuzoPlay-v0.1.33.apk",
+      "releaseId": "rel_muzoplay_34",
+      "releaseNotes": "Large EPG and metadata backfill fix: Xtream automatic XMLTV, manual EPG URL retry, saved EPG loading, and EPG file-picker imports now stream XMLTV guide files into private storage and parse from disk with a 384 MB bounded limit instead of the previous 48 MB automatic in-memory limit. Metadata backfill now quotes the reserved cast column and clears stale metadata backfill warnings after a clean pass.",
+      "publishedAt": "2026-06-20T07:35:20Z",
       "description": "MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports M3U/M3U8 and XMLTV-style guide data, plays live streams with Media3/ExoPlayer or the bundled VLC software decoder, keeps live/movie/show catalog data in a local private database, and intentionally includes no bundled channels, subscriptions, provider credentials, or public stream lists.",
-      "updatedAt": "2026-06-20T07:17:55Z"
+      "updatedAt": "2026-06-20T07:35:20Z"
     },
     {
       "schemaVersion": 1,
