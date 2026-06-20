@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-20T07:54:23Z",
+  "generatedAt": "2026-06-20T08:14:12Z",
   "apps": [
     {
       "schemaVersion": 1,
@@ -316,19 +316,19 @@
       "publisherName": "Lenomila",
       "category": "Media",
       "channel": "stable",
-      "versionName": "0.1.34",
-      "versionCode": 35,
+      "versionName": "0.1.35",
+      "versionCode": 36,
       "minSdk": 26,
       "targetSdk": 36,
-      "sizeBytes": 27108092,
-      "sha256": "2edb5e20c800c1254acd24f67e8f30f7384d73d04be12d1b0c69faeeba7fe23c",
+      "sizeBytes": 27110576,
+      "sha256": "26d52b4e1ef81fcf3a02eb18aa2ed72783c5d115c59ca2ab107d90b3e7c5813d",
       "signingCertSha256": "2ac3f9f35ca75169ec9390bcab0f6f612b0f4d50899c7be6829a797a3d64a44d",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/muzoplay-v0.1.34/MuzoPlay-v0.1.34.apk",
-      "releaseId": "rel_muzoplay_35",
-      "releaseNotes": "Download control update: active queued/downloading movie and episode downloads now show a Stop action, stopped rows remain in the Downloads screen with Resume, and stopped transfers keep their partial .part files so resuming can continue with HTTP Range when the provider supports it. The Downloads header now separates active and stopped counts.",
-      "publishedAt": "2026-06-20T07:54:23Z",
-      "description": "MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports M3U/M3U8 and XMLTV-style guide data, plays live streams with Media3/ExoPlayer or the bundled VLC software decoder, keeps live/movie/show catalog data in a local private database, supports recordings and offline movie/episode downloads, and intentionally includes no bundled channels, subscriptions, provider credentials, or public stream lists.",
-      "updatedAt": "2026-06-20T07:54:23Z"
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/muzoplay-v0.1.35/MuzoPlay-v0.1.35.apk",
+      "releaseId": "rel_muzoplay_36",
+      "releaseNotes": "Download cleanup update: non-active downloaded, stopped, and failed rows in the Downloads screen now show a Del action. Delete confirms first, removes the row from Downloads, clears the local download state, and deletes the app-private media file or partial .part file when the path is available. Active downloads must be stopped before deletion.",
+      "publishedAt": "2026-06-20T08:14:12Z",
+      "description": "MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports M3U/M3U8 and XMLTV-style guide data, plays live streams with Media3/ExoPlayer or the bundled VLC software decoder, keeps live/movie/show catalog data in a local private database, supports recordings and offline movie/episode downloads with stop, resume, and delete controls, and intentionally includes no bundled channels, subscriptions, provider credentials, or public stream lists.",
+      "updatedAt": "2026-06-20T08:14:12Z"
     },
     {
       "schemaVersion": 1,
