@@ -1,13 +1,13 @@
 # NovaStore Public Catalog
 
-This public repository hosts NovaStore catalog metadata and public APK release assets for Tony's private Android app catalog.
+This public repository hosts signed catalog metadata and public APK release assets for Tony's private Android app catalog.
 
 Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, show pinned APK SHA-256/signing metadata, and install GitHub-hosted APK downloads only through Android user consent.
 
 ## Catalog Summary
 
-- Generated: `2026-06-19T12:04:07Z`
-- Apps: `33`
+- Generated: `2026-06-21T07:38:44Z`
+- Apps: `38`
 
 ## Catalog Apps
 
@@ -107,6 +107,18 @@ ClawDeck is an Android-first OpenClaw operations console. It keeps saved server 
 - APK SHA-256: `07c0a3135d92649829525613300cbea2b1271eedce8881cce7d51958923c0a43`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
+### Code Ancients
+
+Code Ancients is a companion atlas-reader for Tony Yustein's Code of the Ancients. It combines a rotatable 3D globe, selectable Earth pins, Giza prime-meridian visualization, full extracted book text, location coordinate/math notes, public context, and bundled site imagery in an offline Android app.
+
+- Package: `com.lenomila.codeancients`
+- Category: `Books`
+- Version: `0.1.0` / code `1`
+- Description: Code Ancients is a companion atlas-reader for Tony Yustein's Code of the Ancients. It combines a rotatable 3D globe, selectable Earth pins, Giza prime-meridian visualization, full extracted book text, location coordinate/math notes, public context, and bundled site imagery in an offline Android app.
+- Download: <https://github.com/yustein/NovaStore/releases/download/codeancients-v0.1.0/CodeAncients-v0.1.0.apk>
+- APK SHA-256: `baf7fbfd1981f2e37b6c9c4da0888a529c53daaca144bfb3acea3f9f4aaae4b9`
+- Signing certificate SHA-256: `f2b8cfc6a4fb91c744efd22a455e07a6a8eae8503ec3bc4ff8632afc7cc9d6bb`
+
 ### Echo Atlas
 
 Echo Atlas is an experimental sensor-driven exploration game. It blends touch, motion, microphone, camera light, GPS, battery, and device-state signals into an anomaly-hunting interface where the player tunes signals, stabilizes or harvests discoveries, and reads changing visual feedback.
@@ -131,6 +143,18 @@ File Atlas is a phone file manager for browsing local storage with a practical d
 - APK SHA-256: `004308b0c70009fe44d51fea5e67226bf683d8bb546246af374eef39fb0a4b4a`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
+### GPU Video Combiner
+
+GPU Video Combiner is a local Android video tool for joining selected clips into one MP4. It lets you order a clip queue, choose output size, fit mode, codec, and audio behavior, then export through Android hardware encoding and save the result to Movies/GPUVideoCombiner.
+
+- Package: `com.lenomila.gpuvideocombiner`
+- Category: `Video`
+- Version: `0.1.0` / code `1`
+- Description: GPU Video Combiner is a local Android video tool for joining selected clips into one MP4. It lets you order a clip queue, choose output size, fit mode, codec, and audio behavior, then export through Android hardware encoding and save the result to Movies/GPUVideoCombiner.
+- Download: <https://github.com/yustein/NovaStore/releases/download/gpuvideocombiner-v0.1.0/GPUVideoCombiner-v0.1.0.apk>
+- APK SHA-256: `2db16b4db63e4c710c1712d97883cf7c0bb53360a27e548c68e1657f31959dc3`
+- Signing certificate SHA-256: `ed41e359ad6ae9bb4b086343ab72d3e45801998f832547c357bd1b92f8961740`
+
 ### Gateway Fieldbook
 
 Gateway Fieldbook is a field journal and training companion rebuilt from Tony's recovered APK. It includes focus timers, guided sessions, tone/audio exercises, profile and log tools, remote-viewing style practice targets, and structured notes for recording observations during sessions.
@@ -143,17 +167,17 @@ Gateway Fieldbook is a field journal and training companion rebuilt from Tony's 
 - APK SHA-256: `29964a09beffeff9617b02da7479fe48a12dd65b700980d356fc76255618e813`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
-### GPU Video Combiner
+### I Ching Journal
 
-GPU Video Combiner is a local Android video tool for joining selected clips into one MP4. It lets you order a clip queue, choose output size, fit mode, codec, and audio behavior, then export through Android hardware encoding and save the result to Movies/GPUVideoCombiner.
+I Ching Journal is a private, no-permission Android oracle and reflection app. It casts six-line I Ching readings with traditional virtual coin probabilities, supports one-card, three-card, and five-card spreads, lets readers switch among five translation lenses anytime, explains changing lines and transformed hexagrams, shows oracle card graphics, lets you browse all 64 hexagrams, and saves readings locally on the device.
 
-- Package: `com.lenomila.gpuvideocombiner`
-- Category: `Video`
-- Version: `0.1.0` / code `1`
-- Description: GPU Video Combiner is a local Android video tool for joining selected clips into one MP4. It lets you order a clip queue, choose output size, fit mode, codec, and audio behavior, then export through Android hardware encoding and save the result to Movies/GPUVideoCombiner.
-- Download: <https://github.com/yustein/NovaStore/releases/download/gpuvideocombiner-v0.1.0/GPUVideoCombiner-v0.1.0.apk>
-- APK SHA-256: `2db16b4db63e4c710c1712d97883cf7c0bb53360a27e548c68e1657f31959dc3`
-- Signing certificate SHA-256: `ed41e359ad6ae9bb4b086343ab72d3e45801998f832547c357bd1b92f8961740`
+- Package: `com.lenomila.iching`
+- Category: `Lifestyle`
+- Version: `0.1.2` / code `3`
+- Description: I Ching Journal is a private, no-permission Android oracle and reflection app. It casts six-line I Ching readings with traditional virtual coin probabilities, supports one-card, three-card, and five-card spreads, lets readers switch among five translation lenses anytime, explains changing lines and transformed hexagrams, shows oracle card graphics, lets you browse all 64 hexagrams, and saves readings locally on the device.
+- Download: <https://github.com/yustein/NovaStore/releases/download/ichingjournal-v0.1.2/IChingJournal-v0.1.2.apk>
+- APK SHA-256: `07cff8a30ddca83b5ec412f151a4ec0aaac04c249258fa5bffb7edfde3243458`
+- Signing certificate SHA-256: `b382dfc563b20b576c106f78aae1bb30f05fa85322965a64ff9b1eb9c4aedc53`
 
 ### Lenomila PDF
 
@@ -181,14 +205,26 @@ Lenomila Upscaler is a local Android image upscaler. It opens images through And
 
 ### MuzoPlay
 
-MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports M3U/M3U8 and XMLTV-style guide data, plays streams with Media3/ExoPlayer, supports favorites and search, and intentionally includes no bundled channels, subscriptions, provider credentials, or public stream lists.
+MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports M3U/M3U8 and XMLTV-style guide data, plays live streams with Media3/ExoPlayer or the bundled VLC software decoder, keeps live/movie/show catalog data in a local private database, supports recordings and offline movie/episode downloads with stop, resume, and delete controls, and intentionally includes no bundled channels, subscriptions, provider credentials, or public stream lists.
 
 - Package: `com.lenomila.muzoplay`
 - Category: `Media`
-- Version: `0.1.24` / code `25`
-- Description: MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports M3U/M3U8 and XMLTV-style guide data, plays streams with Media3/ExoPlayer, supports favorites and search, and intentionally includes no bundled channels, subscriptions, provider credentials, or public stream lists.
-- Download: <https://github.com/yustein/NovaStore/releases/download/muzoplay-v0.1.24/MuzoPlay-v0.1.24.apk>
-- APK SHA-256: `1958c4ff905d867c3c29359258b0099f7dddc8bc50394694b2e587406443c56e`
+- Version: `0.1.40` / code `41`
+- Description: MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports M3U/M3U8 and XMLTV-style guide data, plays live streams with Media3/ExoPlayer or the bundled VLC software decoder, keeps live/movie/show catalog data in a local private database, supports recordings and offline movie/episode downloads with stop, resume, and delete controls, and intentionally includes no bundled channels, subscriptions, provider credentials, or public stream lists.
+- Download: <https://github.com/yustein/NovaStore/releases/download/muzoplay-v0.1.40/MuzoPlay-v0.1.40.apk>
+- APK SHA-256: `2bc661c37173a9c5d31fb8af1cafe32f46a76b7d17b667f2d9df011afe89b876`
+- Signing certificate SHA-256: `2ac3f9f35ca75169ec9390bcab0f6f612b0f4d50899c7be6829a797a3d64a44d`
+
+### NovaStore
+
+This NovaStore entry is a compatibility bridge for older NovaStore 0.1.x installations that used the original com.novastore.client package. It lets those installs update to the final old-package build before moving to the modern NovaStore package.
+
+- Package: `com.novastore.client`
+- Category: `Store compatibility`
+- Version: `0.1.14` / code `15`
+- Description: This NovaStore entry is a compatibility bridge for older NovaStore 0.1.x installations that used the original com.novastore.client package. It lets those installs update to the final old-package build before moving to the modern NovaStore package.
+- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.14/NovaStore-v0.1.14.apk>
+- APK SHA-256: `9b2218469afd71809942bab1ca0ada4414f87cae2083d97e3fda960195c5b547`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
 ### NovaStore
@@ -202,18 +238,6 @@ NovaStore is Tony's private Android app store for signed APK releases hosted on 
 - Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.17/NovaStore-v0.2.17.apk>
 - APK SHA-256: `dea688b6e84c3eba7741876334e95fc4446266bbfa25c96615b00e954dec4369`
 - Signing certificate SHA-256: `115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c`
-
-### NovaStore
-
-This NovaStore entry is a compatibility bridge for older NovaStore 0.1.x installations that used the original com.novastore.client package. It lets those installs update to the final old-package build before moving to the modern NovaStore package.
-
-- Package: `com.novastore.client`
-- Category: `Store compatibility`
-- Version: `0.1.14` / code `15`
-- Description: This NovaStore entry is a compatibility bridge for older NovaStore 0.1.x installations that used the original com.novastore.client package. It lets those installs update to the final old-package build before moving to the modern NovaStore package.
-- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.14/NovaStore-v0.1.14.apk>
-- APK SHA-256: `9b2218469afd71809942bab1ca0ada4414f87cae2083d97e3fda960195c5b547`
-- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
 ### PhantomXRay
 
@@ -238,6 +262,18 @@ Prism Launcher is a privacy-first Android home launcher with Flow, Grid, Board, 
 - Download: <https://github.com/yustein/NovaStore/releases/download/prismlauncher-v0.2.0/PrismLauncher-v0.2.0.apk>
 - APK SHA-256: `e264ce657d765eda494913d5597866c04521ff1a1738c54dbd84f6c471e97576`
 - Signing certificate SHA-256: `c4aa92d9993a681e00b88e1298d782e84e94a95345a286bde6fee7a288e0033c`
+
+### Pyramid Shield
+
+Pyramid Shield is an offline Android visualizer for Tony's protective pyramid concept. It shows nested upright and inverted luminous pyramids rotating in opposite directions, with rotating orbit rings, a central beam, particles, pulse boost, intensity control, and touch camera movement. Version 0.1.1 uses Canvas animation to avoid launch-time OpenGL crashes.
+
+- Package: `com.lenomila.pyramidshield`
+- Category: `Lifestyle`
+- Version: `0.1.1` / code `2`
+- Description: Pyramid Shield is an offline Android visualizer for Tony's protective pyramid concept. It shows nested upright and inverted luminous pyramids rotating in opposite directions, with rotating orbit rings, a central beam, particles, pulse boost, intensity control, and touch camera movement. Version 0.1.1 uses Canvas animation to avoid launch-time OpenGL crashes.
+- Download: <https://github.com/yustein/NovaStore/releases/download/pyramidshield-v0.1.1/PyramidShield-v0.1.1.apk>
+- APK SHA-256: `3b5c02b8d2c1a51c6f061bb39378d0c2ae18f532eed56fff454dc92269e9d6f6`
+- Signing certificate SHA-256: `3826ef56767de679e5111e3618015b0d3eff1a6bb0790d2264fea0940358de3c`
 
 ### Quake Globe
 
@@ -335,6 +371,18 @@ Turkey Tourism is a travel guide for exploring Turkey with place information, gu
 - APK SHA-256: `cbeed03a5b423ef93ef0d7d694eee7e62f8e7c98b07a77d7960d97ce8038771b`
 - Signing certificate SHA-256: `2f251bc0a8c8ee73f48e88b31889c834035f83ce9281d9b16e7a7fb0010ae395`
 
+### Ultimate Tarot
+
+Ultimate Tarot is a private, no-permission Android tarot reading and study app built from Tony Yustein's Tarot Mastery book and public-domain card images. It supports rich card art, one-card through advanced multi-card spreads, detailed book-derived interpretations, reversals, timing, full book browsing, deck search, and local journaling.
+
+- Package: `com.lenomila.ultimatetarot`
+- Category: `Lifestyle`
+- Version: `0.1.1` / code `2`
+- Description: Ultimate Tarot is a private, no-permission Android tarot reading and study app built from Tony Yustein's Tarot Mastery book and public-domain card images. It supports rich card art, one-card through advanced multi-card spreads, detailed book-derived interpretations, reversals, timing, full book browsing, deck search, and local journaling.
+- Download: <https://github.com/yustein/NovaStore/releases/download/ultimatetarot-v0.1.1/UltimateTarot-v0.1.1.apk>
+- APK SHA-256: `44cb6c89b4531da22a3bccfda867c9e7022374bdc36783cf4fce0e81d796cc0c`
+- Signing certificate SHA-256: `eefb20efa7fa6db0a54baef57189b153a918c06495555df8d10d9c53ba80fc69`
+
 ### UniWhisper
 
 UniWhisper is an offline symbolic reflection app with daily universe messages, optional local reminder notifications, reflective questions, grounded actions, Ask Universe prompts, local journaling, and searchable curated messages. It stores user data locally, uses no runtime AI, and presents messages as reflection rather than prediction or professional advice.
@@ -346,6 +394,18 @@ UniWhisper is an offline symbolic reflection app with daily universe messages, o
 - Download: <https://github.com/yustein/NovaStore/releases/download/uniwhisper-v0.1.2/UniWhisper-v0.1.2.apk>
 - APK SHA-256: `b98a4014bd1275e868eefefc30196233699aa3f8872b94611b4197f4566cfb2b`
 - Signing certificate SHA-256: `223e0e1b6de9a302235bb5d1012ab76c6522431d5be32318124ae90781889dc2`
+
+### Virtual Atlas Walk
+
+Virtual Atlas Walk is an offline-first Android guided walk atlas for archaeological and touristic places. It uses bundled public-source imagery, local guide text, route facts, travel notes, photo-panel 3D movement, stable pinch/wheel zoom and orbit controls, and optional downloadable location packs.
+
+- Package: `com.lenomila.virtualatlaswalk`
+- Category: `Travel`
+- Version: `0.5.8` / code `14`
+- Description: Virtual Atlas Walk is an offline-first Android guided walk atlas for archaeological and touristic places. It uses bundled public-source imagery, local guide text, route facts, travel notes, photo-panel 3D movement, stable pinch/wheel zoom and orbit controls, and optional downloadable location packs.
+- Download: <https://github.com/yustein/NovaStore/releases/download/virtualatlaswalk-v0.5.8/VirtualAtlasWalk-v0.5.8.apk>
+- APK SHA-256: `e188d7199f0b1f5c78f92ff113b567db2f38c7684a2d84c1b375dce9d5d4f23b`
+- Signing certificate SHA-256: `87feaaf30cd915e806d656a7f7d9da3ca218d85cde3fcb30111d3f64dbf1af50`
 
 ### Visit Video Logger
 
@@ -406,3 +466,9 @@ World Cup 2026 is a tournament companion for fixtures, kickoff times, teams, ven
 - Download: <https://github.com/yustein/NovaStore/releases/download/worldcup2026-v0.1.4/WorldCup2026-v0.1.4.apk>
 - APK SHA-256: `482b66a79b72649d8a23a6b678fd9c55b26f0ff4dcd1aedfa922968567401383`
 - Signing certificate SHA-256: `574ab287ee443e3c6474aaf8372bce70fc33712dd063bc73198c38139f255243`
+
+## Trust
+
+- Signed catalog: `catalog/index.json`
+- Detached signature: `catalog/index.json.sig`
+- Public key: `catalog/index-public-key.der.b64`
