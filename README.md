@@ -402,10 +402,10 @@ Virtual Atlas Walk is an offline-first Android guided walk atlas for archaeologi
 
 - Package: `com.lenomila.virtualatlaswalk`
 - Category: `Travel`
-- Version: `0.5.12` / code `18`
+- Version: `0.5.13` / code `19`
 - Description: Virtual Atlas Walk is an offline-first Android guided walk atlas for archaeological and touristic places. It uses bundled public-source imagery, local guide text, route facts, travel notes, photo-panel 3D movement, stable pinch/wheel zoom and orbit controls, and optional downloadable location packs.
-- Download: <https://github.com/yustein/NovaStore/releases/download/virtualatlaswalk-v0.5.12/VirtualAtlasWalk-v0.5.12.apk>
-- APK SHA-256: `32348f4d172bf76b974b12b56ef104372f4319671cbc82802906e15bccffe81d`
+- Download: <https://github.com/yustein/NovaStore/releases/download/virtualatlaswalk-v0.5.13/VirtualAtlasWalk-v0.5.13.apk>
+- APK SHA-256: `bd1be74daad671ccffc2140ef421451457c45ecb24f22f4d97e265d3a24d20cd`
 - Signing certificate SHA-256: `87feaaf30cd915e806d656a7f7d9da3ca218d85cde3fcb30111d3f64dbf1af50`
 
 ### Visit Video Logger
