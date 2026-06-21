@@ -6,7 +6,7 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-06-21T16:31:20Z`
+- Generated: `2026-06-21T18:28:47Z`
 - Apps: `38`
 
 ## Catalog Apps
@@ -20,7 +20,7 @@ Antikythera is an interactive reconstruction and learning tool for the ancient A
 - Version: `0.1.1` / code `2`
 - Description: Antikythera is an interactive reconstruction and learning tool for the ancient Antikythera mechanism. It lets you operate a 3D-style gear-and-dial model, change time, inspect calendar and eclipse-cycle readouts, and compare evidence-backed parts with more speculative reconstruction layers.
 - Download: <https://github.com/yustein/NovaStore/releases/download/antikythera-v0.1.1/Antikythera-v0.1.1.apk>
-- APK SHA-256: `55968274d750f55658e8b5f32d996a1c88a48a839b6f5fa21b9aa1eaa0fbad5f`
+- APK SHA-256: `5705333fbbbc1864234dc5eb68ed5c5db8f6e20bc7213df847b75212685a1a33`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
 ### Aurora Weather
@@ -275,7 +275,6 @@ Pyramid Shield is an offline Android visualizer for Tony's protective Merkaba co
 - APK SHA-256: `eb22176e04111cb0aa2402eadf6584871cc32e92ef5b6991cda94390294a2612`
 - Signing certificate SHA-256: `3826ef56767de679e5111e3618015b0d3eff1a6bb0790d2264fea0940358de3c`
 
-
 ### Quake Globe
 
 Quake Globe is an earthquake monitor with a live 3D globe, recent USGS earthquake feeds, selectable event markers, event details, and configurable local notifications. It visualizes magnitude, depth, location, and recency while keeping alerts local and source-honest.
@@ -402,10 +401,10 @@ Virtual Atlas Walk is an offline-first Android guided walk atlas for archaeologi
 
 - Package: `com.lenomila.virtualatlaswalk`
 - Category: `Travel`
-- Version: `0.5.13` / code `19`
+- Version: `0.5.14` / code `20`
 - Description: Virtual Atlas Walk is an offline-first Android guided walk atlas for archaeological and touristic places. It uses bundled public-source imagery, local guide text, route facts, travel notes, photo-panel 3D movement, stable pinch/wheel zoom and orbit controls, and optional downloadable location packs.
-- Download: <https://github.com/yustein/NovaStore/releases/download/virtualatlaswalk-v0.5.13/VirtualAtlasWalk-v0.5.13.apk>
-- APK SHA-256: `bd1be74daad671ccffc2140ef421451457c45ecb24f22f4d97e265d3a24d20cd`
+- Download: <https://github.com/yustein/NovaStore/releases/download/virtualatlaswalk-v0.5.14/VirtualAtlasWalk-v0.5.14.apk>
+- APK SHA-256: `6b2008fc03de609193dfd344eee337cd0430b0570737df7b344370139188cfd0`
 - Signing certificate SHA-256: `87feaaf30cd915e806d656a7f7d9da3ca218d85cde3fcb30111d3f64dbf1af50`
 
 ### Visit Video Logger
