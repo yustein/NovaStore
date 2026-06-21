@@ -6,7 +6,7 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-06-21T07:38:44Z`
+- Generated: `2026-06-21T07:52:01Z`
 - Apps: `38`
 
 ## Catalog Apps
@@ -265,14 +265,14 @@ Prism Launcher is a privacy-first Android home launcher with Flow, Grid, Board, 
 
 ### Pyramid Shield
 
-Pyramid Shield is an offline Android visualizer for Tony's protective pyramid concept. It shows nested upright and inverted luminous pyramids rotating in opposite directions, with rotating orbit rings, a central beam, particles, pulse boost, intensity control, and touch camera movement. Version 0.1.1 uses Canvas animation to avoid launch-time OpenGL crashes.
+Pyramid Shield is an offline Android visualizer for Tony's protective pyramid concept. It shows nested upright and inverted luminous pyramids rotating in opposite directions, with rotating orbit rings, a central beam, particles, pulse boost, speed, solidity, intensity, and touch camera movement. Version 0.1.2 adds direction tracers so counter-rotation is visually clear.
 
 - Package: `com.lenomila.pyramidshield`
 - Category: `Lifestyle`
-- Version: `0.1.1` / code `2`
-- Description: Pyramid Shield is an offline Android visualizer for Tony's protective pyramid concept. It shows nested upright and inverted luminous pyramids rotating in opposite directions, with rotating orbit rings, a central beam, particles, pulse boost, intensity control, and touch camera movement. Version 0.1.1 uses Canvas animation to avoid launch-time OpenGL crashes.
-- Download: <https://github.com/yustein/NovaStore/releases/download/pyramidshield-v0.1.1/PyramidShield-v0.1.1.apk>
-- APK SHA-256: `3b5c02b8d2c1a51c6f061bb39378d0c2ae18f532eed56fff454dc92269e9d6f6`
+- Version: `0.1.2` / code `3`
+- Description: Pyramid Shield is an offline Android visualizer for Tony's protective pyramid concept. It shows nested upright and inverted luminous pyramids rotating in opposite directions, with rotating orbit rings, a central beam, particles, pulse boost, speed, solidity, intensity, and touch camera movement. Version 0.1.2 adds direction tracers so counter-rotation is visually clear.
+- Download: <https://github.com/yustein/NovaStore/releases/download/pyramidshield-v0.1.2/PyramidShield-v0.1.2.apk>
+- APK SHA-256: `e3148c799323d07e08ebd5067e4fdd7c32324d033ed20eac62360fda574f517b`
 - Signing certificate SHA-256: `3826ef56767de679e5111e3618015b0d3eff1a6bb0790d2264fea0940358de3c`
 
 ### Quake Globe
