@@ -6,7 +6,7 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-06-21T07:52:01Z`
+- Generated: `2026-06-21T08:08:56Z`
 - Apps: `38`
 
 ## Catalog Apps
@@ -265,14 +265,14 @@ Prism Launcher is a privacy-first Android home launcher with Flow, Grid, Board, 
 
 ### Pyramid Shield
 
-Pyramid Shield is an offline Android visualizer for Tony's protective pyramid concept. It shows nested upright and inverted luminous pyramids rotating in opposite directions, with rotating orbit rings, a central beam, particles, pulse boost, speed, solidity, intensity, and touch camera movement. Version 0.1.2 adds direction tracers so counter-rotation is visually clear.
+Pyramid Shield is an offline Android visualizer for Tony's protective pyramid concept. It shows nested upright and inverted luminous pyramids rotating in opposite directions, with comet-style motion trails, lighting, optional color flow, animated texture, pulse boost, speed, solidity, intensity, and touch camera movement. Version 0.1.3 removes the confusing arrowheads and makes visual effects optional with toggles and sliders.
 
 - Package: `com.lenomila.pyramidshield`
 - Category: `Lifestyle`
-- Version: `0.1.2` / code `3`
-- Description: Pyramid Shield is an offline Android visualizer for Tony's protective pyramid concept. It shows nested upright and inverted luminous pyramids rotating in opposite directions, with rotating orbit rings, a central beam, particles, pulse boost, speed, solidity, intensity, and touch camera movement. Version 0.1.2 adds direction tracers so counter-rotation is visually clear.
-- Download: <https://github.com/yustein/NovaStore/releases/download/pyramidshield-v0.1.2/PyramidShield-v0.1.2.apk>
-- APK SHA-256: `e3148c799323d07e08ebd5067e4fdd7c32324d033ed20eac62360fda574f517b`
+- Version: `0.1.3` / code `4`
+- Description: Pyramid Shield is an offline Android visualizer for Tony's protective pyramid concept. It shows nested upright and inverted luminous pyramids rotating in opposite directions, with comet-style motion trails, lighting, optional color flow, animated texture, pulse boost, speed, solidity, intensity, and touch camera movement. Version 0.1.3 removes the confusing arrowheads and makes visual effects optional with toggles and sliders.
+- Download: <https://github.com/yustein/NovaStore/releases/download/pyramidshield-v0.1.3/PyramidShield-v0.1.3.apk>
+- APK SHA-256: `584afb547e926f3b8bffe80e9dd84c38cdb2bcb4a4d1ced64e187722eea84405`
 - Signing certificate SHA-256: `3826ef56767de679e5111e3618015b0d3eff1a6bb0790d2264fea0940358de3c`
 
 ### Quake Globe
@@ -467,8 +467,8 @@ World Cup 2026 is a tournament companion for fixtures, kickoff times, teams, ven
 - APK SHA-256: `482b66a79b72649d8a23a6b678fd9c55b26f0ff4dcd1aedfa922968567401383`
 - Signing certificate SHA-256: `574ab287ee443e3c6474aaf8372bce70fc33712dd063bc73198c38139f255243`
 
-## Trust
+## Client Files
 
 - Signed catalog: `catalog/index.json`
 - Detached signature: `catalog/index.json.sig`
-- Public key: `catalog/index-public-key.der.b64`
+- Per-app metadata: `catalog/<app-id>.json`
