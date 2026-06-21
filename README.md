@@ -6,7 +6,7 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-06-21T15:57:49Z`
+- Generated: `2026-06-21T16:31:20Z`
 - Apps: `38`
 
 ## Catalog Apps
@@ -20,7 +20,7 @@ Antikythera is an interactive reconstruction and learning tool for the ancient A
 - Version: `0.1.1` / code `2`
 - Description: Antikythera is an interactive reconstruction and learning tool for the ancient Antikythera mechanism. It lets you operate a 3D-style gear-and-dial model, change time, inspect calendar and eclipse-cycle readouts, and compare evidence-backed parts with more speculative reconstruction layers.
 - Download: <https://github.com/yustein/NovaStore/releases/download/antikythera-v0.1.1/Antikythera-v0.1.1.apk>
-- APK SHA-256: `5705333fbbbc1864234dc5eb68ed5c5db8f6e20bc7213df847b75212685a1a33`
+- APK SHA-256: `55968274d750f55658e8b5f32d996a1c88a48a839b6f5fa21b9aa1eaa0fbad5f`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
 ### Aurora Weather
@@ -402,9 +402,9 @@ Virtual Atlas Walk is an offline-first Android guided walk atlas for archaeologi
 
 - Package: `com.lenomila.virtualatlaswalk`
 - Category: `Travel`
-- Version: `0.5.9` / code `15`
+- Version: `0.5.10` / code `16`
 - Description: Virtual Atlas Walk is an offline-first Android guided walk atlas for archaeological and touristic places. It uses bundled public-source imagery, local guide text, route facts, travel notes, photo-panel 3D movement, stable pinch/wheel zoom and orbit controls, and optional downloadable location packs.
-- Download: <https://github.com/yustein/NovaStore/releases/download/virtualatlaswalk-v0.5.9/VirtualAtlasWalk-v0.5.9.apk>
+- Download: <https://github.com/yustein/NovaStore/releases/download/virtualatlaswalk-v0.5.10/VirtualAtlasWalk-v0.5.10.apk>
 - APK SHA-256: `2374a63b0a0e4a602f9690ee6cbfbfa8b2a705a9b50afe9f530def520a4b40f8`
 - Signing certificate SHA-256: `87feaaf30cd915e806d656a7f7d9da3ca218d85cde3fcb30111d3f64dbf1af50`
 
