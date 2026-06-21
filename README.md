@@ -6,7 +6,7 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-06-21T08:08:56Z`
+- Generated: `2026-06-21T09:20:08Z`
 - Apps: `38`
 
 ## Catalog Apps
@@ -109,14 +109,14 @@ ClawDeck is an Android-first OpenClaw operations console. It keeps saved server 
 
 ### Code Ancients
 
-Code Ancients is a companion atlas-reader for Tony Yustein's Code of the Ancients. It combines a rotatable 3D globe, selectable Earth pins, Giza prime-meridian visualization, full extracted book text, location coordinate/math notes, public context, and bundled site imagery in an offline Android app.
+Code Ancients is a companion atlas-reader for Tony Yustein's Code of the Ancients. It combines a rotatable 3D globe with animated book-geometry overlays, selectable Earth pins, Giza prime-meridian visualization, full extracted book text, location coordinate/math notes, public context, and bundled site imagery in an offline Android app.
 
 - Package: `com.lenomila.codeancients`
 - Category: `Books`
-- Version: `0.1.0` / code `1`
-- Description: Code Ancients is a companion atlas-reader for Tony Yustein's Code of the Ancients. It combines a rotatable 3D globe, selectable Earth pins, Giza prime-meridian visualization, full extracted book text, location coordinate/math notes, public context, and bundled site imagery in an offline Android app.
-- Download: <https://github.com/yustein/NovaStore/releases/download/codeancients-v0.1.0/CodeAncients-v0.1.0.apk>
-- APK SHA-256: `baf7fbfd1981f2e37b6c9c4da0888a529c53daaca144bfb3acea3f9f4aaae4b9`
+- Version: `0.1.1` / code `2`
+- Description: Code Ancients is a companion atlas-reader for Tony Yustein's Code of the Ancients. It combines a rotatable 3D globe with animated book-geometry overlays, selectable Earth pins, Giza prime-meridian visualization, full extracted book text, location coordinate/math notes, public context, and bundled site imagery in an offline Android app.
+- Download: <https://github.com/yustein/NovaStore/releases/download/codeancients-v0.1.1/CodeAncients-v0.1.1.apk>
+- APK SHA-256: `8eea0e5d3db808f228889dee2b63c62ea8e54cc1e1e7e31098d23d576ec606b3`
 - Signing certificate SHA-256: `f2b8cfc6a4fb91c744efd22a455e07a6a8eae8503ec3bc4ff8632afc7cc9d6bb`
 
 ### Echo Atlas
