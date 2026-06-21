@@ -265,14 +265,14 @@ Prism Launcher is a privacy-first Android home launcher with Flow, Grid, Board, 
 
 ### Pyramid Shield
 
-Pyramid Shield is an offline Android visualizer for Tony's protective Merkaba concept. It renders a true star-tetrahedron field made from two interlocking regular tetrahedra, one upright and one inverted, with fixed per-face shade variation for easier rotation tracking, comet-style motion trails, lighting, optional color flow, animated texture, pulse boost, speed, solidity, intensity, and touch camera movement. Version 0.1.5 makes each triangular side a slightly different shade of its main gold or blue color so the counter-rotation reads more clearly.
+Pyramid Shield is an offline Android visualizer for Tony's protective Merkaba concept. It renders a true star-tetrahedron field made from two interlocking regular tetrahedra, one upright and one inverted, with fixed per-face shade variation and colored base-corner markers for easier rotation tracking, comet-style motion trails, lighting, optional color flow, animated texture, pulse boost, speed, solidity, intensity, and touch camera movement. Version 0.1.6 adds color-coded dots to the base corners of both tetrahedra so each pyramid's rotation is easier to follow.
 
 - Package: `com.lenomila.pyramidshield`
 - Category: `Lifestyle`
-- Version: `0.1.5` / code `6`
-- Description: Pyramid Shield is an offline Android visualizer for Tony's protective Merkaba concept. It renders a true star-tetrahedron field made from two interlocking regular tetrahedra, one upright and one inverted, with fixed per-face shade variation for easier rotation tracking, comet-style motion trails, lighting, optional color flow, animated texture, pulse boost, speed, solidity, intensity, and touch camera movement. Version 0.1.5 makes each triangular side a slightly different shade of its main gold or blue color so the counter-rotation reads more clearly.
-- Download: <https://github.com/yustein/NovaStore/releases/download/pyramidshield-v0.1.5/PyramidShield-v0.1.5.apk>
-- APK SHA-256: `1e3cb5eb0e3ca140c7e217cea835f43f9733aced2e6c0e0f5f0d255f51bf0f87`
+- Version: `0.1.6` / code `7`
+- Description: Pyramid Shield is an offline Android visualizer for Tony's protective Merkaba concept. It renders a true star-tetrahedron field made from two interlocking regular tetrahedra, one upright and one inverted, with fixed per-face shade variation and colored base-corner markers for easier rotation tracking, comet-style motion trails, lighting, optional color flow, animated texture, pulse boost, speed, solidity, intensity, and touch camera movement. Version 0.1.6 adds color-coded dots to the base corners of both tetrahedra so each pyramid's rotation is easier to follow.
+- Download: <https://github.com/yustein/NovaStore/releases/download/pyramidshield-v0.1.6/PyramidShield-v0.1.6.apk>
+- APK SHA-256: `82475bab9db0e0cf1e821d37fd976119f67f325d1863422008689ccbf759eb02`
 - Signing certificate SHA-256: `3826ef56767de679e5111e3618015b0d3eff1a6bb0790d2264fea0940358de3c`
 
 ### Quake Globe
