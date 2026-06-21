@@ -265,15 +265,16 @@ Prism Launcher is a privacy-first Android home launcher with Flow, Grid, Board, 
 
 ### Pyramid Shield
 
-Pyramid Shield is an offline Android visualizer for Tony's protective Merkaba concept. It renders a true star-tetrahedron field made from two interlocking regular tetrahedra, one upright and one inverted, with fixed per-face shade variation and colored base-corner markers for easier rotation tracking, comet-style motion trails, lighting, optional color flow, animated texture, pulse boost, speed, solidity, intensity, touch camera movement, and a bundled background music loop controlled by a persistent Music toggle. Version 0.1.7 adds the Gemini-sourced The Subterranean Record Pyramid Beneath Giza track as offline background music.
+Pyramid Shield is an offline Android visualizer for Tony's protective Merkaba concept. It renders a true star-tetrahedron field made from two interlocking regular tetrahedra, one upright and one inverted, with fixed per-face shade variation and colored base-corner markers for easier rotation tracking, comet-style motion trails, lighting, optional color flow, animated texture, pulse boost, speed, solidity, intensity, touch camera movement, and a bundled continuous background music loop controlled by a persistent Music toggle. Version 0.1.9 uses the 30.8 second stereo track extracted from Tony's supplied MP4.
 
 - Package: `com.lenomila.pyramidshield`
 - Category: `Lifestyle`
-- Version: `0.1.7` / code `8`
-- Description: Pyramid Shield is an offline Android visualizer for Tony's protective Merkaba concept. It renders a true star-tetrahedron field made from two interlocking regular tetrahedra, one upright and one inverted, with fixed per-face shade variation and colored base-corner markers for easier rotation tracking, comet-style motion trails, lighting, optional color flow, animated texture, pulse boost, speed, solidity, intensity, touch camera movement, and a bundled background music loop controlled by a persistent Music toggle. Version 0.1.7 adds the Gemini-sourced The Subterranean Record Pyramid Beneath Giza track as offline background music.
-- Download: <https://github.com/yustein/NovaStore/releases/download/pyramidshield-v0.1.7/PyramidShield-v0.1.7.apk>
-- APK SHA-256: `eddddbc91f084c5345e10e7c97791d37e2843175327b0a8be87a76ed4f6e74c3`
+- Version: `0.1.9` / code `10`
+- Description: Pyramid Shield is an offline Android visualizer for Tony's protective Merkaba concept. It renders a true star-tetrahedron field made from two interlocking regular tetrahedra, one upright and one inverted, with fixed per-face shade variation and colored base-corner markers for easier rotation tracking, comet-style motion trails, lighting, optional color flow, animated texture, pulse boost, speed, solidity, intensity, touch camera movement, and a bundled continuous background music loop controlled by a persistent Music toggle. Version 0.1.9 uses the 30.8 second stereo track extracted from Tony's supplied MP4.
+- Download: <https://github.com/yustein/NovaStore/releases/download/pyramidshield-v0.1.9/PyramidShield-v0.1.9.apk>
+- APK SHA-256: `020886ec3e300747edbd92debc97253896544ded5acc52e7452482164b81fb6b`
 - Signing certificate SHA-256: `3826ef56767de679e5111e3618015b0d3eff1a6bb0790d2264fea0940358de3c`
+
 
 ### Quake Globe
 
