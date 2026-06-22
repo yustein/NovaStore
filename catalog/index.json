@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-22T12:59:50Z",
+  "generatedAt": "2026-06-22T13:29:17Z",
   "appCount": 38,
   "apps": [
     {
@@ -365,19 +365,19 @@
       "publisherName": "Lenomila",
       "category": "Media",
       "channel": "stable",
-      "versionName": "0.2.1",
-      "versionCode": 43,
+      "versionName": "0.2.2",
+      "versionCode": 44,
       "minSdk": 26,
       "targetSdk": 36,
-      "sizeBytes": 27152252,
-      "sha256": "766e2a128749ffe627b14d2013fd5f8c2aa97b5a2d218f2de51b1216452b3217",
+      "sizeBytes": 27158048,
+      "sha256": "268dd932c9c3e005e603bbdf35d17a9054d94381ec8e8f199df20c94c505e2f0",
       "signingCertSha256": "2ac3f9f35ca75169ec9390bcab0f6f612b0f4d50899c7be6829a797a3d64a44d",
-      "releaseId": "rel_muzoplay_43",
-      "releaseNotes": "Hotfix for v0.2.0: filters adult-marked content out of the default discovery, top watched, watched history, favorites, and recently added rails so regular movies and shows stay visible. Archive category opening now uses provider category IDs and can fetch/cache the exact category on demand when the refreshed local title database cap leaves a category empty.",
-      "publishedAt": "2026-06-22T12:59:50Z",
+      "releaseId": "rel_muzoplay_44",
+      "releaseNotes": "Adds external subtitle discovery for movies and episodes. When an AVI/stream has no embedded subtitle track, Subtitle tracks now checks Xtream provider metadata plus nearby sidecar files and attaches SRT/VTT/ASS/SSA/TTML subtitles to Media3 or VLC playback.",
+      "publishedAt": "2026-06-22T13:29:17Z",
       "description": "MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports M3U/M3U8 and XMLTV-style guide data, plays live streams with Media3/ExoPlayer or the bundled VLC software decoder, enriches user-owned movie/show catalogs with optional TMDB metadata when the user provides a token, supports local reminders and customization, and intentionally includes no bundled channels, subscriptions, provider credentials, or public stream lists.",
-      "updatedAt": "2026-06-22T12:59:50Z",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/muzoplay-v0.2.1/MuzoPlay-v0.2.1.apk"
+      "updatedAt": "2026-06-22T13:29:17Z",
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/muzoplay-v0.2.2/MuzoPlay-v0.2.2.apk"
     },
     {
       "schemaVersion": 1,
