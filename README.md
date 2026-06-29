@@ -6,8 +6,8 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-06-21T18:28:47Z`
-- Apps: `38`
+- Generated: `2026-06-29T12:33:39Z`
+- Apps: `41`
 
 ## Catalog Apps
 
@@ -83,6 +83,18 @@ Carpet Measure is an AR measurement prototype for estimating carpet and floor di
 - APK SHA-256: `0be6bff3f3eb412d40d03c5ff07946874b8d117581f575efd413b4de5e9fc338`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
+### Clawboard
+
+Clawboard is a custom Android keyboard and companion manager for working with AI systems and remote hosts. It provides AI prompt snippets, Markdown/code helper keys, local notes and tasks, user-tunable keyboard colors, terminal shortcut keys, encrypted saved SSH passwords, and an SSH command terminal in the manager app.
+
+- Package: `com.lenomila.clawboard`
+- Category: `Productivity`
+- Version: `0.2.4` / code `6`
+- Description: Clawboard is a custom Android keyboard and companion manager for working with AI systems and remote hosts. It provides AI prompt snippets, Markdown/code helper keys, local notes and tasks, user-tunable keyboard colors, terminal shortcut keys, encrypted saved SSH passwords, and an SSH command terminal in the manager app.
+- Download: <https://github.com/yustein/NovaStore/releases/download/clawboard-v0.2.4/ClawboardAndroid-v0.2.4.apk>
+- APK SHA-256: `936ff6d67d611e0fb9a20cb881f74f40c7f5d56265c6b620962199f7749a5f42`
+- Signing certificate SHA-256: `5f907c5d651b10150f4100fc0c7aa59ca79a9d465f76ae5216a2512855521f31`
+
 ### ClawChat
 
 ClawChat is an Android-first private messenger for no-phone-number chat. It creates a local cryptographic identity, pairs devices with invites, syncs encrypted message events through embedded Syncthing, supports attachments and voice messages, delivered/read receipts, local notifications, opt-in background sync, network-aware pause/resume, and a background check frequency control for battery savings.
@@ -106,6 +118,18 @@ ClawDeck is an Android-first OpenClaw operations console. It keeps saved server 
 - Download: <https://github.com/yustein/NovaStore/releases/download/clawdeck-v1.0.26/ClawDeck-v1.0.26.apk>
 - APK SHA-256: `07c0a3135d92649829525613300cbea2b1271eedce8881cce7d51958923c0a43`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
+
+### CleanBass EQ
+
+CleanBass EQ is a precision Android equalizer for real-world wireless listening. It focuses on clean, strong bass and clipping protection for Spotify with a Redmi Note 13 Pro+ 5G, LDAC, Dolby Atmos, and Huawei FreeBuds 7i setup. It uses Android public audio effect APIs and attaches to live app audio sessions instead of claiming root-level system-wide audio interception.
+
+- Package: `com.lenomila.cleanbasseq`
+- Category: `Music`
+- Version: `0.1.0` / code `1`
+- Description: CleanBass EQ is a precision Android equalizer for real-world wireless listening. It focuses on clean, strong bass and clipping protection for Spotify with a Redmi Note 13 Pro+ 5G, LDAC, Dolby Atmos, and Huawei FreeBuds 7i setup. It uses Android public audio effect APIs and attaches to live app audio sessions instead of claiming root-level system-wide audio interception.
+- Download: <https://github.com/yustein/NovaStore/releases/download/cleanbasseq-v0.1.0/CleanBassEQ-v0.1.0.apk>
+- APK SHA-256: `b8fb1424d92df2f8655990a4d8db06d782a2fd968280e835a1fc7adc53ec9012`
+- Signing certificate SHA-256: `dee10d6fb5080d9b045c40e546be4643a60afb77649e9436aaeee473d64fa093`
 
 ### Code Ancients
 
@@ -143,18 +167,6 @@ File Atlas is a phone file manager for browsing local storage with a practical d
 - APK SHA-256: `004308b0c70009fe44d51fea5e67226bf683d8bb546246af374eef39fb0a4b4a`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
-### GPU Video Combiner
-
-GPU Video Combiner is a local Android video tool for joining selected clips into one MP4. It lets you order a clip queue, choose output size, fit mode, codec, and audio behavior, then export through Android hardware encoding and save the result to Movies/GPUVideoCombiner.
-
-- Package: `com.lenomila.gpuvideocombiner`
-- Category: `Video`
-- Version: `0.1.0` / code `1`
-- Description: GPU Video Combiner is a local Android video tool for joining selected clips into one MP4. It lets you order a clip queue, choose output size, fit mode, codec, and audio behavior, then export through Android hardware encoding and save the result to Movies/GPUVideoCombiner.
-- Download: <https://github.com/yustein/NovaStore/releases/download/gpuvideocombiner-v0.1.0/GPUVideoCombiner-v0.1.0.apk>
-- APK SHA-256: `2db16b4db63e4c710c1712d97883cf7c0bb53360a27e548c68e1657f31959dc3`
-- Signing certificate SHA-256: `ed41e359ad6ae9bb4b086343ab72d3e45801998f832547c357bd1b92f8961740`
-
 ### Gateway Fieldbook
 
 Gateway Fieldbook is a field journal and training companion rebuilt from Tony's recovered APK. It includes focus timers, guided sessions, tone/audio exercises, profile and log tools, remote-viewing style practice targets, and structured notes for recording observations during sessions.
@@ -166,6 +178,18 @@ Gateway Fieldbook is a field journal and training companion rebuilt from Tony's 
 - Download: <https://github.com/yustein/NovaStore/releases/download/gatewayfieldbook-v1.3.0/GatewayFieldbook-v1.3.0.apk>
 - APK SHA-256: `29964a09beffeff9617b02da7479fe48a12dd65b700980d356fc76255618e813`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
+
+### GPU Video Combiner
+
+GPU Video Combiner is a local Android video tool for joining selected clips into one MP4. It lets you order a clip queue, choose output size, fit mode, codec, and audio behavior, then export through Android hardware encoding and save the result to Movies/GPUVideoCombiner.
+
+- Package: `com.lenomila.gpuvideocombiner`
+- Category: `Video`
+- Version: `0.1.0` / code `1`
+- Description: GPU Video Combiner is a local Android video tool for joining selected clips into one MP4. It lets you order a clip queue, choose output size, fit mode, codec, and audio behavior, then export through Android hardware encoding and save the result to Movies/GPUVideoCombiner.
+- Download: <https://github.com/yustein/NovaStore/releases/download/gpuvideocombiner-v0.1.0/GPUVideoCombiner-v0.1.0.apk>
+- APK SHA-256: `2db16b4db63e4c710c1712d97883cf7c0bb53360a27e548c68e1657f31959dc3`
+- Signing certificate SHA-256: `ed41e359ad6ae9bb4b086343ab72d3e45801998f832547c357bd1b92f8961740`
 
 ### I Ching Journal
 
@@ -205,14 +229,14 @@ Lenomila Upscaler is a local Android image upscaler. It opens images through And
 
 ### MuzoPlay
 
-MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports M3U/M3U8 and XMLTV-style guide data, plays live streams with Media3/ExoPlayer or the bundled VLC software decoder, keeps live/movie/show catalog data in a local private database, supports recordings and offline movie/episode downloads with stop, resume, and delete controls, and intentionally includes no bundled channels, subscriptions, provider credentials, or public stream lists.
+MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports M3U/M3U8 and XMLTV-style guide data, plays live streams with Media3/ExoPlayer or the bundled VLC software decoder, enriches user-owned movie/show catalogs with optional TMDB metadata when the user provides a token, supports local reminders and customization, and intentionally includes no bundled channels, subscriptions, provider credentials, or public stream lists.
 
 - Package: `com.lenomila.muzoplay`
 - Category: `Media`
-- Version: `0.1.40` / code `41`
-- Description: MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports M3U/M3U8 and XMLTV-style guide data, plays live streams with Media3/ExoPlayer or the bundled VLC software decoder, keeps live/movie/show catalog data in a local private database, supports recordings and offline movie/episode downloads with stop, resume, and delete controls, and intentionally includes no bundled channels, subscriptions, provider credentials, or public stream lists.
-- Download: <https://github.com/yustein/NovaStore/releases/download/muzoplay-v0.1.40/MuzoPlay-v0.1.40.apk>
-- APK SHA-256: `2bc661c37173a9c5d31fb8af1cafe32f46a76b7d17b667f2d9df011afe89b876`
+- Version: `0.2.3` / code `45`
+- Description: MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports M3U/M3U8 and XMLTV-style guide data, plays live streams with Media3/ExoPlayer or the bundled VLC software decoder, enriches user-owned movie/show catalogs with optional TMDB metadata when the user provides a token, supports local reminders and customization, and intentionally includes no bundled channels, subscriptions, provider credentials, or public stream lists.
+- Download: <https://github.com/yustein/NovaStore/releases/download/muzoplay-v0.2.3/MuzoPlay-v0.2.3.apk>
+- APK SHA-256: `6d939a17ace365c57ea1dd136f6ae65c1007e95a0431ea4b33fde09113c3db43`
 - Signing certificate SHA-256: `2ac3f9f35ca75169ec9390bcab0f6f612b0f4d50899c7be6829a797a3d64a44d`
 
 ### NovaStore
@@ -323,17 +347,17 @@ Solar Flyover is an offline 3D solar system model built for practical accuracy. 
 - APK SHA-256: `fe42182dd304131463c54c50b047eb1b2a6901dd002445e5856b1ce3a72bc4c9`
 - Signing certificate SHA-256: `000c29c806e7c126947e4289a3ca7c4e6a3331f883f22d819ff544a43a6199e0`
 
-### Speed Test Lab
+### Solfege Lens
 
-Speed Test Lab measures network latency, jitter, download speed, upload speed, active Wi-Fi/mobile transport details, public IP/provider metadata when reachable, and local test history. It uses public endpoints and presents results for comparing network quality over time.
+Solfege Lens is a music-learning prototype that turns a sheet-music image into guided solfege playback. It detects treble-clef staff systems and likely noteheads on-device, labels notes as Do/Re/Mi/Fa/Sol/La/Si, speaks each syllable with Turkish solfege pronunciation regardless of UI language, can add or mute a generated pitch tone, offers reading speed selection, keeps the display awake while open, filters common sheet signs from note playback, estimates simple meter/tempo/key/rhythm/phrasing context, and can show the current note in a zoom window while keeping the main sheet readable.
 
-- Package: `com.lenomila.speedtest`
-- Category: `Tools`
+- Package: `com.lenomila.solfegelens`
+- Category: `Education`
 - Version: `0.1.5` / code `6`
-- Description: Speed Test Lab measures network latency, jitter, download speed, upload speed, active Wi-Fi/mobile transport details, public IP/provider metadata when reachable, and local test history. It uses public endpoints and presents results for comparing network quality over time.
-- Download: <https://github.com/yustein/NovaStore/releases/download/speedtestlab-v0.1.5/SpeedTestLab-v0.1.5.apk>
-- APK SHA-256: `d7ec76ae5b07dad6686939f392692189695cf55a701e14a7a8e8c200a678b7ba`
-- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
+- Description: Solfege Lens is a music-learning prototype that turns a sheet-music image into guided solfege playback. It detects treble-clef staff systems and likely noteheads on-device, labels notes as Do/Re/Mi/Fa/Sol/La/Si, speaks each syllable with Turkish solfege pronunciation regardless of UI language, can add or mute a generated pitch tone, offers reading speed selection, keeps the display awake while open, filters common sheet signs from note playback, estimates simple meter/tempo/key/rhythm/phrasing context, and can show the current note in a zoom window while keeping the main sheet readable.
+- Download: <https://github.com/yustein/NovaStore/releases/download/solfegelens-v0.1.5/SolfegeLens-v0.1.5.apk>
+- APK SHA-256: `c8d63a5dda627ac6b92633999fa8668d9ee4dd037d1ee3eff02c5683b2bd70ce`
+- Signing certificate SHA-256: `8bf63f02ed3404669471bfa0b128facf61b1d044b3e2c5ffd49e1ac03babe33c`
 
 ### SpeedCockpit
 
@@ -345,6 +369,18 @@ SpeedCockpit is a driving cockpit with GPS speed, map context, speed-limit focus
 - Description: SpeedCockpit is a driving cockpit with GPS speed, map context, speed-limit focused display, warning tones, and multiple map/cockpit modes. It is built for glanceable travel use with reduced map flicker and stricter speed-limit presentation.
 - Download: <https://github.com/yustein/NovaStore/releases/download/speedcockpit-v0.1.13/SpeedCockpit-v0.1.13.apk>
 - APK SHA-256: `33368b1bbb81b58b514b40e89d8f0eb39334d2b5605898e807958bebbd0d0d0e`
+- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
+
+### Speed Test Lab
+
+Speed Test Lab measures network latency, jitter, download speed, upload speed, active Wi-Fi/mobile transport details, public IP/provider metadata when reachable, and local test history. It uses public endpoints and presents results for comparing network quality over time.
+
+- Package: `com.lenomila.speedtest`
+- Category: `Tools`
+- Version: `0.1.5` / code `6`
+- Description: Speed Test Lab measures network latency, jitter, download speed, upload speed, active Wi-Fi/mobile transport details, public IP/provider metadata when reachable, and local test history. It uses public endpoints and presents results for comparing network quality over time.
+- Download: <https://github.com/yustein/NovaStore/releases/download/speedtestlab-v0.1.5/SpeedTestLab-v0.1.5.apk>
+- APK SHA-256: `d7ec76ae5b07dad6686939f392692189695cf55a701e14a7a8e8c200a678b7ba`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
 ### TorrentAtlas
