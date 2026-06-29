@@ -121,14 +121,14 @@ ClawDeck is an Android-first OpenClaw operations console. It keeps saved server 
 
 ### CleanBass EQ
 
-CleanBass EQ is a precision Android equalizer for real-world wireless listening. It focuses on clean, strong bass and clipping protection for Spotify with a Redmi Note 13 Pro+ 5G, LDAC, Dolby Atmos, and Huawei FreeBuds 7i setup. It uses Android public audio effect APIs and attaches to live app audio sessions instead of claiming root-level system-wide audio interception. Android 14+ runs it as a connected-device foreground service with Bluetooth permission rather than a media playback service, and its Tony Bass profile includes Dolby-aware tuning, Spotify setup checks, and automatic headroom protection.
+CleanBass EQ is a precision Android equalizer for real-world wireless listening. It focuses on clean, strong bass and clipping protection for Spotify with a Redmi Note 13 Pro+ 5G, LDAC, Dolby Atmos, and Huawei FreeBuds 7i setup. It uses Android public audio effect APIs and attaches to live app audio sessions instead of claiming root-level system-wide audio interception. Android 14+ runs it as a connected-device foreground service with Bluetooth permission rather than a media playback service. The Tony Bass profile now includes Dolby-aware tuning, Spotify setup checks, automatic headroom protection, three-part bass quality control, blind A/B tuning, and JSON profile exchange.
 
 - Package: `com.lenomila.cleanbasseq`
 - Category: `Music`
-- Version: `0.1.2` / code `3`
-- Description: CleanBass EQ is a precision Android equalizer for real-world wireless listening. It focuses on clean, strong bass and clipping protection for Spotify with a Redmi Note 13 Pro+ 5G, LDAC, Dolby Atmos, and Huawei FreeBuds 7i setup. It uses Android public audio effect APIs and attaches to live app audio sessions instead of claiming root-level system-wide audio interception. Android 14+ runs it as a connected-device foreground service with Bluetooth permission rather than a media playback service, and its Tony Bass profile includes Dolby-aware tuning, Spotify setup checks, and automatic headroom protection.
-- Download: <https://github.com/yustein/NovaStore/releases/download/cleanbasseq-v0.1.2/CleanBassEQ-v0.1.2.apk>
-- APK SHA-256: `7529101bb1e2243e09b4a1a072c4673a77976c63098cd623512da517ddb24bb1`
+- Version: `0.1.3` / code `4`
+- Description: CleanBass EQ is a precision Android equalizer for real-world wireless listening. It focuses on clean, strong bass and clipping protection for Spotify with a Redmi Note 13 Pro+ 5G, LDAC, Dolby Atmos, and Huawei FreeBuds 7i setup. It uses Android public audio effect APIs and attaches to live app audio sessions instead of claiming root-level system-wide audio interception. Android 14+ runs it as a connected-device foreground service with Bluetooth permission rather than a media playback service. The Tony Bass profile now includes Dolby-aware tuning, Spotify setup checks, automatic headroom protection, three-part bass quality control, blind A/B tuning, and JSON profile exchange.
+- Download: <https://github.com/yustein/NovaStore/releases/download/cleanbasseq-v0.1.3/CleanBassEQ-v0.1.3.apk>
+- APK SHA-256: `387769637bf3932fa985c84fbd604b5be781dc99c23370c15241c5653475e21b`
 - Signing certificate SHA-256: `dee10d6fb5080d9b045c40e546be4643a60afb77649e9436aaeee473d64fa093`
 
 ### Code Ancients
