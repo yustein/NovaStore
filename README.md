@@ -6,7 +6,7 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-06-29T12:33:39Z`
+- Generated: `2026-06-29T12:44:13Z`
 - Apps: `41`
 
 ## Catalog Apps
@@ -121,14 +121,14 @@ ClawDeck is an Android-first OpenClaw operations console. It keeps saved server 
 
 ### CleanBass EQ
 
-CleanBass EQ is a precision Android equalizer for real-world wireless listening. It focuses on clean, strong bass and clipping protection for Spotify with a Redmi Note 13 Pro+ 5G, LDAC, Dolby Atmos, and Huawei FreeBuds 7i setup. It uses Android public audio effect APIs and attaches to live app audio sessions instead of claiming root-level system-wide audio interception.
+CleanBass EQ is a precision Android equalizer for real-world wireless listening. It focuses on clean, strong bass and clipping protection for Spotify with a Redmi Note 13 Pro+ 5G, LDAC, Dolby Atmos, and Huawei FreeBuds 7i setup. It uses Android public audio effect APIs and attaches to live app audio sessions instead of claiming root-level system-wide audio interception. Android 14+ runs it as a connected-device foreground service with Bluetooth permission rather than a media playback service.
 
 - Package: `com.lenomila.cleanbasseq`
 - Category: `Music`
-- Version: `0.1.0` / code `1`
-- Description: CleanBass EQ is a precision Android equalizer for real-world wireless listening. It focuses on clean, strong bass and clipping protection for Spotify with a Redmi Note 13 Pro+ 5G, LDAC, Dolby Atmos, and Huawei FreeBuds 7i setup. It uses Android public audio effect APIs and attaches to live app audio sessions instead of claiming root-level system-wide audio interception.
-- Download: <https://github.com/yustein/NovaStore/releases/download/cleanbasseq-v0.1.0/CleanBassEQ-v0.1.0.apk>
-- APK SHA-256: `b8fb1424d92df2f8655990a4d8db06d782a2fd968280e835a1fc7adc53ec9012`
+- Version: `0.1.1` / code `2`
+- Description: CleanBass EQ is a precision Android equalizer for real-world wireless listening. It focuses on clean, strong bass and clipping protection for Spotify with a Redmi Note 13 Pro+ 5G, LDAC, Dolby Atmos, and Huawei FreeBuds 7i setup. It uses Android public audio effect APIs and attaches to live app audio sessions instead of claiming root-level system-wide audio interception. Android 14+ runs it as a connected-device foreground service with Bluetooth permission rather than a media playback service.
+- Download: <https://github.com/yustein/NovaStore/releases/download/cleanbasseq-v0.1.1/CleanBassEQ-v0.1.1.apk>
+- APK SHA-256: `ee665ea08eac252b777bd8e1fafc9ed31e19fbb1f3b99466b18eb00dcb21fdb8`
 - Signing certificate SHA-256: `dee10d6fb5080d9b045c40e546be4643a60afb77649e9436aaeee473d64fa093`
 
 ### Code Ancients
