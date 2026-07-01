@@ -85,14 +85,14 @@ Carpet Measure is an AR measurement prototype for estimating carpet and floor di
 
 ### CatWorldly
 
-CatWorldly is a native companion app for the CatWorldly website. It shows daily comics, fresh articles, and mirrored social updates from the CatWorldly app API, checks for updates on launch and roughly every six hours, sends local notifications for new unseen items, opens content inside the app, and includes a home-screen Today widget.
+CatWorldly is a native companion app for the CatWorldly website. It shows daily comics, all seven weekly comic archives with back issues, fresh articles, mirrored social updates, and the latest CatWorldly magazine PDF in a native reader with print and share support. It checks for updates on launch and roughly every six hours, sends local notifications for new unseen items, opens content inside the app, and includes a home-screen Today widget.
 
 - Package: `com.lenomila.catworldly`
 - Category: `Entertainment`
-- Version: `0.1.1` / code `2`
-- Description: CatWorldly is a native companion app for the CatWorldly website. It shows daily comics, fresh articles, and mirrored social updates from the CatWorldly app API, checks for updates on launch and roughly every six hours, sends local notifications for new unseen items, opens content inside the app, and includes a home-screen Today widget.
-- Download: <https://github.com/yustein/NovaStore/releases/download/catworldly-v0.1.1/CatWorldly-v0.1.1.apk>
-- APK SHA-256: `01850f7ccb6d40914079d26f13d5233e5e8478234b24895dd4b05b5757df9cf3`
+- Version: `0.1.2` / code `3`
+- Description: CatWorldly is a native companion app for the CatWorldly website. It shows daily comics, all seven weekly comic archives with back issues, fresh articles, mirrored social updates, and the latest CatWorldly magazine PDF in a native reader with print and share support. It checks for updates on launch and roughly every six hours, sends local notifications for new unseen items, opens content inside the app, and includes a home-screen Today widget.
+- Download: <https://github.com/yustein/NovaStore/releases/download/catworldly-v0.1.2/CatWorldly-v0.1.2.apk>
+- APK SHA-256: `37f64348beac9f3f201a4511d43a246d3969f18937596fd420c7cdc6a3de14f2`
 - Signing certificate SHA-256: `16f9c6618f42489bd1ef5388389b6db9662c1536a0e40096ecec806dc781676b`
 
 ### Clawboard
