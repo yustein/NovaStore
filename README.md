@@ -53,7 +53,7 @@ Bluetooth Explorer Lab is a local Android Bluetooth diagnostics app for scanning
 
 - Package: `com.lenomila.bluetoothexplorerlab`
 - Category: `Tools`
-- Version: `0.1.1` / code `2`
+- Version: `0.1.0` / code `1`
 - Description: Bluetooth Explorer Lab is a local Android Bluetooth diagnostics app for scanning nearby BLE advertisements, inspecting paired devices, service UUIDs, manufacturer data, RSSI, PHY, connectability, and safely probing GATT services read-only. It exports JSON locally and intentionally uses no Internet permission.
 - Download: <https://github.com/yustein/NovaStore/releases/download/bluetoothexplorerlab-v0.1.0/BluetoothExplorerLab-v0.1.0.apk>
 - APK SHA-256: `ba32410f1e434d3938b7b162caf982e67df74e658b386d7e6115d5f7c499012e`
@@ -89,7 +89,7 @@ CatWorldly is a native companion app for the CatWorldly website. It shows daily 
 
 - Package: `com.lenomila.catworldly`
 - Category: `Entertainment`
-- Version: `0.1.0` / code `1`
+- Version: `0.1.1` / code `2`
 - Description: CatWorldly is a native companion app for the CatWorldly website. It shows daily comics, fresh articles, and mirrored social updates from the CatWorldly app API, checks for updates on launch and roughly every six hours, sends local notifications for new unseen items, opens content inside the app, and includes a home-screen Today widget.
 - Download: <https://github.com/yustein/NovaStore/releases/download/catworldly-v0.1.1/CatWorldly-v0.1.1.apk>
 - APK SHA-256: `01850f7ccb6d40914079d26f13d5233e5e8478234b24895dd4b05b5757df9cf3`
