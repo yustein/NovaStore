@@ -6,7 +6,7 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-06-29T13:09:09Z`
+- Generated: `2026-07-01T09:40:08.265Z`
 - Apps: `41`
 
 ## Catalog Apps
@@ -25,14 +25,14 @@ Antikythera is an interactive reconstruction and learning tool for the ancient A
 
 ### Aurora Weather
 
-Aurora Weather is a local weather app focused on clear current conditions, forecasts, rain awareness, widgets, and location-aware updates. It can follow the phone's current position, actively refresh widget weather after movement, cache recent results, and support practical daily/weather-alert workflows without requiring an account.
+Aurora Weather is a local weather app focused on clear current conditions, forecasts, rain awareness, widgets, location-aware updates, and private-store smart triggers for selected Bluetooth devices or Wi-Fi/mobile transitions. It can follow the phone's current position, actively refresh widget weather after movement, cache recent results, and support practical daily/weather-alert workflows without requiring an account.
 
 - Package: `com.lenomila.auroraweather`
 - Category: `Weather`
-- Version: `3.0.30` / code `67`
-- Description: Aurora Weather is a local weather app focused on clear current conditions, forecasts, rain awareness, widgets, and location-aware updates. It can follow the phone's current position, actively refresh widget weather after movement, cache recent results, and support practical daily/weather-alert workflows without requiring an account.
-- Download: <https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.30/AuroraWeather-v3.0.30.apk>
-- APK SHA-256: `e4ddf76342955897d851679b7fcd2c54e529c2812fe854018b3c4df6ff471dd5`
+- Version: `3.0.31` / code `68`
+- Description: Aurora Weather is a local weather app focused on clear current conditions, forecasts, rain awareness, widgets, location-aware updates, and private-store smart triggers for selected Bluetooth devices or Wi-Fi/mobile transitions. It can follow the phone's current position, actively refresh widget weather after movement, cache recent results, and support practical daily/weather-alert workflows without requiring an account.
+- Download: <https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.31/AuroraWeather-v3.0.31.apk>
+- APK SHA-256: `a3bb8c8f846b30c893593fa7f36ff92aa814e397d1622d5410882a8981f7931b`
 - Signing certificate SHA-256: `a2d688bd7db1138915692fd294c629545988524ff1a1d65dfee5263fc11a7cd3`
 
 ### Backgammon LAN

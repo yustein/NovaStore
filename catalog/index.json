@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-29T13:33:45Z",
+  "generatedAt": "2026-07-01T09:40:08.265Z",
   "appCount": 41,
   "apps": [
     {
@@ -32,18 +32,18 @@
       "publisherName": "Lenomila",
       "category": "Weather",
       "channel": "stable",
-      "versionName": "3.0.30",
-      "versionCode": 67,
+      "versionName": "3.0.31",
+      "versionCode": 68,
       "minSdk": 26,
       "targetSdk": 35,
-      "sizeBytes": 2122470,
-      "sha256": "e4ddf76342955897d851679b7fcd2c54e529c2812fe854018b3c4df6ff471dd5",
+      "sizeBytes": 3502425,
+      "sha256": "a3bb8c8f846b30c893593fa7f36ff92aa814e397d1622d5410882a8981f7931b",
       "signingCertSha256": "a2d688bd7db1138915692fd294c629545988524ff1a1d65dfee5263fc11a7cd3",
-      "releaseId": "rel_auroraweather_67",
-      "releaseNotes": "Pauses background widget/location and alert retry work while Android reports no validated internet. The opt-in live widget location service now stops its foreground location listeners in airplane mode and resumes after a network-constrained widget job runs again, while alert/widget alarms use non-wakeup offline backstops instead of repeated wakeups.",
-      "description": "Aurora Weather is a local weather app focused on clear current conditions, forecasts, rain awareness, widgets, and location-aware updates. It can follow the phone's current position, actively refresh widget weather after movement, cache recent results, and support practical daily/weather-alert workflows without requiring an account.",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.30/AuroraWeather-v3.0.30.apk",
-      "publishedAt": "2026-06-19T02:07:49Z"
+      "releaseId": "rel_auroraweather_68",
+      "releaseNotes": "Adds Smart Widget Triggers, an explicit opt-in foreground-service mode for private-store builds. Users can choose Wi-Fi/mobile network transitions and selected paired Bluetooth devices; connect/disconnect events queue a one-shot current-location weather/widget refresh with Fused Location fallback and diagnostics for location, Bluetooth, notification, and battery readiness.",
+      "description": "Aurora Weather is a local weather app focused on clear current conditions, forecasts, rain awareness, widgets, location-aware updates, and private-store smart triggers for selected Bluetooth devices or Wi-Fi/mobile transitions. It can follow the phone's current position, actively refresh widget weather after movement, cache recent results, and support practical daily/weather-alert workflows without requiring an account.",
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.31/AuroraWeather-v3.0.31.apk",
+      "publishedAt": "2026-07-01T09:40:08.265Z"
     },
     {
       "schemaVersion": 1,
