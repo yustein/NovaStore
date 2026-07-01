@@ -6,8 +6,8 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-07-01T09:40:08.265Z`
-- Apps: `41`
+- Generated: `2026-07-01T16:14:46Z`
+- Apps: `42`
 
 ## Catalog Apps
 
@@ -85,14 +85,14 @@ Carpet Measure is an AR measurement prototype for estimating carpet and floor di
 
 ### CatWorldly
 
-CatWorldly is a native companion app for the CatWorldly website. It shows daily comics, all seven weekly comic archives with back issues, fresh articles, mirrored social updates, the latest CatWorldly magazine PDF in a native reader with print/share, and a Games arcade section with Furball Pinball, Rooftop Rush, and Cosmic Pawblast, including pause/resume, exit controls, per-game last-10 score history, and isolated cat voice sound effects. It checks for updates on launch and roughly every six hours, sends local notifications for new unseen items, opens content inside the app, and includes a home-screen Today widget.
+CatWorldly is a native companion app for the CatWorldly website. It shows daily comics, all seven weekly comic archives with back issues, fresh articles, mirrored social updates, the latest CatWorldly magazine PDF in a native reader with print/share, and a Games arcade section with Furball Pinball, Rooftop Rush, and Cosmic Pawblast, including pause/resume, exit controls, per-game last-10 score history, how-to-play notes, Furball Pinball hit lighting and level-themed tables, Cosmic Pawblast colored mouse powerups and enemy return fire, and isolated cat voice sound effects. It checks for updates on launch and roughly every six hours, sends local notifications for new unseen items, opens content inside the app, and includes a home-screen Today widget.
 
 - Package: `com.lenomila.catworldly`
 - Category: `Entertainment`
-- Version: `0.1.6` / code `7`
-- Description: CatWorldly is a native companion app for the CatWorldly website. It shows daily comics, all seven weekly comic archives with back issues, fresh articles, mirrored social updates, the latest CatWorldly magazine PDF in a native reader with print/share, and a Games arcade section with Furball Pinball, Rooftop Rush, and Cosmic Pawblast, including pause/resume, exit controls, per-game last-10 score history, and isolated cat voice sound effects. It checks for updates on launch and roughly every six hours, sends local notifications for new unseen items, opens content inside the app, and includes a home-screen Today widget.
-- Download: <https://github.com/yustein/NovaStore/releases/download/catworldly-v0.1.6/CatWorldly-v0.1.6.apk>
-- APK SHA-256: `fcb2a3cdce9e89d8957033d8fa9cdb0a958c93e19492dcc6f8b7169709310c04`
+- Version: `0.1.7` / code `8`
+- Description: CatWorldly is a native companion app for the CatWorldly website. It shows daily comics, all seven weekly comic archives with back issues, fresh articles, mirrored social updates, the latest CatWorldly magazine PDF in a native reader with print/share, and a Games arcade section with Furball Pinball, Rooftop Rush, and Cosmic Pawblast, including pause/resume, exit controls, per-game last-10 score history, how-to-play notes, Furball Pinball hit lighting and level-themed tables, Cosmic Pawblast colored mouse powerups and enemy return fire, and isolated cat voice sound effects. It checks for updates on launch and roughly every six hours, sends local notifications for new unseen items, opens content inside the app, and includes a home-screen Today widget.
+- Download: <https://github.com/yustein/NovaStore/releases/download/catworldly-v0.1.7/CatWorldly-v0.1.7.apk>
+- APK SHA-256: `5cd697f1816053b453d7d806428fc9f0aa935f970c12d41c5d0ca52244a6cce4`
 - Signing certificate SHA-256: `16f9c6618f42489bd1ef5388389b6db9662c1536a0e40096ecec806dc781676b`
 
 ### Clawboard
@@ -253,18 +253,6 @@ MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports 
 
 ### NovaStore
 
-This NovaStore entry is a compatibility bridge for older NovaStore 0.1.x installations that used the original com.novastore.client package. It lets those installs update to the final old-package build before moving to the modern NovaStore package.
-
-- Package: `com.novastore.client`
-- Category: `Store compatibility`
-- Version: `0.1.14` / code `15`
-- Description: This NovaStore entry is a compatibility bridge for older NovaStore 0.1.x installations that used the original com.novastore.client package. It lets those installs update to the final old-package build before moving to the modern NovaStore package.
-- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.14/NovaStore-v0.1.14.apk>
-- APK SHA-256: `9b2218469afd71809942bab1ca0ada4414f87cae2083d97e3fda960195c5b547`
-- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
-
-### NovaStore
-
 NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, uses signed catalog icon metadata, checks installed versions for catalog apps through Android launcher visibility without QUERY_ALL_PACKAGES, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval.
 
 - Package: `com.lenomila.novastore`
@@ -274,6 +262,18 @@ NovaStore is Tony's private Android app store for signed APK releases hosted on 
 - Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.17/NovaStore-v0.2.17.apk>
 - APK SHA-256: `dea688b6e84c3eba7741876334e95fc4446266bbfa25c96615b00e954dec4369`
 - Signing certificate SHA-256: `115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c`
+
+### NovaStore
+
+This NovaStore entry is a compatibility bridge for older NovaStore 0.1.x installations that used the original com.novastore.client package. It lets those installs update to the final old-package build before moving to the modern NovaStore package.
+
+- Package: `com.novastore.client`
+- Category: `Store compatibility`
+- Version: `0.1.14` / code `15`
+- Description: This NovaStore entry is a compatibility bridge for older NovaStore 0.1.x installations that used the original com.novastore.client package. It lets those installs update to the final old-package build before moving to the modern NovaStore package.
+- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.14/NovaStore-v0.1.14.apk>
+- APK SHA-256: `9b2218469afd71809942bab1ca0ada4414f87cae2083d97e3fda960195c5b547`
+- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
 ### PhantomXRay
 
@@ -371,18 +371,6 @@ Solfege Lens is a music-learning prototype that turns a sheet-music image into g
 - APK SHA-256: `c8d63a5dda627ac6b92633999fa8668d9ee4dd037d1ee3eff02c5683b2bd70ce`
 - Signing certificate SHA-256: `8bf63f02ed3404669471bfa0b128facf61b1d044b3e2c5ffd49e1ac03babe33c`
 
-### SpeedCockpit
-
-SpeedCockpit is a driving cockpit with GPS speed, map context, speed-limit focused display, warning tones, and multiple map/cockpit modes. It is built for glanceable travel use with reduced map flicker and stricter speed-limit presentation.
-
-- Package: `com.lenomila.speedcockpit`
-- Category: `Navigation`
-- Version: `0.1.13` / code `14`
-- Description: SpeedCockpit is a driving cockpit with GPS speed, map context, speed-limit focused display, warning tones, and multiple map/cockpit modes. It is built for glanceable travel use with reduced map flicker and stricter speed-limit presentation.
-- Download: <https://github.com/yustein/NovaStore/releases/download/speedcockpit-v0.1.13/SpeedCockpit-v0.1.13.apk>
-- APK SHA-256: `33368b1bbb81b58b514b40e89d8f0eb39334d2b5605898e807958bebbd0d0d0e`
-- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
-
 ### Speed Test Lab
 
 Speed Test Lab measures network latency, jitter, download speed, upload speed, active Wi-Fi/mobile transport details, public IP/provider metadata when reachable, and local test history. It uses public endpoints and presents results for comparing network quality over time.
@@ -393,6 +381,18 @@ Speed Test Lab measures network latency, jitter, download speed, upload speed, a
 - Description: Speed Test Lab measures network latency, jitter, download speed, upload speed, active Wi-Fi/mobile transport details, public IP/provider metadata when reachable, and local test history. It uses public endpoints and presents results for comparing network quality over time.
 - Download: <https://github.com/yustein/NovaStore/releases/download/speedtestlab-v0.1.5/SpeedTestLab-v0.1.5.apk>
 - APK SHA-256: `d7ec76ae5b07dad6686939f392692189695cf55a701e14a7a8e8c200a678b7ba`
+- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
+
+### SpeedCockpit
+
+SpeedCockpit is a driving cockpit with GPS speed, map context, speed-limit focused display, warning tones, and multiple map/cockpit modes. It is built for glanceable travel use with reduced map flicker and stricter speed-limit presentation.
+
+- Package: `com.lenomila.speedcockpit`
+- Category: `Navigation`
+- Version: `0.1.13` / code `14`
+- Description: SpeedCockpit is a driving cockpit with GPS speed, map context, speed-limit focused display, warning tones, and multiple map/cockpit modes. It is built for glanceable travel use with reduced map flicker and stricter speed-limit presentation.
+- Download: <https://github.com/yustein/NovaStore/releases/download/speedcockpit-v0.1.13/SpeedCockpit-v0.1.13.apk>
+- APK SHA-256: `33368b1bbb81b58b514b40e89d8f0eb39334d2b5605898e807958bebbd0d0d0e`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
 ### TorrentAtlas
