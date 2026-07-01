@@ -85,14 +85,14 @@ Carpet Measure is an AR measurement prototype for estimating carpet and floor di
 
 ### CatWorldly
 
-CatWorldly is a native companion app for the CatWorldly website. It shows daily comics, all seven weekly comic archives with back issues, fresh articles, mirrored social updates, the latest CatWorldly magazine PDF in a native reader with print/share, and a Games arcade section with Furball Pinball, Rooftop Rush, and Cosmic Pawblast. It checks for updates on launch and roughly every six hours, sends local notifications for new unseen items, opens content inside the app, and includes a home-screen Today widget.
+CatWorldly is a native companion app for the CatWorldly website. It shows daily comics, all seven weekly comic archives with back issues, fresh articles, mirrored social updates, the latest CatWorldly magazine PDF in a native reader with print/share, and a Games arcade section with Furball Pinball, Rooftop Rush, and Cosmic Pawblast, including pause/resume, exit controls, per-game last-10 score history, and isolated cat voice sound effects. It checks for updates on launch and roughly every six hours, sends local notifications for new unseen items, opens content inside the app, and includes a home-screen Today widget.
 
 - Package: `com.lenomila.catworldly`
 - Category: `Entertainment`
-- Version: `0.1.5` / code `6`
-- Description: CatWorldly is a native companion app for the CatWorldly website. It shows daily comics, all seven weekly comic archives with back issues, fresh articles, mirrored social updates, the latest CatWorldly magazine PDF in a native reader with print/share, and a Games arcade section with Furball Pinball, Rooftop Rush, and Cosmic Pawblast. It checks for updates on launch and roughly every six hours, sends local notifications for new unseen items, opens content inside the app, and includes a home-screen Today widget.
-- Download: <https://github.com/yustein/NovaStore/releases/download/catworldly-v0.1.5/CatWorldly-v0.1.5.apk>
-- APK SHA-256: `f7392800020e2b90ace98a2510e8796a28572601b113f9ad07733ac1d14cd5d6`
+- Version: `0.1.6` / code `7`
+- Description: CatWorldly is a native companion app for the CatWorldly website. It shows daily comics, all seven weekly comic archives with back issues, fresh articles, mirrored social updates, the latest CatWorldly magazine PDF in a native reader with print/share, and a Games arcade section with Furball Pinball, Rooftop Rush, and Cosmic Pawblast, including pause/resume, exit controls, per-game last-10 score history, and isolated cat voice sound effects. It checks for updates on launch and roughly every six hours, sends local notifications for new unseen items, opens content inside the app, and includes a home-screen Today widget.
+- Download: <https://github.com/yustein/NovaStore/releases/download/catworldly-v0.1.6/CatWorldly-v0.1.6.apk>
+- APK SHA-256: `fcb2a3cdce9e89d8957033d8fa9cdb0a958c93e19492dcc6f8b7169709310c04`
 - Signing certificate SHA-256: `16f9c6618f42489bd1ef5388389b6db9662c1536a0e40096ecec806dc781676b`
 
 ### Clawboard
