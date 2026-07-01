@@ -83,6 +83,18 @@ Carpet Measure is an AR measurement prototype for estimating carpet and floor di
 - APK SHA-256: `0be6bff3f3eb412d40d03c5ff07946874b8d117581f575efd413b4de5e9fc338`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
+### CatWorldly
+
+CatWorldly is a native companion app for the CatWorldly website. It shows daily comics, fresh articles, and mirrored social updates from the CatWorldly app API, checks for updates on launch and roughly every six hours, sends local notifications for new unseen items, opens content inside the app, and includes a home-screen Today widget.
+
+- Package: `com.lenomila.catworldly`
+- Category: `Entertainment`
+- Version: `0.1.0` / code `1`
+- Description: CatWorldly is a native companion app for the CatWorldly website. It shows daily comics, fresh articles, and mirrored social updates from the CatWorldly app API, checks for updates on launch and roughly every six hours, sends local notifications for new unseen items, opens content inside the app, and includes a home-screen Today widget.
+- Download: <https://github.com/yustein/NovaStore/releases/download/catworldly-v0.1.0/CatWorldly-v0.1.0.apk>
+- APK SHA-256: `5de539fb481ea8b62f8094595f4babdd58ea3bb905252878357f94234e660af0`
+- Signing certificate SHA-256: `16f9c6618f42489bd1ef5388389b6db9662c1536a0e40096ecec806dc781676b`
+
 ### Clawboard
 
 Clawboard is a custom Android keyboard and companion manager for working with AI systems and remote hosts. It provides AI prompt snippets, Markdown/code helper keys, local notes and tasks, user-tunable keyboard colors, terminal shortcut keys, encrypted saved SSH passwords, and an SSH command terminal in the manager app.
