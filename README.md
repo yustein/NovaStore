@@ -6,12 +6,12 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-07-02T19:15:54Z`
+- Generated: `2026-07-02T19:41:37Z`
 - Apps: `43`
 
 ## Catalog Apps
 
-### undefined
+### Antikythera
 
 Antikythera is an interactive reconstruction and learning tool for the ancient Antikythera mechanism. It lets you operate a 3D-style gear-and-dial model, change time, inspect calendar and eclipse-cycle readouts, and compare evidence-backed parts with more speculative reconstruction layers.
 
@@ -23,7 +23,7 @@ Antikythera is an interactive reconstruction and learning tool for the ancient A
 - APK SHA-256: `5705333fbbbc1864234dc5eb68ed5c5db8f6e20bc7213df847b75212685a1a33`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
-### undefined
+### Aurora Weather
 
 Aurora Weather is a local weather app focused on clear current conditions, forecasts, rain awareness, widgets, location-aware updates, and private-store smart triggers for selected Bluetooth devices or Wi-Fi/mobile transitions. It can follow the phone's current position, actively refresh widget weather after movement, cache recent results, and support practical daily/weather-alert workflows without requiring an account.
 
@@ -35,7 +35,7 @@ Aurora Weather is a local weather app focused on clear current conditions, forec
 - APK SHA-256: `a3bb8c8f846b30c893593fa7f36ff92aa814e397d1622d5410882a8981f7931b`
 - Signing certificate SHA-256: `a2d688bd7db1138915692fd294c629545988524ff1a1d65dfee5263fc11a7cd3`
 
-### undefined
+### Backgammon LAN
 
 Backgammon LAN is a local-network backgammon game for Android and Windows players on the same LAN. It provides a playable board, dice, legal move handling, match state sync, reconnect behavior, and local discovery so two devices can play directly without an online account.
 
@@ -47,7 +47,7 @@ Backgammon LAN is a local-network backgammon game for Android and Windows player
 - APK SHA-256: `b92063e76ba776b953c51a415afebfe67d421f13034062b04e0c4df65b84369d`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
-### undefined
+### Bluetooth Explorer Lab
 
 Bluetooth Explorer Lab is a local Android Bluetooth diagnostics app for scanning nearby BLE advertisements, inspecting paired devices, service UUIDs, manufacturer data, RSSI, PHY, connectability, and safely probing GATT services read-only. It exports JSON locally and intentionally uses no Internet permission.
 
@@ -59,7 +59,7 @@ Bluetooth Explorer Lab is a local Android Bluetooth diagnostics app for scanning
 - APK SHA-256: `ba32410f1e434d3938b7b162caf982e67df74e658b386d7e6115d5f7c499012e`
 - Signing certificate SHA-256: `2c439cbbf48ff1a3bd1ea5581f0b24b7ef5979485301b7116e8538f2271f2113`
 
-### undefined
+### CalcFX
 
 CalcFX combines a polished scientific calculator with a currency exchange workspace. It supports expression preview, memory, history, degree/radian mode, advanced functions, reusable results, currency pair selection, rate refresh, offline/stale-rate display, and favorite comparison currencies.
 
@@ -71,7 +71,7 @@ CalcFX combines a polished scientific calculator with a currency exchange worksp
 - APK SHA-256: `74d23e3ef0e646b35ea1b4fdd3bf32a9aacd92d4548510356601b7d0a3cbf733`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
-### undefined
+### Carpet Measure
 
 Carpet Measure is an AR measurement prototype for estimating carpet and floor dimensions with the phone camera. It helps mark corners, inspect measured spans, and work toward area estimates using ARCore-style spatial tracking and segmentation-assisted measurement workflows.
 
@@ -83,7 +83,7 @@ Carpet Measure is an AR measurement prototype for estimating carpet and floor di
 - APK SHA-256: `0be6bff3f3eb412d40d03c5ff07946874b8d117581f575efd413b4de5e9fc338`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
-### undefined
+### CatWorldly
 
 CatWorldly is a native companion app for the CatWorldly website. It shows daily comics, all seven weekly comic archives with back issues, fresh articles, mirrored social updates, the latest CatWorldly magazine PDF in a native reader with print/share, and a Games arcade section with Furball Pinball, Rooftop Rush, Cosmic Pawblast, and Crystal Paw Cavern. The arcade includes pause/resume, exit controls, per-game last-10 score history, how-to-play notes, tight Furball Pinball hit lighting and level-themed tables, Rooftop Rush cucumber cat-voice impacts, five escalating Cosmic Pawblast levels with colored mouse powerups and enemy return fire, and a Boulder Dash-style cave puzzler with generated bitmap cave art, swipe movement, tap-to-wait turns, fish-crystal goals, falling boulder hazards, and isolated cat voice sound effects. It checks for updates on launch and roughly every six hours, sends local notifications for new unseen items, opens content inside the app, and includes a home-screen dashboard widget with manual sync, direct Today/Comics/Games shortcuts, latest-content glances, and arcade best-score glances.
 
@@ -95,31 +95,7 @@ CatWorldly is a native companion app for the CatWorldly website. It shows daily 
 - APK SHA-256: `c61ae8ca4a58a48d9db159832266117a6550a0787e88cbb9cad2930e09703ee2`
 - Signing certificate SHA-256: `16f9c6618f42489bd1ef5388389b6db9662c1536a0e40096ecec806dc781676b`
 
-### undefined
-
-ClawChat is an Android-first private messenger for no-phone-number chat. It creates a local cryptographic identity, pairs devices with invites, syncs encrypted message events through embedded Syncthing, supports attachments and voice messages, delivered/read receipts, local notifications, opt-in background sync, network-aware pause/resume, and a background check frequency control for battery savings.
-
-- Package: `com.lenomila.clawchat`
-- Category: `Communication`
-- Version: `0.2.10` / code `21`
-- Description: ClawChat is an Android-first private messenger for no-phone-number chat. It creates a local cryptographic identity, pairs devices with invites, syncs encrypted message events through embedded Syncthing, supports attachments and voice messages, delivered/read receipts, local notifications, opt-in background sync, network-aware pause/resume, and a background check frequency control for battery savings.
-- Download: <https://github.com/yustein/NovaStore/releases/download/clawchat-v0.2.10/ClawChat-v0.2.10.apk>
-- APK SHA-256: `f420f1870bae3bddc1ad45680f7a62fc5eef4d397274edc18bb3298a84471871`
-- Signing certificate SHA-256: `93336087c5dad5b338268773963969acfaeda07a351062000c8754b4ac5e06cc`
-
-### undefined
-
-ClawDeck is an Android-first OpenClaw operations console. It keeps saved server targets, SSH command surfaces, safe command templates, local operator notes, chat with OpenClaw, background chat keepalive, logs, redaction, and a setup flow for managing Tony's own infrastructure from a phone.
-
-- Package: `com.clawdeck`
-- Category: `Tools`
-- Version: `1.0.26` / code `27`
-- Description: ClawDeck is an Android-first OpenClaw operations console. It keeps saved server targets, SSH command surfaces, safe command templates, local operator notes, chat with OpenClaw, background chat keepalive, logs, redaction, and a setup flow for managing Tony's own infrastructure from a phone.
-- Download: <https://github.com/yustein/NovaStore/releases/download/clawdeck-v1.0.26/ClawDeck-v1.0.26.apk>
-- APK SHA-256: `07c0a3135d92649829525613300cbea2b1271eedce8881cce7d51958923c0a43`
-- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
-
-### undefined
+### Clawboard
 
 Clawboard is a custom Android keyboard and companion manager for working with AI systems and remote hosts. It provides AI prompt snippets, Markdown/code helper keys, local notes and tasks, user-tunable keyboard colors, terminal shortcut keys, encrypted saved SSH passwords, and an SSH command terminal in the manager app.
 
@@ -131,7 +107,31 @@ Clawboard is a custom Android keyboard and companion manager for working with AI
 - APK SHA-256: `936ff6d67d611e0fb9a20cb881f74f40c7f5d56265c6b620962199f7749a5f42`
 - Signing certificate SHA-256: `5f907c5d651b10150f4100fc0c7aa59ca79a9d465f76ae5216a2512855521f31`
 
-### undefined
+### ClawChat
+
+ClawChat is an Android-first private messenger for no-phone-number chat. It creates a local cryptographic identity, pairs devices with invites, syncs encrypted message events through embedded Syncthing, supports attachments and voice messages, delivered/read receipts, local notifications, opt-in background sync, network-aware pause/resume, and a background check frequency control for battery savings.
+
+- Package: `com.lenomila.clawchat`
+- Category: `Communication`
+- Version: `0.2.10` / code `21`
+- Description: ClawChat is an Android-first private messenger for no-phone-number chat. It creates a local cryptographic identity, pairs devices with invites, syncs encrypted message events through embedded Syncthing, supports attachments and voice messages, delivered/read receipts, local notifications, opt-in background sync, network-aware pause/resume, and a background check frequency control for battery savings.
+- Download: <https://github.com/yustein/NovaStore/releases/download/clawchat-v0.2.10/ClawChat-v0.2.10.apk>
+- APK SHA-256: `f420f1870bae3bddc1ad45680f7a62fc5eef4d397274edc18bb3298a84471871`
+- Signing certificate SHA-256: `93336087c5dad5b338268773963969acfaeda07a351062000c8754b4ac5e06cc`
+
+### ClawDeck
+
+ClawDeck is an Android-first OpenClaw operations console. It keeps saved server targets, SSH command surfaces, safe command templates, local operator notes, chat with OpenClaw, background chat keepalive, logs, redaction, and a setup flow for managing Tony's own infrastructure from a phone.
+
+- Package: `com.clawdeck`
+- Category: `Tools`
+- Version: `1.0.26` / code `27`
+- Description: ClawDeck is an Android-first OpenClaw operations console. It keeps saved server targets, SSH command surfaces, safe command templates, local operator notes, chat with OpenClaw, background chat keepalive, logs, redaction, and a setup flow for managing Tony's own infrastructure from a phone.
+- Download: <https://github.com/yustein/NovaStore/releases/download/clawdeck-v1.0.26/ClawDeck-v1.0.26.apk>
+- APK SHA-256: `07c0a3135d92649829525613300cbea2b1271eedce8881cce7d51958923c0a43`
+- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
+
+### CleanBass EQ
 
 CleanBass EQ is a precision Android equalizer for real-world wireless listening. It focuses on clean, strong bass and clipping protection for Spotify with a Redmi Note 13 Pro+ 5G, LDAC, Dolby Atmos, and Huawei FreeBuds 7i setup. It uses Android public audio effect APIs, listens for live app audio sessions, and now tries Android legacy output-mix fallback when Spotify does not expose a session. Android 14+ runs it as a connected-device foreground service with Bluetooth permission rather than a media playback service. The Tony Bass profile includes Dolby-aware tuning, Spotify setup checks, automatic headroom protection, three-part bass quality control, blind A/B tuning, JSON profile exchange, and honest playback-only call limitations.
 
@@ -143,7 +143,7 @@ CleanBass EQ is a precision Android equalizer for real-world wireless listening.
 - APK SHA-256: `36ad18c698ebec6c88ca120b988e2ccc111217ce15e279845fbed8ff78a23ff3`
 - Signing certificate SHA-256: `dee10d6fb5080d9b045c40e546be4643a60afb77649e9436aaeee473d64fa093`
 
-### undefined
+### Code Ancients
 
 Code Ancients is a companion atlas-reader for Tony Yustein's Code of the Ancients. It combines a rotatable 3D globe with animated book-geometry overlays, selectable Earth pins, Giza prime-meridian visualization, full extracted book text, location coordinate/math notes, public context, and bundled site imagery in an offline Android app.
 
@@ -155,7 +155,7 @@ Code Ancients is a companion atlas-reader for Tony Yustein's Code of the Ancient
 - APK SHA-256: `8eea0e5d3db808f228889dee2b63c62ea8e54cc1e1e7e31098d23d576ec606b3`
 - Signing certificate SHA-256: `f2b8cfc6a4fb91c744efd22a455e07a6a8eae8503ec3bc4ff8632afc7cc9d6bb`
 
-### undefined
+### Echo Atlas
 
 Echo Atlas is an experimental sensor-driven exploration game. It blends touch, motion, microphone, camera light, GPS, battery, and device-state signals into an anomaly-hunting interface where the player tunes signals, stabilizes or harvests discoveries, and reads changing visual feedback.
 
@@ -167,7 +167,7 @@ Echo Atlas is an experimental sensor-driven exploration game. It blends touch, m
 - APK SHA-256: `2179287c1ae7e89f5df7bd5c2411e2de639da25007e1e10773c219a413e4e342`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
-### undefined
+### File Atlas
 
 File Atlas is a phone file manager for browsing local storage with a practical dashboard, folders, file categories, search, sort modes, recent/storage context, file details, open/share actions, rename, delete, and path copying. It is designed for direct on-device file work.
 
@@ -179,19 +179,7 @@ File Atlas is a phone file manager for browsing local storage with a practical d
 - APK SHA-256: `004308b0c70009fe44d51fea5e67226bf683d8bb546246af374eef39fb0a4b4a`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
-### undefined
-
-GPU Video Combiner is a local Android video tool for joining selected clips into one MP4. It lets you order a clip queue, choose output size, fit mode, codec, and audio behavior, then export through Android hardware encoding and save the result to Movies/GPUVideoCombiner.
-
-- Package: `com.lenomila.gpuvideocombiner`
-- Category: `Video`
-- Version: `0.1.0` / code `1`
-- Description: GPU Video Combiner is a local Android video tool for joining selected clips into one MP4. It lets you order a clip queue, choose output size, fit mode, codec, and audio behavior, then export through Android hardware encoding and save the result to Movies/GPUVideoCombiner.
-- Download: <https://github.com/yustein/NovaStore/releases/download/gpuvideocombiner-v0.1.0/GPUVideoCombiner-v0.1.0.apk>
-- APK SHA-256: `2db16b4db63e4c710c1712d97883cf7c0bb53360a27e548c68e1657f31959dc3`
-- Signing certificate SHA-256: `ed41e359ad6ae9bb4b086343ab72d3e45801998f832547c357bd1b92f8961740`
-
-### undefined
+### Gateway Fieldbook
 
 Gateway Fieldbook is a field journal and training companion rebuilt from Tony's recovered APK. It includes focus timers, guided sessions, tone/audio exercises, profile and log tools, remote-viewing style practice targets, and structured notes for recording observations during sessions.
 
@@ -203,7 +191,19 @@ Gateway Fieldbook is a field journal and training companion rebuilt from Tony's 
 - APK SHA-256: `29964a09beffeff9617b02da7479fe48a12dd65b700980d356fc76255618e813`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
-### undefined
+### GPU Video Combiner
+
+GPU Video Combiner is a local Android video tool for joining selected clips into one MP4. It lets you order a clip queue, choose output size, fit mode, codec, and audio behavior, then export through Android hardware encoding and save the result to Movies/GPUVideoCombiner.
+
+- Package: `com.lenomila.gpuvideocombiner`
+- Category: `Video`
+- Version: `0.1.0` / code `1`
+- Description: GPU Video Combiner is a local Android video tool for joining selected clips into one MP4. It lets you order a clip queue, choose output size, fit mode, codec, and audio behavior, then export through Android hardware encoding and save the result to Movies/GPUVideoCombiner.
+- Download: <https://github.com/yustein/NovaStore/releases/download/gpuvideocombiner-v0.1.0/GPUVideoCombiner-v0.1.0.apk>
+- APK SHA-256: `2db16b4db63e4c710c1712d97883cf7c0bb53360a27e548c68e1657f31959dc3`
+- Signing certificate SHA-256: `ed41e359ad6ae9bb4b086343ab72d3e45801998f832547c357bd1b92f8961740`
+
+### I Ching Journal
 
 I Ching Journal is a private, no-permission Android oracle and reflection app. It casts six-line I Ching readings with traditional virtual coin probabilities, supports one-card, three-card, and five-card spreads, lets readers switch among five translation lenses anytime, explains changing lines and transformed hexagrams, shows oracle card graphics, lets you browse all 64 hexagrams, and saves readings locally on the device.
 
@@ -215,7 +215,7 @@ I Ching Journal is a private, no-permission Android oracle and reflection app. I
 - APK SHA-256: `07cff8a30ddca83b5ec412f151a4ec0aaac04c249258fa5bffb7edfde3243458`
 - Signing certificate SHA-256: `b382dfc563b20b576c106f78aae1bb30f05fa85322965a64ff9b1eb9c4aedc53`
 
-### undefined
+### Lenomila PDF
 
 Lenomila PDF is a native Android PDF viewer for local documents. It opens PDFs from Android file/document providers, can be chosen as the default PDF viewer through Android's Open with / Always flow, renders pages on device, offers button and pinch zoom controls, saves a copy through the system document picker, and shares the current PDF through Android share targets without requiring broad storage access.
 
@@ -227,7 +227,7 @@ Lenomila PDF is a native Android PDF viewer for local documents. It opens PDFs f
 - APK SHA-256: `4c9d91a61857f803d7caeb221ba54c78547606847313e2185d654f68e0b5a0db`
 - Signing certificate SHA-256: `4eb5935ed24028ea6e1340b2bb7d6ec4e73fd4804d76ca2f0b3a013198868bab`
 
-### undefined
+### Lenomila Upscaler
 
 Lenomila Upscaler is a local Android image upscaler. It opens images through Android document providers or share intents, runs Real-ESRGAN style upscaling on the phone through NCNN/Vulkan with bundled lightweight model files, previews the result with pinch zoom, and saves or shares a PNG without Internet or broad storage permissions.
 
@@ -239,7 +239,7 @@ Lenomila Upscaler is a local Android image upscaler. It opens images through And
 - APK SHA-256: `525aa7ca9150e361c42b1195e37a1e5c3b3858f35bec83c63542bb05b60d80c3`
 - Signing certificate SHA-256: `048412542caeeab6c205961f1f8fdc853a1b1185ad1cedac570152b4c3e63b73`
 
-### undefined
+### MuzoPlay
 
 MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports M3U/M3U8 and XMLTV-style guide data, plays live streams with Media3/ExoPlayer or the bundled VLC software decoder, enriches user-owned movie/show catalogs with optional TMDB metadata when the user provides a token, supports local reminders and customization, and intentionally includes no bundled channels, subscriptions, provider credentials, or public stream lists.
 
@@ -251,7 +251,7 @@ MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports 
 - APK SHA-256: `6d939a17ace365c57ea1dd136f6ae65c1007e95a0431ea4b33fde09113c3db43`
 - Signing certificate SHA-256: `2ac3f9f35ca75169ec9390bcab0f6f612b0f4d50899c7be6829a797a3d64a44d`
 
-### undefined
+### NovaStore
 
 This NovaStore entry is a compatibility bridge for older NovaStore 0.1.x installations that used the original com.novastore.client package. It lets those installs update to the final old-package build before moving to the modern NovaStore package.
 
@@ -263,7 +263,7 @@ This NovaStore entry is a compatibility bridge for older NovaStore 0.1.x install
 - APK SHA-256: `9b2218469afd71809942bab1ca0ada4414f87cae2083d97e3fda960195c5b547`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
-### undefined
+### NovaStore
 
 NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, uses signed catalog icon metadata, checks installed versions for catalog apps through Android launcher visibility without QUERY_ALL_PACKAGES, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval.
 
@@ -275,7 +275,7 @@ NovaStore is Tony's private Android app store for signed APK releases hosted on 
 - APK SHA-256: `dea688b6e84c3eba7741876334e95fc4446266bbfa25c96615b00e954dec4369`
 - Signing certificate SHA-256: `115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c`
 
-### undefined
+### PhantomXRay
 
 PhantomXRay is an entertainment camera AR app that overlays a stylized skeleton and skull effect on people in the camera preview. It uses on-device pose/face tracking for spooky visual play and is not medical imaging, diagnosis, security scanning, or a real X-ray tool.
 
@@ -287,7 +287,7 @@ PhantomXRay is an entertainment camera AR app that overlays a stylized skeleton 
 - APK SHA-256: `4d0a8d0897a7e2e6738b2b053bce820016ca48b99108fcfc57c320de4f2370ad`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
-### undefined
+### Prism Launcher
 
 Prism Launcher is a privacy-first Android home launcher with Flow, Grid, Board, and Command home styles, LauncherApps-based profile-aware app and shortcut indexing, Room-backed local app/widget/customization state, DataStore settings, cached icons, fuzzy search, favorites, hidden apps, aliases, tags, folders, local smart categories, gesture shortcuts, Android widget hosting, theme controls, profile filters, and local JSON backup/import. It avoids ads, trackers, network calls, Accessibility, sensitive permissions, installer permissions, and broad package queries.
 
@@ -299,7 +299,7 @@ Prism Launcher is a privacy-first Android home launcher with Flow, Grid, Board, 
 - APK SHA-256: `e264ce657d765eda494913d5597866c04521ff1a1738c54dbd84f6c471e97576`
 - Signing certificate SHA-256: `c4aa92d9993a681e00b88e1298d782e84e94a95345a286bde6fee7a288e0033c`
 
-### undefined
+### Pyramid Shield
 
 Pyramid Shield is an offline Android visualizer for Tony's protective Merkaba concept. It renders a true star-tetrahedron field made from two interlocking regular tetrahedra, one upright and one inverted, with fixed per-face shade variation and colored base-corner markers for easier rotation tracking, comet-style motion trails, lighting, optional color flow, animated texture, pulse boost, speed, solidity, intensity, touch camera movement, and a bundled continuous background music loop controlled by a persistent Music toggle. Version 0.1.10 uses Tony's forwarded Gemini background MP3 exactly as the bundled 30.824 second stereo track.
 
@@ -311,7 +311,7 @@ Pyramid Shield is an offline Android visualizer for Tony's protective Merkaba co
 - APK SHA-256: `eb22176e04111cb0aa2402eadf6584871cc32e92ef5b6991cda94390294a2612`
 - Signing certificate SHA-256: `3826ef56767de679e5111e3618015b0d3eff1a6bb0790d2264fea0940358de3c`
 
-### undefined
+### Quake Globe
 
 Quake Globe is an earthquake monitor with a live 3D globe, recent USGS earthquake feeds, selectable event markers, event details, and configurable local notifications. It visualizes magnitude, depth, location, and recency while keeping alerts local and source-honest.
 
@@ -323,7 +323,7 @@ Quake Globe is an earthquake monitor with a live 3D globe, recent USGS earthquak
 - APK SHA-256: `8025eafbc83621c473a723d400c802fbc7a2c67bafcbdc6f4aa4e0317f1264fe`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
-### undefined
+### Resonance Finder
 
 Resonance Finder is a science prototype for exploring frequency, vibration, and resonance ideas on Android. It is intended as a lightweight companion for finding or thinking through resonant behavior, experiments, and signal relationships rather than as a calibrated laboratory instrument.
 
@@ -335,7 +335,7 @@ Resonance Finder is a science prototype for exploring frequency, vibration, and 
 - APK SHA-256: `a2771ddef4bdc0cf5209d4bec2eac99b5feaf2df85ca970c71e59e2d0929b671`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
-### undefined
+### Resonance Lab
 
 Resonance Lab is an acoustic resonance field prototype. It plays controlled sine sweeps, records microphone response, estimates the strongest local response peak, and can play detected frequencies back with steady, pulsed, or wobbling output for visible small-object experiments.
 
@@ -347,7 +347,7 @@ Resonance Lab is an acoustic resonance field prototype. It plays controlled sine
 - APK SHA-256: `92fef8233be2354a0c7bfeb023aecb4a6d6814555c3278d482ac1ab5dcdae6f1`
 - Signing certificate SHA-256: `2f251bc0a8c8ee73f48e88b31889c834035f83ce9281d9b16e7a7fb0010ae395`
 
-### undefined
+### Solar Flyover
 
 Solar Flyover is an offline 3D solar system model built for practical accuracy. It computes realtime or accelerated planet positions from JPL/NASA-style orbital elements, lets users fly around the system, inspect planets, follow Earth or selected bodies, view orbit trails, and switch between accurate AU distances and a phone-friendly compressed display.
 
@@ -359,7 +359,7 @@ Solar Flyover is an offline 3D solar system model built for practical accuracy. 
 - APK SHA-256: `fe42182dd304131463c54c50b047eb1b2a6901dd002445e5856b1ce3a72bc4c9`
 - Signing certificate SHA-256: `000c29c806e7c126947e4289a3ca7c4e6a3331f883f22d819ff544a43a6199e0`
 
-### undefined
+### Solfege Lens
 
 Solfege Lens is a music-learning prototype that turns a sheet-music image into guided solfege playback. It detects treble-clef staff systems and likely noteheads on-device, labels notes as Do/Re/Mi/Fa/Sol/La/Si, speaks each syllable with Turkish solfege pronunciation regardless of UI language, can add or mute a generated pitch tone, offers reading speed selection, keeps the display awake while open, filters common sheet signs from note playback, estimates simple meter/tempo/key/rhythm/phrasing context, and can show the current note in a zoom window while keeping the main sheet readable.
 
@@ -371,7 +371,7 @@ Solfege Lens is a music-learning prototype that turns a sheet-music image into g
 - APK SHA-256: `c8d63a5dda627ac6b92633999fa8668d9ee4dd037d1ee3eff02c5683b2bd70ce`
 - Signing certificate SHA-256: `8bf63f02ed3404669471bfa0b128facf61b1d044b3e2c5ffd49e1ac03babe33c`
 
-### undefined
+### Speed Test Lab
 
 Speed Test Lab measures network latency, jitter, download speed, upload speed, active Wi-Fi/mobile transport details, public IP/provider metadata when reachable, and local test history. It uses public endpoints and presents results for comparing network quality over time.
 
@@ -383,7 +383,7 @@ Speed Test Lab measures network latency, jitter, download speed, upload speed, a
 - APK SHA-256: `d7ec76ae5b07dad6686939f392692189695cf55a701e14a7a8e8c200a678b7ba`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
-### undefined
+### SpeedCockpit
 
 SpeedCockpit is a driving cockpit with GPS speed, map context, speed-limit focused display, warning tones, and multiple map/cockpit modes. It is built for glanceable travel use with reduced map flicker and stricter speed-limit presentation.
 
@@ -395,7 +395,7 @@ SpeedCockpit is a driving cockpit with GPS speed, map context, speed-limit focus
 - APK SHA-256: `33368b1bbb81b58b514b40e89d8f0eb39334d2b5605898e807958bebbd0d0d0e`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
-### undefined
+### TorrentAtlas
 
 TorrentAtlas is a torrent search and download manager for legal/open torrents and user-provided magnet or .torrent files. It can browse supported sources, add downloads, track progress, and use a pure-Java BitTorrent engine without bundling native libtorrent components.
 
@@ -407,19 +407,19 @@ TorrentAtlas is a torrent search and download manager for legal/open torrents an
 - APK SHA-256: `00c3ae20dca9b94f03d269aea2bf8382f0e224cb0bcd6108b54cbb3832829840`
 - Signing certificate SHA-256: `77bd7b32711738bf4837f604e00b8c137675755cbe199611e8612b410d68841f`
 
-### undefined
+### Turbo Pitlane GP
 
-Turbo Pitlane GP is a single-player arcade endurance racer with five themed circuits, AI rivals, pit-lane strategy, tire/fuel/engine service decisions, generated bitmap race-car and pit artwork, engine and pit sound effects, and no network play.
+Turbo Pitlane GP is a fast single-player arcade racer with five themed circuits, dense AI rival traffic, boost-heavy overtakes, pit-lane strategy, tire/fuel/engine service decisions, generated bitmap race-car and pit artwork, SoundPool racing effects, and no network play.
 
 - Package: `com.lenomila.turbopitlane`
 - Category: `Games`
-- Version: `0.1.1` / code `2`
-- Description: Turbo Pitlane GP is a single-player arcade endurance racer with five themed circuits, AI rivals, pit-lane strategy, tire/fuel/engine service decisions, generated bitmap race-car and pit artwork, engine and pit sound effects, and no network play.
-- Download: <https://github.com/yustein/NovaStore/releases/download/turbopitlane-v0.1.1/TurboPitlaneGP-v0.1.1.apk>
-- APK SHA-256: `bdd7a8384aa20867762994ede90be8e8988cc336f8fa57950749936e7156a393`
+- Version: `0.1.2` / code `3`
+- Description: Turbo Pitlane GP is a fast single-player arcade racer with five themed circuits, dense AI rival traffic, boost-heavy overtakes, pit-lane strategy, tire/fuel/engine service decisions, generated bitmap race-car and pit artwork, SoundPool racing effects, and no network play.
+- Download: <https://github.com/yustein/NovaStore/releases/download/turbopitlane-v0.1.2/TurboPitlaneGP-v0.1.2.apk>
+- APK SHA-256: `321f5fd2838c5b810e000130b25516675d8b77b21b5af66aecfdc10a3b9ce854`
 - Signing certificate SHA-256: `8e27baa12d2f11fac9e7d8fae25498ddf268b11200f7f626348ce3055441f517`
 
-### undefined
+### Turkey Tourism
 
 Turkey Tourism is a travel guide for exploring Turkey with place information, guide-style profiles, travel scoring, weather context, detail pages, images, and in-app web references. It is built for trip planning and quick tourist orientation while staying inside the app.
 
@@ -431,7 +431,7 @@ Turkey Tourism is a travel guide for exploring Turkey with place information, gu
 - APK SHA-256: `cbeed03a5b423ef93ef0d7d694eee7e62f8e7c98b07a77d7960d97ce8038771b`
 - Signing certificate SHA-256: `2f251bc0a8c8ee73f48e88b31889c834035f83ce9281d9b16e7a7fb0010ae395`
 
-### undefined
+### Ultimate Tarot
 
 Ultimate Tarot is a private, no-permission Android tarot reading and study app built from Tony Yustein's Tarot Mastery book and public-domain card images. It supports rich card art, one-card through advanced multi-card spreads, detailed book-derived interpretations, reversals, timing, full book browsing, deck search, and local journaling.
 
@@ -443,7 +443,7 @@ Ultimate Tarot is a private, no-permission Android tarot reading and study app b
 - APK SHA-256: `44cb6c89b4531da22a3bccfda867c9e7022374bdc36783cf4fce0e81d796cc0c`
 - Signing certificate SHA-256: `eefb20efa7fa6db0a54baef57189b153a918c06495555df8d10d9c53ba80fc69`
 
-### undefined
+### UniWhisper
 
 UniWhisper is an offline symbolic reflection app with daily universe messages, optional local reminder notifications, reflective questions, grounded actions, Ask Universe prompts, local journaling, and searchable curated messages. It stores user data locally, uses no runtime AI, and presents messages as reflection rather than prediction or professional advice.
 
@@ -455,7 +455,7 @@ UniWhisper is an offline symbolic reflection app with daily universe messages, o
 - APK SHA-256: `b98a4014bd1275e868eefefc30196233699aa3f8872b94611b4197f4566cfb2b`
 - Signing certificate SHA-256: `223e0e1b6de9a302235bb5d1012ab76c6522431d5be32318124ae90781889dc2`
 
-### undefined
+### Virtual Atlas Walk
 
 Virtual Atlas Walk is an offline-first Android guided walk atlas for archaeological and touristic places. It uses bundled public-source imagery, local guide text, route facts, travel notes, photo-panel 3D movement, stable pinch/wheel zoom and orbit controls, and optional downloadable location packs.
 
@@ -467,7 +467,7 @@ Virtual Atlas Walk is an offline-first Android guided walk atlas for archaeologi
 - APK SHA-256: `6b2008fc03de609193dfd344eee337cd0430b0570737df7b344370139188cfd0`
 - Signing certificate SHA-256: `87feaaf30cd915e806d656a7f7d9da3ca218d85cde3fcb30111d3f64dbf1af50`
 
-### undefined
+### Visit Video Logger
 
 Visit Video Logger records driving or travel videos with a composed camera, map, GPS, heading, speed, timestamp, optional front-camera picture-in-picture, black-screen mode, localized UI, weather units, and configurable right-panel transparency.
 
@@ -479,7 +479,7 @@ Visit Video Logger records driving or travel videos with a composed camera, map,
 - APK SHA-256: `be66a0c8c63adde86d4d9d8fd6dee09feec703646770499530672d46dfb11fd3`
 - Signing certificate SHA-256: `d7b7bcd3e7f71979811709cbca98e3f984c43cdcf8c96b3ba808ef9972139ec6`
 
-### undefined
+### WaveVid
 
 WaveVid turns one image plus one audio file into a 720p MP4 with a full-width blue waveform along the bottom. It runs encoding on-device with Android media codecs, saves output to Movies/WaveVid, and can continue rendering in a foreground service.
 
@@ -491,7 +491,7 @@ WaveVid turns one image plus one audio file into a 720p MP4 with a full-width bl
 - APK SHA-256: `a1995b27a22afaddbec35177e150cbf10c15ffbcf1285730c5868e7c24f0e1a7`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
-### undefined
+### Whisper Scribe
 
 Whisper Scribe records or imports audio on Android and turns speech into editable text. It supports high-quality OpenAI API transcription plus free local offline Whisper via whisper.cpp after downloading or importing a model, then lets users copy, save, or share transcripts.
 
@@ -503,7 +503,7 @@ Whisper Scribe records or imports audio on Android and turns speech into editabl
 - APK SHA-256: `9c2e821045c46c77c30fb2d97c809dd7cb68ffdfe89891bfb63a07c4664ea58c`
 - Signing certificate SHA-256: `34b116221abae424c6d63d867303037ac43b826f6e95a092f79994e67f23a2aa`
 
-### undefined
+### WiFi Spectrum Lab
 
 WiFi Spectrum Lab is a local Android Wi-Fi analyzer for inspecting nearby access points without sending scan data off the phone. It shows SSID/BSSID, signal strength, channel, band, channel width, security posture, vendor hints, connected-network context, channel congestion, signal history, and JSON report export while respecting Android scan throttling and permission limits.
 
@@ -515,7 +515,7 @@ WiFi Spectrum Lab is a local Android Wi-Fi analyzer for inspecting nearby access
 - APK SHA-256: `0d084ae5ba9231f6c358c9482cb71bc82b4734794082be4fd283a3816cdfa903`
 - Signing certificate SHA-256: `c9ba39e7554f56e0aa4236a5bea91cf199d0c5e5f7f48df2bdeb664fc4fef1a4`
 
-### undefined
+### World Cup 2026
 
 World Cup 2026 is a tournament companion for fixtures, kickoff times, teams, venues, match status, results, news, and daily brief-style schedule checks. It is designed to show real local-time match information and open related web content inside the app.
 
