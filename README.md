@@ -6,8 +6,8 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-07-01T20:13:41Z`
-- Apps: `42`
+- Generated: `2026-07-02T19:15:54Z`
+- Apps: `43`
 
 ## Catalog Apps
 
@@ -85,27 +85,15 @@ Carpet Measure is an AR measurement prototype for estimating carpet and floor di
 
 ### undefined
 
-CatWorldly is a native companion app for the CatWorldly website. It shows daily comics, all seven weekly comic archives with back issues, fresh articles, mirrored social updates, the latest CatWorldly magazine PDF in a native reader with print/share, and a Games arcade section with Furball Pinball, Rooftop Rush, and Cosmic Pawblast, including pause/resume, exit controls, per-game last-10 score history, how-to-play notes, tight Furball Pinball hit lighting and level-themed tables, Rooftop Rush cucumber cat-voice impacts, five escalating Cosmic Pawblast levels with colored mouse powerups, enemy return fire, and isolated cat voice sound effects. It checks for updates on launch and roughly every six hours, sends local notifications for new unseen items, opens content inside the app, and includes a home-screen dashboard widget with manual sync, direct Today/Comics/Games shortcuts, latest-content glances, and arcade best-score glances.
+CatWorldly is a native companion app for the CatWorldly website. It shows daily comics, all seven weekly comic archives with back issues, fresh articles, mirrored social updates, the latest CatWorldly magazine PDF in a native reader with print/share, and a Games arcade section with Furball Pinball, Rooftop Rush, Cosmic Pawblast, and Crystal Paw Cavern. The arcade includes pause/resume, exit controls, per-game last-10 score history, how-to-play notes, tight Furball Pinball hit lighting and level-themed tables, Rooftop Rush cucumber cat-voice impacts, five escalating Cosmic Pawblast levels with colored mouse powerups and enemy return fire, and a Boulder Dash-style cave puzzler with generated bitmap cave art, swipe movement, tap-to-wait turns, fish-crystal goals, falling boulder hazards, and isolated cat voice sound effects. It checks for updates on launch and roughly every six hours, sends local notifications for new unseen items, opens content inside the app, and includes a home-screen dashboard widget with manual sync, direct Today/Comics/Games shortcuts, latest-content glances, and arcade best-score glances.
 
 - Package: `com.lenomila.catworldly`
 - Category: `Entertainment`
-- Version: `0.1.10` / code `11`
-- Description: CatWorldly is a native companion app for the CatWorldly website. It shows daily comics, all seven weekly comic archives with back issues, fresh articles, mirrored social updates, the latest CatWorldly magazine PDF in a native reader with print/share, and a Games arcade section with Furball Pinball, Rooftop Rush, and Cosmic Pawblast, including pause/resume, exit controls, per-game last-10 score history, how-to-play notes, tight Furball Pinball hit lighting and level-themed tables, Rooftop Rush cucumber cat-voice impacts, five escalating Cosmic Pawblast levels with colored mouse powerups, enemy return fire, and isolated cat voice sound effects. It checks for updates on launch and roughly every six hours, sends local notifications for new unseen items, opens content inside the app, and includes a home-screen dashboard widget with manual sync, direct Today/Comics/Games shortcuts, latest-content glances, and arcade best-score glances.
-- Download: <https://github.com/yustein/NovaStore/releases/download/catworldly-v0.1.10/CatWorldly-v0.1.10.apk>
-- APK SHA-256: `44d2d06f71425bd95c003d73a244b215ad519a70af5b6d8fa1ce53bbae46b1ca`
+- Version: `0.1.11` / code `12`
+- Description: CatWorldly is a native companion app for the CatWorldly website. It shows daily comics, all seven weekly comic archives with back issues, fresh articles, mirrored social updates, the latest CatWorldly magazine PDF in a native reader with print/share, and a Games arcade section with Furball Pinball, Rooftop Rush, Cosmic Pawblast, and Crystal Paw Cavern. The arcade includes pause/resume, exit controls, per-game last-10 score history, how-to-play notes, tight Furball Pinball hit lighting and level-themed tables, Rooftop Rush cucumber cat-voice impacts, five escalating Cosmic Pawblast levels with colored mouse powerups and enemy return fire, and a Boulder Dash-style cave puzzler with generated bitmap cave art, swipe movement, tap-to-wait turns, fish-crystal goals, falling boulder hazards, and isolated cat voice sound effects. It checks for updates on launch and roughly every six hours, sends local notifications for new unseen items, opens content inside the app, and includes a home-screen dashboard widget with manual sync, direct Today/Comics/Games shortcuts, latest-content glances, and arcade best-score glances.
+- Download: <https://github.com/yustein/NovaStore/releases/download/catworldly-v0.1.11/CatWorldly-v0.1.11.apk>
+- APK SHA-256: `c61ae8ca4a58a48d9db159832266117a6550a0787e88cbb9cad2930e09703ee2`
 - Signing certificate SHA-256: `16f9c6618f42489bd1ef5388389b6db9662c1536a0e40096ecec806dc781676b`
-
-### undefined
-
-Clawboard is a custom Android keyboard and companion manager for working with AI systems and remote hosts. It provides AI prompt snippets, Markdown/code helper keys, local notes and tasks, user-tunable keyboard colors, terminal shortcut keys, encrypted saved SSH passwords, and an SSH command terminal in the manager app.
-
-- Package: `com.lenomila.clawboard`
-- Category: `Productivity`
-- Version: `0.2.4` / code `6`
-- Description: Clawboard is a custom Android keyboard and companion manager for working with AI systems and remote hosts. It provides AI prompt snippets, Markdown/code helper keys, local notes and tasks, user-tunable keyboard colors, terminal shortcut keys, encrypted saved SSH passwords, and an SSH command terminal in the manager app.
-- Download: <https://github.com/yustein/NovaStore/releases/download/clawboard-v0.2.4/ClawboardAndroid-v0.2.4.apk>
-- APK SHA-256: `936ff6d67d611e0fb9a20cb881f74f40c7f5d56265c6b620962199f7749a5f42`
-- Signing certificate SHA-256: `5f907c5d651b10150f4100fc0c7aa59ca79a9d465f76ae5216a2512855521f31`
 
 ### undefined
 
@@ -130,6 +118,18 @@ ClawDeck is an Android-first OpenClaw operations console. It keeps saved server 
 - Download: <https://github.com/yustein/NovaStore/releases/download/clawdeck-v1.0.26/ClawDeck-v1.0.26.apk>
 - APK SHA-256: `07c0a3135d92649829525613300cbea2b1271eedce8881cce7d51958923c0a43`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
+
+### undefined
+
+Clawboard is a custom Android keyboard and companion manager for working with AI systems and remote hosts. It provides AI prompt snippets, Markdown/code helper keys, local notes and tasks, user-tunable keyboard colors, terminal shortcut keys, encrypted saved SSH passwords, and an SSH command terminal in the manager app.
+
+- Package: `com.lenomila.clawboard`
+- Category: `Productivity`
+- Version: `0.2.4` / code `6`
+- Description: Clawboard is a custom Android keyboard and companion manager for working with AI systems and remote hosts. It provides AI prompt snippets, Markdown/code helper keys, local notes and tasks, user-tunable keyboard colors, terminal shortcut keys, encrypted saved SSH passwords, and an SSH command terminal in the manager app.
+- Download: <https://github.com/yustein/NovaStore/releases/download/clawboard-v0.2.4/ClawboardAndroid-v0.2.4.apk>
+- APK SHA-256: `936ff6d67d611e0fb9a20cb881f74f40c7f5d56265c6b620962199f7749a5f42`
+- Signing certificate SHA-256: `5f907c5d651b10150f4100fc0c7aa59ca79a9d465f76ae5216a2512855521f31`
 
 ### undefined
 
@@ -181,18 +181,6 @@ File Atlas is a phone file manager for browsing local storage with a practical d
 
 ### undefined
 
-Gateway Fieldbook is a field journal and training companion rebuilt from Tony's recovered APK. It includes focus timers, guided sessions, tone/audio exercises, profile and log tools, remote-viewing style practice targets, and structured notes for recording observations during sessions.
-
-- Package: `com.lenomila.gatewayfieldbook`
-- Category: `Reference`
-- Version: `1.3.0` / code `5`
-- Description: Gateway Fieldbook is a field journal and training companion rebuilt from Tony's recovered APK. It includes focus timers, guided sessions, tone/audio exercises, profile and log tools, remote-viewing style practice targets, and structured notes for recording observations during sessions.
-- Download: <https://github.com/yustein/NovaStore/releases/download/gatewayfieldbook-v1.3.0/GatewayFieldbook-v1.3.0.apk>
-- APK SHA-256: `29964a09beffeff9617b02da7479fe48a12dd65b700980d356fc76255618e813`
-- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
-
-### undefined
-
 GPU Video Combiner is a local Android video tool for joining selected clips into one MP4. It lets you order a clip queue, choose output size, fit mode, codec, and audio behavior, then export through Android hardware encoding and save the result to Movies/GPUVideoCombiner.
 
 - Package: `com.lenomila.gpuvideocombiner`
@@ -202,6 +190,18 @@ GPU Video Combiner is a local Android video tool for joining selected clips into
 - Download: <https://github.com/yustein/NovaStore/releases/download/gpuvideocombiner-v0.1.0/GPUVideoCombiner-v0.1.0.apk>
 - APK SHA-256: `2db16b4db63e4c710c1712d97883cf7c0bb53360a27e548c68e1657f31959dc3`
 - Signing certificate SHA-256: `ed41e359ad6ae9bb4b086343ab72d3e45801998f832547c357bd1b92f8961740`
+
+### undefined
+
+Gateway Fieldbook is a field journal and training companion rebuilt from Tony's recovered APK. It includes focus timers, guided sessions, tone/audio exercises, profile and log tools, remote-viewing style practice targets, and structured notes for recording observations during sessions.
+
+- Package: `com.lenomila.gatewayfieldbook`
+- Category: `Reference`
+- Version: `1.3.0` / code `5`
+- Description: Gateway Fieldbook is a field journal and training companion rebuilt from Tony's recovered APK. It includes focus timers, guided sessions, tone/audio exercises, profile and log tools, remote-viewing style practice targets, and structured notes for recording observations during sessions.
+- Download: <https://github.com/yustein/NovaStore/releases/download/gatewayfieldbook-v1.3.0/GatewayFieldbook-v1.3.0.apk>
+- APK SHA-256: `29964a09beffeff9617b02da7479fe48a12dd65b700980d356fc76255618e813`
+- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
 ### undefined
 
@@ -253,18 +253,6 @@ MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports 
 
 ### undefined
 
-NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, uses signed catalog icon metadata, checks installed versions for catalog apps through Android launcher visibility without QUERY_ALL_PACKAGES, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval.
-
-- Package: `com.lenomila.novastore`
-- Category: `Store`
-- Version: `0.2.17` / code `37`
-- Description: NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, uses signed catalog icon metadata, checks installed versions for catalog apps through Android launcher visibility without QUERY_ALL_PACKAGES, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval.
-- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.17/NovaStore-v0.2.17.apk>
-- APK SHA-256: `dea688b6e84c3eba7741876334e95fc4446266bbfa25c96615b00e954dec4369`
-- Signing certificate SHA-256: `115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c`
-
-### undefined
-
 This NovaStore entry is a compatibility bridge for older NovaStore 0.1.x installations that used the original com.novastore.client package. It lets those installs update to the final old-package build before moving to the modern NovaStore package.
 
 - Package: `com.novastore.client`
@@ -274,6 +262,18 @@ This NovaStore entry is a compatibility bridge for older NovaStore 0.1.x install
 - Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.14/NovaStore-v0.1.14.apk>
 - APK SHA-256: `9b2218469afd71809942bab1ca0ada4414f87cae2083d97e3fda960195c5b547`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
+
+### undefined
+
+NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, uses signed catalog icon metadata, checks installed versions for catalog apps through Android launcher visibility without QUERY_ALL_PACKAGES, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval.
+
+- Package: `com.lenomila.novastore`
+- Category: `Store`
+- Version: `0.2.17` / code `37`
+- Description: NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, uses signed catalog icon metadata, checks installed versions for catalog apps through Android launcher visibility without QUERY_ALL_PACKAGES, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval.
+- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.17/NovaStore-v0.2.17.apk>
+- APK SHA-256: `dea688b6e84c3eba7741876334e95fc4446266bbfa25c96615b00e954dec4369`
+- Signing certificate SHA-256: `115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c`
 
 ### undefined
 
@@ -406,6 +406,18 @@ TorrentAtlas is a torrent search and download manager for legal/open torrents an
 - Download: <https://github.com/yustein/NovaStore/releases/download/torrentatlas-v0.1.8/TorrentAtlas-v0.1.8.apk>
 - APK SHA-256: `00c3ae20dca9b94f03d269aea2bf8382f0e224cb0bcd6108b54cbb3832829840`
 - Signing certificate SHA-256: `77bd7b32711738bf4837f604e00b8c137675755cbe199611e8612b410d68841f`
+
+### undefined
+
+Turbo Pitlane GP is a single-player arcade endurance racer with five themed circuits, AI rivals, pit-lane strategy, tire/fuel/engine service decisions, generated bitmap race-car and pit artwork, engine and pit sound effects, and no network play.
+
+- Package: `com.lenomila.turbopitlane`
+- Category: `Games`
+- Version: `0.1.1` / code `2`
+- Description: Turbo Pitlane GP is a single-player arcade endurance racer with five themed circuits, AI rivals, pit-lane strategy, tire/fuel/engine service decisions, generated bitmap race-car and pit artwork, engine and pit sound effects, and no network play.
+- Download: <https://github.com/yustein/NovaStore/releases/download/turbopitlane-v0.1.1/TurboPitlaneGP-v0.1.1.apk>
+- APK SHA-256: `bdd7a8384aa20867762994ede90be8e8988cc336f8fa57950749936e7156a393`
+- Signing certificate SHA-256: `8e27baa12d2f11fac9e7d8fae25498ddf268b11200f7f626348ce3055441f517`
 
 ### undefined
 
