@@ -409,14 +409,14 @@ TorrentAtlas is a torrent search and download manager for legal/open torrents an
 
 ### Turbo Pitlane GP
 
-Turbo Pitlane GP is a fast single-player arcade racer with five themed circuits, dense AI rival traffic, boost-heavy overtakes, pit-lane strategy, tire/fuel/engine service decisions, generated bitmap race-car and pit artwork, SoundPool racing effects, and no network play.
+Turbo Pitlane GP is a phone-tested chase-view arcade racing game with five selectable circuits, drag steering, BOOST/DRIFT controls, a larger player car, dense rival traffic, turbo/service/apex pickups, damage, near-miss combo scoring, SoundPool racing effects, and no network play.
 
 - Package: `com.lenomila.turbopitlane`
 - Category: `Games`
-- Version: `0.1.2` / code `3`
-- Description: Turbo Pitlane GP is a fast single-player arcade racer with five themed circuits, dense AI rival traffic, boost-heavy overtakes, pit-lane strategy, tire/fuel/engine service decisions, generated bitmap race-car and pit artwork, SoundPool racing effects, and no network play.
-- Download: <https://github.com/yustein/NovaStore/releases/download/turbopitlane-v0.1.2/TurboPitlaneGP-v0.1.2.apk>
-- APK SHA-256: `321f5fd2838c5b810e000130b25516675d8b77b21b5af66aecfdc10a3b9ce854`
+- Version: `0.2.0` / code `4`
+- Description: Turbo Pitlane GP is a phone-tested chase-view arcade racing game with five selectable circuits, drag steering, BOOST/DRIFT controls, a larger player car, dense rival traffic, turbo/service/apex pickups, damage, near-miss combo scoring, SoundPool racing effects, and no network play.
+- Download: <https://github.com/yustein/NovaStore/releases/download/turbopitlane-v0.2.0/TurboPitlaneGP-v0.2.0.apk>
+- APK SHA-256: `77d7b2315bf930fc9c6d2a0ac3ae34add54bddc3a0eab93804df270f9c1d656d`
 - Signing certificate SHA-256: `8e27baa12d2f11fac9e7d8fae25498ddf268b11200f7f626348ce3055441f517`
 
 ### Turkey Tourism
