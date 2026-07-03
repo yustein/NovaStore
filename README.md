@@ -121,14 +121,14 @@ ClawChat is an Android-first private messenger for no-phone-number chat. It crea
 
 ### Clawcycle Havoc
 
-Clawcycle Havoc is a funny fullscreen Android arcade game about a misfit cat crew tearing through city districts on chrome cruiser motorcycles. It combines touch steering, BOOST/HAVOC/WHEELIE controls, a HOW TO PLAY guide, four themed districts, fish/yarn/ramp/wrench pickups, cones and smoke hazards, gang followers, combo scoring, generated bitmap artwork, and Tony-provided cat voice sound effects. It is a standalone no-network game and uses generic cruiser styling with no motorcycle-brand logos.
+Clawcycle Havoc is a funny fullscreen Android arcade game about a misfit cat crew tearing through city districts on chrome cruiser motorcycles. It combines touch steering, large PAUSE/EXIT in-run controls, BOOST/HAVOC/WHEELIE actions, a quick countdown, distance-based speed ramping, a HOW TO PLAY guide, four themed districts, fish/yarn/ramp/wrench pickups, cones and smoke hazards, gang followers, combo scoring, generated bitmap artwork, and Tony-provided cat voice sound effects. It is a standalone no-network game and uses generic cruiser styling with no motorcycle-brand logos.
 
 - Package: `com.lenomila.clawcycle`
 - Category: `Games`
-- Version: `0.1.2` / code `3`
-- Description: Clawcycle Havoc is a funny fullscreen Android arcade game about a misfit cat crew tearing through city districts on chrome cruiser motorcycles. It combines touch steering, BOOST/HAVOC/WHEELIE controls, a HOW TO PLAY guide, four themed districts, fish/yarn/ramp/wrench pickups, cones and smoke hazards, gang followers, combo scoring, generated bitmap artwork, and Tony-provided cat voice sound effects. It is a standalone no-network game and uses generic cruiser styling with no motorcycle-brand logos.
-- Download: <https://github.com/yustein/NovaStore/releases/download/clawcyclehavoc-v0.1.2/ClawcycleHavoc-v0.1.2.apk>
-- APK SHA-256: `8b7b7d0ca5fab97b847a12a83cc2ebc174255aa3bf27399210a17fabda3caab1`
+- Version: `0.1.3` / code `4`
+- Description: Clawcycle Havoc is a funny fullscreen Android arcade game about a misfit cat crew tearing through city districts on chrome cruiser motorcycles. It combines touch steering, large PAUSE/EXIT in-run controls, BOOST/HAVOC/WHEELIE actions, a quick countdown, distance-based speed ramping, a HOW TO PLAY guide, four themed districts, fish/yarn/ramp/wrench pickups, cones and smoke hazards, gang followers, combo scoring, generated bitmap artwork, and Tony-provided cat voice sound effects. It is a standalone no-network game and uses generic cruiser styling with no motorcycle-brand logos.
+- Download: <https://github.com/yustein/NovaStore/releases/download/clawcyclehavoc-v0.1.3/ClawcycleHavoc-v0.1.3.apk>
+- APK SHA-256: `1bbe1d72f601f10610f4cb9bfbb732ccd374d862bb54028593f0a24c8c0c084b`
 - Signing certificate SHA-256: `de5079de6299f6475a196da106fa43c2c166934d7d78da01bc7562cfe06e8082`
 ### ClawDeck
 
