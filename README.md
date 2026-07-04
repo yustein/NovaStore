@@ -6,10 +6,22 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-07-04T08:27:15Z`
-- Apps: `44`
+- Generated: `2026-07-04T13:54:25Z`
+- Apps: `45`
 
 ## Catalog Apps
+
+### Anadolu Fantasy Manager
+
+Anadolu Fantasy Manager is a local-only fantasy football manager for Turkish football. It lets you create a demo squad, view local scoring from bundled demo fixtures, inspect squad, lineup, matchday, score, sharing, settings, and legal screens, and keep all fantasy state on the phone with Room/DataStore. V1 uses text-only fictional demo clubs and players, includes an independent-app disclaimer, has no central server, account, cloud league, embedded shared API key, betting, prizes, or gambling mechanics. BYO data-provider and manual-import paths are scaffolded for future live data without official logos, crests, jerseys, player photos, sponsor marks, or official-looking identity.
+
+- Package: `com.lenomila.anadolufantasy`
+- Category: `Sports`
+- Version: `0.1.0` / code `1`
+- Description: Anadolu Fantasy Manager is a local-only fantasy football manager for Turkish football. It lets you create a demo squad, view local scoring from bundled demo fixtures, inspect squad, lineup, matchday, score, sharing, settings, and legal screens, and keep all fantasy state on the phone with Room/DataStore. V1 uses text-only fictional demo clubs and players, includes an independent-app disclaimer, has no central server, account, cloud league, embedded shared API key, betting, prizes, or gambling mechanics. BYO data-provider and manual-import paths are scaffolded for future live data without official logos, crests, jerseys, player photos, sponsor marks, or official-looking identity.
+- Download: <https://github.com/yustein/NovaStore/releases/download/anadolufantasy-v0.1.0/AnadoluFantasyManager-v0.1.0.apk>
+- APK SHA-256: `8bba8d7811719f3e18ad9e313707b179efcd24d175a7e5f6d63233e97fa65415`
+- Signing certificate SHA-256: `84247b5e1633d63d9062b7e581d7ba8ef62a0ed1156870482244e90290add14d`
 
 ### Antikythera
 
@@ -121,15 +133,16 @@ ClawChat is an Android-first private messenger for no-phone-number chat. It crea
 
 ### Clawcycle Havoc
 
-Clawcycle Havoc is a funny fullscreen Android arcade game about a misfit cat crew tearing through eight Istanbul night districts on chrome cruiser motorcycles. It combines touch steering, larger readable level and gang-rider selection controls, selectable Easy/Normal/Hard difficulty, a 30-minute 320 kbps baked background music bed with approved source-level crossmixed transitions and rare 5-second engine handoff at the loop point, a persisted MUSIC ON/OFF toggle, a visible 9-life survival system, a selectable five-cat gang leader, large PAUSE/EXIT controls, BOOST/HAVOC/WHEELIE actions, audible 3-2-1-MEOW countdown cues, distance-based speed ramping, a HOW TO PLAY guide, fish/yarn/ramp/wrench pickups, cones and smoke hazards, combo scoring, generated bitmap artwork, Tony-provided cat voices, and claw-scratch/paw HAVOC effects. It is a standalone no-network game and uses generic cruiser styling with no motorcycle-brand logos.
+Clawcycle Havoc is a funny fullscreen Android arcade game about a misfit cat crew tearing through eight Istanbul night districts on chrome cruiser motorcycles. It combines touch steering, larger readable level and gang-rider selection controls, selectable Easy/Normal/Hard difficulty, a 30-minute 128 kbps baked background music bed with approved source-level crossmixed transitions and rare 5-second engine handoff at the loop point, a persisted MUSIC ON/OFF toggle, a visible 9-life survival system, a selectable five-cat gang leader, large PAUSE/EXIT controls, BOOST/HAVOC/WHEELIE actions, audible 3-2-1-MEOW countdown cues, distance-based speed ramping, a HOW TO PLAY guide, fish/yarn/ramp/wrench pickups, cones and smoke hazards, combo scoring, generated bitmap artwork, Tony-provided cat voices, and claw-scratch/paw HAVOC effects. It is a standalone no-network game and uses generic cruiser styling with no motorcycle-brand logos.
 
 - Package: `com.lenomila.clawcycle`
 - Category: `Games`
-- Version: `0.1.10` / code `11`
-- Description: Clawcycle Havoc is a funny fullscreen Android arcade game about a misfit cat crew tearing through eight Istanbul night districts on chrome cruiser motorcycles. It combines touch steering, larger readable level and gang-rider selection controls, selectable Easy/Normal/Hard difficulty, a 30-minute 320 kbps baked background music bed with approved source-level crossmixed transitions and rare 5-second engine handoff at the loop point, a persisted MUSIC ON/OFF toggle, a visible 9-life survival system, a selectable five-cat gang leader, large PAUSE/EXIT controls, BOOST/HAVOC/WHEELIE actions, audible 3-2-1-MEOW countdown cues, distance-based speed ramping, a HOW TO PLAY guide, fish/yarn/ramp/wrench pickups, cones and smoke hazards, combo scoring, generated bitmap artwork, Tony-provided cat voices, and claw-scratch/paw HAVOC effects. It is a standalone no-network game and uses generic cruiser styling with no motorcycle-brand logos.
-- Download: <https://github.com/yustein/NovaStore/releases/download/clawcyclehavoc-v0.1.10/ClawcycleHavoc-v0.1.10.apk>
-- APK SHA-256: `e18d9b828636742a4d54bfe358dbe8d02dcfbe4340a0163497e41990c9bb275d`
+- Version: `0.1.12` / code `13`
+- Description: Clawcycle Havoc is a funny fullscreen Android arcade game about a misfit cat crew tearing through eight Istanbul night districts on chrome cruiser motorcycles. It combines touch steering, larger readable level and gang-rider selection controls, selectable Easy/Normal/Hard difficulty, a 30-minute 128 kbps baked background music bed with approved source-level crossmixed transitions and rare 5-second engine handoff at the loop point, a persisted MUSIC ON/OFF toggle, a visible 9-life survival system, a selectable five-cat gang leader, large PAUSE/EXIT controls, BOOST/HAVOC/WHEELIE actions, audible 3-2-1-MEOW countdown cues, distance-based speed ramping, a HOW TO PLAY guide, fish/yarn/ramp/wrench pickups, cones and smoke hazards, combo scoring, generated bitmap artwork, Tony-provided cat voices, and claw-scratch/paw HAVOC effects. It is a standalone no-network game and uses generic cruiser styling with no motorcycle-brand logos.
+- Download: <https://github.com/yustein/NovaStore/releases/download/clawcyclehavoc-v0.1.12/ClawcycleHavoc-v0.1.12.apk>
+- APK SHA-256: `cef5b35cee0a873a9c2469f43edc32ebfe856dfce2724dff51098ca99503c9ac`
 - Signing certificate SHA-256: `de5079de6299f6475a196da106fa43c2c166934d7d78da01bc7562cfe06e8082`
+
 ### ClawDeck
 
 ClawDeck is an Android-first OpenClaw operations console. It keeps saved server targets, SSH command surfaces, safe command templates, local operator notes, chat with OpenClaw, background chat keepalive, logs, redaction, and a setup flow for managing Tony's own infrastructure from a phone.
@@ -264,18 +277,6 @@ MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports 
 
 ### NovaStore
 
-NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, uses signed catalog icon metadata, checks installed versions for catalog apps through Android launcher visibility without QUERY_ALL_PACKAGES, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval.
-
-- Package: `com.lenomila.novastore`
-- Category: `Store`
-- Version: `0.2.18` / code `38`
-- Description: NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, uses signed catalog icon metadata, checks installed versions for catalog apps through Android launcher visibility without QUERY_ALL_PACKAGES, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval.
-- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.18/NovaStore-v0.2.18.apk>
-- APK SHA-256: `724db46d76c74959d65c68895fe158dbf0f6c6fcf4b667ee423d547de031f81e`
-- Signing certificate SHA-256: `115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c`
-
-### NovaStore
-
 This NovaStore entry is a compatibility bridge for older NovaStore 0.1.x installations that used the original com.novastore.client package. It lets those installs update to the final old-package build before moving to the modern NovaStore package.
 
 - Package: `com.novastore.client`
@@ -285,6 +286,18 @@ This NovaStore entry is a compatibility bridge for older NovaStore 0.1.x install
 - Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.14/NovaStore-v0.1.14.apk>
 - APK SHA-256: `9b2218469afd71809942bab1ca0ada4414f87cae2083d97e3fda960195c5b547`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
+
+### NovaStore
+
+NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, uses signed catalog icon metadata, checks installed versions for catalog apps through Android launcher visibility without QUERY_ALL_PACKAGES, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval.
+
+- Package: `com.lenomila.novastore`
+- Category: `Store`
+- Version: `0.2.18` / code `38`
+- Description: NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, uses signed catalog icon metadata, checks installed versions for catalog apps through Android launcher visibility without QUERY_ALL_PACKAGES, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval.
+- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.18/NovaStore-v0.2.18.apk>
+- APK SHA-256: `724db46d76c74959d65c68895fe158dbf0f6c6fcf4b667ee423d547de031f81e`
+- Signing certificate SHA-256: `115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c`
 
 ### PhantomXRay
 
