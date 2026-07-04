@@ -6,21 +6,21 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-07-04T13:54:25Z`
+- Generated: `2026-07-04T15:51:14Z`
 - Apps: `45`
 
 ## Catalog Apps
 
 ### Anadolu Fantasy Manager
 
-Anadolu Fantasy Manager is a local-only fantasy football manager for Turkish football. It lets you create a demo squad, view local scoring from bundled demo fixtures, inspect squad, lineup, matchday, score, sharing, settings, and legal screens, and keep all fantasy state on the phone with Room/DataStore. V1 uses text-only fictional demo clubs and players, includes an independent-app disclaimer, has no central server, account, cloud league, embedded shared API key, betting, prizes, or gambling mechanics. BYO data-provider and manual-import paths are scaffolded for future live data without official logos, crests, jerseys, player photos, sponsor marks, or official-looking identity.
+Anadolu Fantasy Manager is a local-first fantasy football manager for Turkish football. It uses a public GitHub JSON feed for the 2026/27 Turkish league snapshot, roster pool, news, and future fixtures/results, then keeps fantasy state on the phone with Room/DataStore. The app includes a News tab with source-linked league, transfer, data, and result items, hash-checks feed files before import, and works offline from the latest bundled or synced snapshot. It remains independent, text-only, and has no private backend, accounts, cloud league, official marks, embedded shared API key, betting, prizes, or gambling mechanics.
 
 - Package: `com.lenomila.anadolufantasy`
 - Category: `Sports`
-- Version: `0.1.0` / code `1`
-- Description: Anadolu Fantasy Manager is a local-only fantasy football manager for Turkish football. It lets you create a demo squad, view local scoring from bundled demo fixtures, inspect squad, lineup, matchday, score, sharing, settings, and legal screens, and keep all fantasy state on the phone with Room/DataStore. V1 uses text-only fictional demo clubs and players, includes an independent-app disclaimer, has no central server, account, cloud league, embedded shared API key, betting, prizes, or gambling mechanics. BYO data-provider and manual-import paths are scaffolded for future live data without official logos, crests, jerseys, player photos, sponsor marks, or official-looking identity.
-- Download: <https://github.com/yustein/NovaStore/releases/download/anadolufantasy-v0.1.0/AnadoluFantasyManager-v0.1.0.apk>
-- APK SHA-256: `8bba8d7811719f3e18ad9e313707b179efcd24d175a7e5f6d63233e97fa65415`
+- Version: `0.1.1` / code `2`
+- Description: Anadolu Fantasy Manager is a local-first fantasy football manager for Turkish football. It uses a public GitHub JSON feed for the 2026/27 Turkish league snapshot, roster pool, news, and future fixtures/results, then keeps fantasy state on the phone with Room/DataStore. The app includes a News tab with source-linked league, transfer, data, and result items, hash-checks feed files before import, and works offline from the latest bundled or synced snapshot. It remains independent, text-only, and has no private backend, accounts, cloud league, official marks, embedded shared API key, betting, prizes, or gambling mechanics.
+- Download: <https://github.com/yustein/NovaStore/releases/download/anadolufantasy-v0.1.1/AnadoluFantasyManager-v0.1.1.apk>
+- APK SHA-256: `3329686dd7e8bc0f2eeaad74b06aa4983cc642d26de599fde50b2236990a99d8`
 - Signing certificate SHA-256: `84247b5e1633d63d9062b7e581d7ba8ef62a0ed1156870482244e90290add14d`
 
 ### Antikythera
@@ -395,18 +395,6 @@ Solfege Lens is a music-learning prototype that turns a sheet-music image into g
 - APK SHA-256: `c8d63a5dda627ac6b92633999fa8668d9ee4dd037d1ee3eff02c5683b2bd70ce`
 - Signing certificate SHA-256: `8bf63f02ed3404669471bfa0b128facf61b1d044b3e2c5ffd49e1ac03babe33c`
 
-### Speed Test Lab
-
-Speed Test Lab measures network latency, jitter, download speed, upload speed, active Wi-Fi/mobile transport details, public IP/provider metadata when reachable, and local test history. It uses public endpoints and presents results for comparing network quality over time.
-
-- Package: `com.lenomila.speedtest`
-- Category: `Tools`
-- Version: `0.1.5` / code `6`
-- Description: Speed Test Lab measures network latency, jitter, download speed, upload speed, active Wi-Fi/mobile transport details, public IP/provider metadata when reachable, and local test history. It uses public endpoints and presents results for comparing network quality over time.
-- Download: <https://github.com/yustein/NovaStore/releases/download/speedtestlab-v0.1.5/SpeedTestLab-v0.1.5.apk>
-- APK SHA-256: `d7ec76ae5b07dad6686939f392692189695cf55a701e14a7a8e8c200a678b7ba`
-- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
-
 ### SpeedCockpit
 
 SpeedCockpit is a driving cockpit with GPS speed, map context, speed-limit focused display, warning tones, and multiple map/cockpit modes. It is built for glanceable travel use with reduced map flicker and stricter speed-limit presentation.
@@ -417,6 +405,18 @@ SpeedCockpit is a driving cockpit with GPS speed, map context, speed-limit focus
 - Description: SpeedCockpit is a driving cockpit with GPS speed, map context, speed-limit focused display, warning tones, and multiple map/cockpit modes. It is built for glanceable travel use with reduced map flicker and stricter speed-limit presentation.
 - Download: <https://github.com/yustein/NovaStore/releases/download/speedcockpit-v0.1.13/SpeedCockpit-v0.1.13.apk>
 - APK SHA-256: `33368b1bbb81b58b514b40e89d8f0eb39334d2b5605898e807958bebbd0d0d0e`
+- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
+
+### Speed Test Lab
+
+Speed Test Lab measures network latency, jitter, download speed, upload speed, active Wi-Fi/mobile transport details, public IP/provider metadata when reachable, and local test history. It uses public endpoints and presents results for comparing network quality over time.
+
+- Package: `com.lenomila.speedtest`
+- Category: `Tools`
+- Version: `0.1.5` / code `6`
+- Description: Speed Test Lab measures network latency, jitter, download speed, upload speed, active Wi-Fi/mobile transport details, public IP/provider metadata when reachable, and local test history. It uses public endpoints and presents results for comparing network quality over time.
+- Download: <https://github.com/yustein/NovaStore/releases/download/speedtestlab-v0.1.5/SpeedTestLab-v0.1.5.apk>
+- APK SHA-256: `d7ec76ae5b07dad6686939f392692189695cf55a701e14a7a8e8c200a678b7ba`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
 ### TorrentAtlas
