@@ -6,7 +6,7 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-07-05T08:31:29Z`
+- Generated: `2026-07-05T09:04:31Z`
 - Apps: `46`
 
 ## Catalog Apps
@@ -509,10 +509,10 @@ WaveAtlas Radio is a global online radio player for discovering stations by genr
 
 - Package: `com.lenomila.waveatlasradio`
 - Category: `Music`
-- Version: `0.1.0` / code `1`
+- Version: `0.1.1` / code `2`
 - Description: WaveAtlas Radio is a global online radio player for discovering stations by genre, country, or search using the public Radio Browser directory. It plays live streams through Android Media3 foreground playback, shows station and song metadata when streams publish ICY details, keeps favorites locally, opens station websites in-app, and requires no account, tracking profile, private backend, central server, or bundled paid stream provider.
-- Download: <https://github.com/yustein/NovaStore/releases/download/waveatlasradio-v0.1.0/WaveAtlasRadio-v0.1.0.apk>
-- APK SHA-256: `cf802e1f3aaef37f6d2b5cbda771717d807df068dac82e56aef1ff573365b395`
+- Download: <https://github.com/yustein/NovaStore/releases/download/waveatlasradio-v0.1.1/WaveAtlasRadio-v0.1.1.apk>
+- APK SHA-256: `2de9a93d324a89a74e04069ba8bdfce7c59d7eda13e279a7a7080c12bcbb225d`
 - Signing certificate SHA-256: `b9f3fa6dcf24d71b4b6acbd3bde211a77d1fdeec6d89af69bdb555d7676cd1d9`
 
 ### WaveVid
