@@ -505,15 +505,16 @@ Visit Video Logger records driving or travel videos with a composed camera, map,
 
 ### WaveAtlas Radio
 
-WaveAtlas Radio is a global online radio player for discovering stations by genre, country, or search using the public Radio Browser directory. It plays live streams through Android Media3 foreground playback, shows station and song metadata when streams publish ICY details, keeps favorites locally, opens station websites in-app, and requires no account, tracking profile, private backend, central server, or bundled paid stream provider.
+WaveAtlas Radio is a global online radio player for discovering stations by genre, country, or search using the public Radio Browser directory. It plays live streams through Android Media3 foreground playback, shows station and song metadata when streams publish ICY details, keeps favorites locally, saves downloaded station data in an on-device SQLite cache for fast startup, opens station websites in-app, and requires no account, tracking profile, private backend, central server, or bundled paid stream provider.
 
 - Package: `com.lenomila.waveatlasradio`
 - Category: `Music`
-- Version: `0.1.1` / code `2`
-- Description: WaveAtlas Radio is a global online radio player for discovering stations by genre, country, or search using the public Radio Browser directory. It plays live streams through Android Media3 foreground playback, shows station and song metadata when streams publish ICY details, keeps favorites locally, opens station websites in-app, and requires no account, tracking profile, private backend, central server, or bundled paid stream provider.
-- Download: <https://github.com/yustein/NovaStore/releases/download/waveatlasradio-v0.1.1/WaveAtlasRadio-v0.1.1.apk>
-- APK SHA-256: `2de9a93d324a89a74e04069ba8bdfce7c59d7eda13e279a7a7080c12bcbb225d`
+- Version: `0.1.2` / code `3`
+- Description: WaveAtlas Radio is a global online radio player for discovering stations by genre, country, or search using the public Radio Browser directory. It plays live streams through Android Media3 foreground playback, shows station and song metadata when streams publish ICY details, keeps favorites locally, saves downloaded station data in an on-device SQLite cache for fast startup, opens station websites in-app, and requires no account, tracking profile, private backend, central server, or bundled paid stream provider.
+- Download: <https://github.com/yustein/NovaStore/releases/download/waveatlasradio-v0.1.2/WaveAtlasRadio-v0.1.2.apk>
+- APK SHA-256: `885883d5ba9609b11b6cdf57c3ea95b4e9be8f49c76bfb5867e97621e918daec`
 - Signing certificate SHA-256: `b9f3fa6dcf24d71b4b6acbd3bde211a77d1fdeec6d89af69bdb555d7676cd1d9`
+
 
 ### WaveVid
 
