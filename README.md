@@ -161,7 +161,7 @@ CleanBass EQ is a precision Android equalizer for real-world wireless listening.
 
 - Package: `com.lenomila.cleanbasseq`
 - Category: `Music`
-- Version: `0.1.4` / code `5`
+- Version: `0.1.5` / code `6`
 - Description: CleanBass EQ is a precision Android equalizer for real-world wireless listening. It focuses on clean, strong bass and clipping protection for Spotify with a Redmi Note 13 Pro+ 5G, LDAC, Dolby Atmos, and Huawei FreeBuds 7i setup. It uses Android public audio effect APIs, listens for live app audio sessions, and now tries Android legacy output-mix fallback when Spotify does not expose a session. Android 14+ runs it as a connected-device foreground service with Bluetooth permission rather than a media playback service. The Tony Bass profile includes Dolby-aware tuning, Spotify setup checks, automatic headroom protection, three-part bass quality control, blind A/B tuning, JSON profile exchange, and honest playback-only call limitations.
 - Download: <https://github.com/yustein/NovaStore/releases/download/cleanbasseq-v0.1.4/CleanBassEQ-v0.1.4.apk>
 - APK SHA-256: `36ad18c698ebec6c88ca120b988e2ccc111217ce15e279845fbed8ff78a23ff3`
@@ -511,8 +511,8 @@ WaveAtlas Radio is a global online radio player for discovering stations by genr
 - Category: `Music`
 - Version: `0.1.4` / code `5`
 - Description: WaveAtlas Radio is a global online radio player for discovering stations by genre, country, or search using the public Radio Browser directory. It plays live streams through Android Media3 foreground playback, shows station and song metadata when streams publish ICY details, keeps favorites locally, saves downloaded station data in an on-device SQLite cache for fast startup, opens station websites in-app, and requires no account, tracking profile, private backend, central server, or bundled paid stream provider.
-- Download: <https://github.com/yustein/NovaStore/releases/download/waveatlasradio-v0.1.4/WaveAtlasRadio-v0.1.4.apk>
-- APK SHA-256: `af605221c1321d6d4c76e2c162db8dee797f75f5ad17041d4eb0465d8ade0a3e`
+- Download: <https://github.com/yustein/NovaStore/releases/download/waveatlasradio-v0.1.5/WaveAtlasRadio-v0.1.5.apk>
+- APK SHA-256: `d61c7cf78ffeed57f5a6f649e6a62fed21f20cffeb0e93c2410698f0ae00be09`
 - Signing certificate SHA-256: `b9f3fa6dcf24d71b4b6acbd3bde211a77d1fdeec6d89af69bdb555d7676cd1d9`
 
 ### WaveAtlas TV
