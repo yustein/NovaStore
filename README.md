@@ -6,8 +6,8 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-07-05T13:32:53Z`
-- Apps: `47`
+- Generated: `2026-07-26T15:43:16Z`
+- Apps: `48`
 
 ## Catalog Apps
 
@@ -107,18 +107,6 @@ CatWorldly is a native companion app for the CatWorldly website. It shows daily 
 - APK SHA-256: `c61ae8ca4a58a48d9db159832266117a6550a0787e88cbb9cad2930e09703ee2`
 - Signing certificate SHA-256: `16f9c6618f42489bd1ef5388389b6db9662c1536a0e40096ecec806dc781676b`
 
-### Clawboard
-
-Clawboard is a custom Android keyboard and companion manager for working with AI systems and remote hosts. It provides AI prompt snippets, Markdown/code helper keys, local notes and tasks, user-tunable keyboard colors, terminal shortcut keys, encrypted saved SSH passwords, and an SSH command terminal in the manager app.
-
-- Package: `com.lenomila.clawboard`
-- Category: `Productivity`
-- Version: `0.2.4` / code `6`
-- Description: Clawboard is a custom Android keyboard and companion manager for working with AI systems and remote hosts. It provides AI prompt snippets, Markdown/code helper keys, local notes and tasks, user-tunable keyboard colors, terminal shortcut keys, encrypted saved SSH passwords, and an SSH command terminal in the manager app.
-- Download: <https://github.com/yustein/NovaStore/releases/download/clawboard-v0.2.4/ClawboardAndroid-v0.2.4.apk>
-- APK SHA-256: `936ff6d67d611e0fb9a20cb881f74f40c7f5d56265c6b620962199f7749a5f42`
-- Signing certificate SHA-256: `5f907c5d651b10150f4100fc0c7aa59ca79a9d465f76ae5216a2512855521f31`
-
 ### ClawChat
 
 ClawChat is an Android-first private messenger for no-phone-number chat. It creates a local cryptographic identity, pairs devices with invites, syncs encrypted message events through embedded Syncthing, supports attachments and voice messages, delivered/read receipts, local notifications, opt-in background sync, network-aware pause/resume, and a background check frequency control for battery savings.
@@ -130,18 +118,6 @@ ClawChat is an Android-first private messenger for no-phone-number chat. It crea
 - Download: <https://github.com/yustein/NovaStore/releases/download/clawchat-v0.2.10/ClawChat-v0.2.10.apk>
 - APK SHA-256: `f420f1870bae3bddc1ad45680f7a62fc5eef4d397274edc18bb3298a84471871`
 - Signing certificate SHA-256: `93336087c5dad5b338268773963969acfaeda07a351062000c8754b4ac5e06cc`
-
-### Clawcycle Havoc
-
-Clawcycle Havoc is a funny fullscreen Android arcade game about a misfit cat crew tearing through eight Istanbul night districts on chrome cruiser motorcycles. It combines touch steering, larger readable level and gang-rider selection controls, selectable Easy/Normal/Hard difficulty, a 30-minute 128 kbps baked background music bed with approved source-level crossmixed transitions and rare 5-second engine handoff at the loop point, a persisted MUSIC ON/OFF toggle, a visible 9-life survival system, a selectable five-cat gang leader, large PAUSE/EXIT controls, BOOST/HAVOC/WHEELIE actions, audible 3-2-1-MEOW countdown cues, distance-based speed ramping, a HOW TO PLAY guide, fish/yarn/ramp/wrench pickups, cones and smoke hazards, combo scoring, generated bitmap artwork, Tony-provided cat voices, and claw-scratch/paw HAVOC effects. It is a standalone no-network game and uses generic cruiser styling with no motorcycle-brand logos.
-
-- Package: `com.lenomila.clawcycle`
-- Category: `Games`
-- Version: `0.1.12` / code `13`
-- Description: Clawcycle Havoc is a funny fullscreen Android arcade game about a misfit cat crew tearing through eight Istanbul night districts on chrome cruiser motorcycles. It combines touch steering, larger readable level and gang-rider selection controls, selectable Easy/Normal/Hard difficulty, a 30-minute 128 kbps baked background music bed with approved source-level crossmixed transitions and rare 5-second engine handoff at the loop point, a persisted MUSIC ON/OFF toggle, a visible 9-life survival system, a selectable five-cat gang leader, large PAUSE/EXIT controls, BOOST/HAVOC/WHEELIE actions, audible 3-2-1-MEOW countdown cues, distance-based speed ramping, a HOW TO PLAY guide, fish/yarn/ramp/wrench pickups, cones and smoke hazards, combo scoring, generated bitmap artwork, Tony-provided cat voices, and claw-scratch/paw HAVOC effects. It is a standalone no-network game and uses generic cruiser styling with no motorcycle-brand logos.
-- Download: <https://github.com/yustein/NovaStore/releases/download/clawcyclehavoc-v0.1.12/ClawcycleHavoc-v0.1.12.apk>
-- APK SHA-256: `cef5b35cee0a873a9c2469f43edc32ebfe856dfce2724dff51098ca99503c9ac`
-- Signing certificate SHA-256: `de5079de6299f6475a196da106fa43c2c166934d7d78da01bc7562cfe06e8082`
 
 ### ClawDeck
 
@@ -155,13 +131,37 @@ ClawDeck is an Android-first OpenClaw operations console. It keeps saved server 
 - APK SHA-256: `07c0a3135d92649829525613300cbea2b1271eedce8881cce7d51958923c0a43`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
+### Clawboard
+
+Clawboard is a custom Android keyboard and companion manager for working with AI systems and remote hosts. It provides AI prompt snippets, Markdown/code helper keys, local notes and tasks, user-tunable keyboard colors, terminal shortcut keys, encrypted saved SSH passwords, and an SSH command terminal in the manager app.
+
+- Package: `com.lenomila.clawboard`
+- Category: `Productivity`
+- Version: `0.2.4` / code `6`
+- Description: Clawboard is a custom Android keyboard and companion manager for working with AI systems and remote hosts. It provides AI prompt snippets, Markdown/code helper keys, local notes and tasks, user-tunable keyboard colors, terminal shortcut keys, encrypted saved SSH passwords, and an SSH command terminal in the manager app.
+- Download: <https://github.com/yustein/NovaStore/releases/download/clawboard-v0.2.4/ClawboardAndroid-v0.2.4.apk>
+- APK SHA-256: `936ff6d67d611e0fb9a20cb881f74f40c7f5d56265c6b620962199f7749a5f42`
+- Signing certificate SHA-256: `5f907c5d651b10150f4100fc0c7aa59ca79a9d465f76ae5216a2512855521f31`
+
+### Clawcycle Havoc
+
+Clawcycle Havoc is a funny fullscreen Android arcade game about a misfit cat crew tearing through eight Istanbul night districts on chrome cruiser motorcycles. It combines touch steering, larger readable level and gang-rider selection controls, selectable Easy/Normal/Hard difficulty, a 30-minute 128 kbps baked background music bed with approved source-level crossmixed transitions and rare 5-second engine handoff at the loop point, a persisted MUSIC ON/OFF toggle, a visible 9-life survival system, a selectable five-cat gang leader, large PAUSE/EXIT controls, BOOST/HAVOC/WHEELIE actions, audible 3-2-1-MEOW countdown cues, distance-based speed ramping, a HOW TO PLAY guide, fish/yarn/ramp/wrench pickups, cones and smoke hazards, combo scoring, generated bitmap artwork, Tony-provided cat voices, and claw-scratch/paw HAVOC effects. It is a standalone no-network game and uses generic cruiser styling with no motorcycle-brand logos.
+
+- Package: `com.lenomila.clawcycle`
+- Category: `Games`
+- Version: `0.1.12` / code `13`
+- Description: Clawcycle Havoc is a funny fullscreen Android arcade game about a misfit cat crew tearing through eight Istanbul night districts on chrome cruiser motorcycles. It combines touch steering, larger readable level and gang-rider selection controls, selectable Easy/Normal/Hard difficulty, a 30-minute 128 kbps baked background music bed with approved source-level crossmixed transitions and rare 5-second engine handoff at the loop point, a persisted MUSIC ON/OFF toggle, a visible 9-life survival system, a selectable five-cat gang leader, large PAUSE/EXIT controls, BOOST/HAVOC/WHEELIE actions, audible 3-2-1-MEOW countdown cues, distance-based speed ramping, a HOW TO PLAY guide, fish/yarn/ramp/wrench pickups, cones and smoke hazards, combo scoring, generated bitmap artwork, Tony-provided cat voices, and claw-scratch/paw HAVOC effects. It is a standalone no-network game and uses generic cruiser styling with no motorcycle-brand logos.
+- Download: <https://github.com/yustein/NovaStore/releases/download/clawcyclehavoc-v0.1.12/ClawcycleHavoc-v0.1.12.apk>
+- APK SHA-256: `cef5b35cee0a873a9c2469f43edc32ebfe856dfce2724dff51098ca99503c9ac`
+- Signing certificate SHA-256: `de5079de6299f6475a196da106fa43c2c166934d7d78da01bc7562cfe06e8082`
+
 ### CleanBass EQ
 
 CleanBass EQ is a precision Android equalizer for real-world wireless listening. It focuses on clean, strong bass and clipping protection for Spotify with a Redmi Note 13 Pro+ 5G, LDAC, Dolby Atmos, and Huawei FreeBuds 7i setup. It uses Android public audio effect APIs, listens for live app audio sessions, and now tries Android legacy output-mix fallback when Spotify does not expose a session. Android 14+ runs it as a connected-device foreground service with Bluetooth permission rather than a media playback service. The Tony Bass profile includes Dolby-aware tuning, Spotify setup checks, automatic headroom protection, three-part bass quality control, blind A/B tuning, JSON profile exchange, and honest playback-only call limitations.
 
 - Package: `com.lenomila.cleanbasseq`
 - Category: `Music`
-- Version: `0.1.5` / code `6`
+- Version: `0.1.4` / code `5`
 - Description: CleanBass EQ is a precision Android equalizer for real-world wireless listening. It focuses on clean, strong bass and clipping protection for Spotify with a Redmi Note 13 Pro+ 5G, LDAC, Dolby Atmos, and Huawei FreeBuds 7i setup. It uses Android public audio effect APIs, listens for live app audio sessions, and now tries Android legacy output-mix fallback when Spotify does not expose a session. Android 14+ runs it as a connected-device foreground service with Bluetooth permission rather than a media playback service. The Tony Bass profile includes Dolby-aware tuning, Spotify setup checks, automatic headroom protection, three-part bass quality control, blind A/B tuning, JSON profile exchange, and honest playback-only call limitations.
 - Download: <https://github.com/yustein/NovaStore/releases/download/cleanbasseq-v0.1.4/CleanBassEQ-v0.1.4.apk>
 - APK SHA-256: `36ad18c698ebec6c88ca120b988e2ccc111217ce15e279845fbed8ff78a23ff3`
@@ -203,18 +203,6 @@ File Atlas is a phone file manager for browsing local storage with a practical d
 - APK SHA-256: `004308b0c70009fe44d51fea5e67226bf683d8bb546246af374eef39fb0a4b4a`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
-### Gateway Fieldbook
-
-Gateway Fieldbook is a field journal and training companion rebuilt from Tony's recovered APK. It includes focus timers, guided sessions, tone/audio exercises, profile and log tools, remote-viewing style practice targets, and structured notes for recording observations during sessions.
-
-- Package: `com.lenomila.gatewayfieldbook`
-- Category: `Reference`
-- Version: `1.3.0` / code `5`
-- Description: Gateway Fieldbook is a field journal and training companion rebuilt from Tony's recovered APK. It includes focus timers, guided sessions, tone/audio exercises, profile and log tools, remote-viewing style practice targets, and structured notes for recording observations during sessions.
-- Download: <https://github.com/yustein/NovaStore/releases/download/gatewayfieldbook-v1.3.0/GatewayFieldbook-v1.3.0.apk>
-- APK SHA-256: `29964a09beffeff9617b02da7479fe48a12dd65b700980d356fc76255618e813`
-- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
-
 ### GPU Video Combiner
 
 GPU Video Combiner is a local Android video tool for joining selected clips into one MP4. It lets you order a clip queue, choose output size, fit mode, codec, and audio behavior, then export through Android hardware encoding and save the result to Movies/GPUVideoCombiner.
@@ -226,6 +214,18 @@ GPU Video Combiner is a local Android video tool for joining selected clips into
 - Download: <https://github.com/yustein/NovaStore/releases/download/gpuvideocombiner-v0.1.0/GPUVideoCombiner-v0.1.0.apk>
 - APK SHA-256: `2db16b4db63e4c710c1712d97883cf7c0bb53360a27e548c68e1657f31959dc3`
 - Signing certificate SHA-256: `ed41e359ad6ae9bb4b086343ab72d3e45801998f832547c357bd1b92f8961740`
+
+### Gateway Fieldbook
+
+Gateway Fieldbook is a field journal and training companion rebuilt from Tony's recovered APK. It includes focus timers, guided sessions, tone/audio exercises, profile and log tools, remote-viewing style practice targets, and structured notes for recording observations during sessions.
+
+- Package: `com.lenomila.gatewayfieldbook`
+- Category: `Reference`
+- Version: `1.3.0` / code `5`
+- Description: Gateway Fieldbook is a field journal and training companion rebuilt from Tony's recovered APK. It includes focus timers, guided sessions, tone/audio exercises, profile and log tools, remote-viewing style practice targets, and structured notes for recording observations during sessions.
+- Download: <https://github.com/yustein/NovaStore/releases/download/gatewayfieldbook-v1.3.0/GatewayFieldbook-v1.3.0.apk>
+- APK SHA-256: `29964a09beffeff9617b02da7479fe48a12dd65b700980d356fc76255618e813`
+- Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
 ### I Ching Journal
 
@@ -277,18 +277,6 @@ MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports 
 
 ### NovaStore
 
-NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, uses signed catalog icon metadata, checks installed versions for catalog apps through Android launcher visibility without QUERY_ALL_PACKAGES, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval.
-
-- Package: `com.lenomila.novastore`
-- Category: `Store`
-- Version: `0.2.18` / code `38`
-- Description: NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, uses signed catalog icon metadata, checks installed versions for catalog apps through Android launcher visibility without QUERY_ALL_PACKAGES, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval.
-- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.18/NovaStore-v0.2.18.apk>
-- APK SHA-256: `724db46d76c74959d65c68895fe158dbf0f6c6fcf4b667ee423d547de031f81e`
-- Signing certificate SHA-256: `115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c`
-
-### NovaStore
-
 This NovaStore entry is a compatibility bridge for older NovaStore 0.1.x installations that used the original com.novastore.client package. It lets those installs update to the final old-package build before moving to the modern NovaStore package.
 
 - Package: `com.novastore.client`
@@ -298,6 +286,18 @@ This NovaStore entry is a compatibility bridge for older NovaStore 0.1.x install
 - Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.1.14/NovaStore-v0.1.14.apk>
 - APK SHA-256: `9b2218469afd71809942bab1ca0ada4414f87cae2083d97e3fda960195c5b547`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
+
+### NovaStore
+
+NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, uses signed catalog icon metadata, checks installed versions for catalog apps through Android launcher visibility without QUERY_ALL_PACKAGES, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval.
+
+- Package: `com.lenomila.novastore`
+- Category: `Store`
+- Version: `0.2.18` / code `38`
+- Description: NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, uses signed catalog icon metadata, checks installed versions for catalog apps through Android launcher visibility without QUERY_ALL_PACKAGES, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval.
+- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.18/NovaStore-v0.2.18.apk>
+- APK SHA-256: `724db46d76c74959d65c68895fe158dbf0f6c6fcf4b667ee423d547de031f81e`
+- Signing certificate SHA-256: `115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c`
 
 ### PhantomXRay
 
@@ -370,6 +370,18 @@ Resonance Lab is an acoustic resonance field prototype. It plays controlled sine
 - Download: <https://github.com/yustein/NovaStore/releases/download/resonancelab-v0.1.3/ResonanceLab-v0.1.3.apk>
 - APK SHA-256: `92fef8233be2354a0c7bfeb023aecb4a6d6814555c3278d482ac1ab5dcdae6f1`
 - Signing certificate SHA-256: `2f251bc0a8c8ee73f48e88b31889c834035f83ce9281d9b16e7a7fb0010ae395`
+
+### Secutor
+
+Secutor is a local-first secure packet utility. It keeps private keys inside encrypted on-device real or decoy vaults, creates transport-neutral encrypted packet files/text with X25519 + ML-KEM-768 hybrid encryption and Ed25519 + ML-DSA-65 signatures, supports AES-GCM or ChaCha20-Poly1305 payloads, sequence/replay protection, encrypted attachment chunks, self-destruct policies, local Shamir recovery, multiple identities, QR invites, and offline transport handoff without accounts or Internet permission.
+
+- Package: `com.lenomila.cipherpacket`
+- Category: `Communication`
+- Version: `0.2.0` / code `3`
+- Description: Secutor is a local-first secure packet utility. It keeps private keys inside encrypted on-device real or decoy vaults, creates transport-neutral encrypted packet files/text with X25519 + ML-KEM-768 hybrid encryption and Ed25519 + ML-DSA-65 signatures, supports AES-GCM or ChaCha20-Poly1305 payloads, sequence/replay protection, encrypted attachment chunks, self-destruct policies, local Shamir recovery, multiple identities, QR invites, and offline transport handoff without accounts or Internet permission.
+- Download: <https://github.com/yustein/NovaStore/releases/download/secutor-v0.2.0/Secutor-v0.2.0.apk>
+- APK SHA-256: `09219edfdd13cfcdac03e556d22ac38008027e76334a0c82792aabe5ae481ca3`
+- Signing certificate SHA-256: `8000fe523bca58de61b5e18578e1427e69ba8b852c4b5dc53eb5c6dc12878a26`
 
 ### Solar Flyover
 
@@ -509,7 +521,7 @@ WaveAtlas Radio is a global online radio player for discovering stations by genr
 
 - Package: `com.lenomila.waveatlasradio`
 - Category: `Music`
-- Version: `0.1.4` / code `5`
+- Version: `0.1.5` / code `6`
 - Description: WaveAtlas Radio is a global online radio player for discovering stations by genre, country, or search using the public Radio Browser directory. It plays live streams through Android Media3 foreground playback, shows station and song metadata when streams publish ICY details, keeps favorites locally, saves downloaded station data in an on-device SQLite cache for fast startup, opens station websites in-app, and requires no account, tracking profile, private backend, central server, or bundled paid stream provider.
 - Download: <https://github.com/yustein/NovaStore/releases/download/waveatlasradio-v0.1.5/WaveAtlasRadio-v0.1.5.apk>
 - APK SHA-256: `d61c7cf78ffeed57f5a6f649e6a62fed21f20cffeb0e93c2410698f0ae00be09`
