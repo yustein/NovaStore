@@ -6,7 +6,7 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-07-26T15:56:56Z`
+- Generated: `2026-07-26T18:06:08Z`
 - Apps: `48`
 
 ## Catalog Apps
@@ -377,10 +377,10 @@ Secutor is a local-first secure packet utility. It keeps private keys inside enc
 
 - Package: `com.lenomila.cipherpacket`
 - Category: `Communication`
-- Version: `0.2.0` / code `3`
+- Version: `0.2.1` / code `4`
 - Description: Secutor is a local-first secure packet utility. It keeps private keys inside encrypted on-device real or decoy vaults, creates transport-neutral encrypted packet files/text with X25519 + ML-KEM-768 hybrid encryption and Ed25519 + ML-DSA-65 signatures, supports AES-GCM or ChaCha20-Poly1305 payloads, sequence/replay protection, encrypted attachment chunks, self-destruct policies, local Shamir recovery, multiple identities, QR invites, and offline transport handoff without accounts or Internet permission.
-- Download: <https://github.com/yustein/NovaStore/releases/download/secutor-v0.2.0/Secutor-v0.2.0.apk>
-- APK SHA-256: `09219edfdd13cfcdac03e556d22ac38008027e76334a0c82792aabe5ae481ca3`
+- Download: <https://github.com/yustein/NovaStore/releases/download/secutor-v0.2.1/Secutor-v0.2.1.apk>
+- APK SHA-256: `f1a9aa7020fa05daea554b641cf3cb8e890d77a657d292e2a948b06247d42cc5`
 - Signing certificate SHA-256: `8000fe523bca58de61b5e18578e1427e69ba8b852c4b5dc53eb5c6dc12878a26`
 
 ### Solar Flyover
