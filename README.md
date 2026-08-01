@@ -6,8 +6,8 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-07-27T07:03:39Z`
-- Apps: `48`
+- Generated: `2026-08-01T18:02:42Z`
+- Apps: `49`
 
 ## Catalog Apps
 
@@ -263,6 +263,18 @@ Lenomila Upscaler is a local Android image upscaler. It opens images through And
 - APK SHA-256: `525aa7ca9150e361c42b1195e37a1e5c3b3858f35bec83c63542bb05b60d80c3`
 - Signing certificate SHA-256: `048412542caeeab6c205961f1f8fdc853a1b1185ad1cedac570152b4c3e63b73`
 
+### Metatron Music
+
+Metatron Music is a polished local Android music player for FLAC, WAV, MP3, AAC, OGG, and other Android-supported audio files. It indexes user-selected folders and files through Android Storage Access Framework, can use OneDrive-backed document-provider files when the provider exposes them, supports recursive subdirectory shuffle, album and folder browsing, search, favorites, background playback, lockscreen, Bluetooth, and Xiaomi media-session controls, an in-app car mode with large buttons, sleep timer, and Android equalizer handoff. It uses no account, backend, network permission, broad storage permission, notification permission, overlay permission, tracking, or cloud credentials.
+
+- Package: `com.lenomila.metatronmusic`
+- Category: `Music`
+- Version: `0.1.0` / code `1`
+- Description: Metatron Music is a polished local Android music player for FLAC, WAV, MP3, AAC, OGG, and other Android-supported audio files. It indexes user-selected folders and files through Android Storage Access Framework, can use OneDrive-backed document-provider files when the provider exposes them, supports recursive subdirectory shuffle, album and folder browsing, search, favorites, background playback, lockscreen, Bluetooth, and Xiaomi media-session controls, an in-app car mode with large buttons, sleep timer, and Android equalizer handoff. It uses no account, backend, network permission, broad storage permission, notification permission, overlay permission, tracking, or cloud credentials.
+- Download: <https://github.com/yustein/NovaStore/releases/download/metatronmusic-v0.1.0/MetatronMusic-v0.1.0.apk>
+- APK SHA-256: `6776a99161846cb2ab3693a848979f987eff3f8a829c8581e83e5589243fc220`
+- Signing certificate SHA-256: `9599bbb5dc228aa18e21b3422b9f8130633d8cc54c19ad85372e0d8e27ad9a50`
+
 ### MuzoPlay
 
 MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports M3U/M3U8 and XMLTV-style guide data, plays live streams with Media3/ExoPlayer or the bundled VLC software decoder, enriches user-owned movie/show catalogs with optional TMDB metadata when the user provides a token, supports local reminders and customization, and intentionally includes no bundled channels, subscriptions, provider credentials, or public stream lists.
@@ -373,14 +385,14 @@ Resonance Lab is an acoustic resonance field prototype. It plays controlled sine
 
 ### Secutor
 
-Secutor is a local-first secure packet utility. It keeps private keys inside encrypted on-device real or decoy vaults, creates transport-neutral encrypted packet files/text with X25519 + ML-KEM-768 hybrid encryption and Ed25519 + ML-DSA-65 signatures, supports AES-GCM or ChaCha20-Poly1305 payloads, sequence/replay protection, encrypted attachment chunks, self-destruct policies, local Shamir recovery, multiple identities, public invites, and offline transport handoff without accounts or Internet permission.
+Secutor is a local-first secure packet utility. It keeps private keys inside encrypted on-device real or decoy vaults, creates transport-neutral encrypted packet files/text with X25519 + ML-KEM-768 hybrid encryption and Ed25519 + ML-DSA-65 signatures, supports AES-GCM or ChaCha20-Poly1305 payloads, sequence/replay protection, encrypted attachment chunks with responsive background handling, large attachment packet output that avoids rendering multi-megabyte packet text on screen, self-destruct policies with a one-minute read window, local Shamir recovery, multiple identities, optional emergency key destruction, restricted-message screenshot blocking, public invites, detailed guided Help, 13 supported app languages, device-credential unlock fallback on modern Android, and offline transport handoff without accounts or Internet permission.
 
 - Package: `com.lenomila.cipherpacket`
 - Category: `Communication`
-- Version: `0.2.4` / code `7`
-- Description: Secutor is a local-first secure packet utility. It keeps private keys inside encrypted on-device real or decoy vaults, creates transport-neutral encrypted packet files/text with X25519 + ML-KEM-768 hybrid encryption and Ed25519 + ML-DSA-65 signatures, supports AES-GCM or ChaCha20-Poly1305 payloads, sequence/replay protection, encrypted attachment chunks, self-destruct policies, local Shamir recovery, multiple identities, public invites, and offline transport handoff without accounts or Internet permission.
-- Download: <https://github.com/yustein/NovaStore/releases/download/secutor-v0.2.4/Secutor-v0.2.4.apk>
-- APK SHA-256: `1fa3e210dd89f6978fc30bac9a1a5dfc6e9c1823dccc788afc3a22a392ead128`
+- Version: `0.2.9` / code `12`
+- Description: Secutor is a local-first secure packet utility. It keeps private keys inside encrypted on-device real or decoy vaults, creates transport-neutral encrypted packet files/text with X25519 + ML-KEM-768 hybrid encryption and Ed25519 + ML-DSA-65 signatures, supports AES-GCM or ChaCha20-Poly1305 payloads, sequence/replay protection, encrypted attachment chunks with responsive background handling, large attachment packet output that avoids rendering multi-megabyte packet text on screen, self-destruct policies with a one-minute read window, local Shamir recovery, multiple identities, optional emergency key destruction, restricted-message screenshot blocking, public invites, detailed guided Help, 13 supported app languages, device-credential unlock fallback on modern Android, and offline transport handoff without accounts or Internet permission.
+- Download: <https://github.com/yustein/NovaStore/releases/download/secutor-v0.2.9/Secutor-v0.2.9.apk>
+- APK SHA-256: `d7ea5df057c4a17c077c592d73eb9a166f946d671101bc86106477772afa80ff`
 - Signing certificate SHA-256: `8000fe523bca58de61b5e18578e1427e69ba8b852c4b5dc53eb5c6dc12878a26`
 
 ### Solar Flyover
