@@ -6,7 +6,7 @@ Clients fetch `catalog/index.json`, verify its detached RSA/SHA-256 signature, s
 
 ## Catalog Summary
 
-- Generated: `2026-08-02T06:54:21Z`
+- Generated: `2026-08-02T14:39:37Z`
 - Apps: `49`
 
 ## Catalog Apps
@@ -269,10 +269,10 @@ Metatron Music is a polished local Android music player for FLAC, WAV, MP3, AAC,
 
 - Package: `com.lenomila.metatronmusic`
 - Category: `Music`
-- Version: `0.1.7` / code `8`
+- Version: `0.1.8` / code `9`
 - Description: Metatron Music is a polished local Android music player for FLAC, WAV, MP3, AAC, OGG, and other Android-supported audio files. It indexes user-selected folders and files through Android Storage Access Framework, can use OneDrive-backed document-provider files when the provider exposes them, supports recursive subdirectory shuffle, album and folder browsing, search, favorites, background playback, lockscreen, Bluetooth, and Xiaomi media-session controls, an in-app car mode with large buttons, sleep timer, and Android equalizer handoff. It uses no account, backend, network permission, broad storage permission, notification permission, overlay permission, tracking, or cloud credentials.
-- Download: <https://github.com/yustein/NovaStore/releases/download/metatronmusic-v0.1.7/MetatronMusic-v0.1.7.apk>
-- APK SHA-256: `673ad37f275409818fdcd711f4abd31ed2176467d90bfe7a1b08478e4041e2e9`
+- Download: <https://github.com/yustein/NovaStore/releases/download/metatronmusic-v0.1.8/MetatronMusic-v0.1.8.apk>
+- APK SHA-256: `aea326cdcec7135d994b54ea7d40b0a945c9d84111d418bcf0b3ff8cbe4f878a`
 - Signing certificate SHA-256: `9599bbb5dc228aa18e21b3422b9f8130633d8cc54c19ad85372e0d8e27ad9a50`
 
 ### MuzoPlay
