@@ -289,14 +289,14 @@ MuzoPlay is a neutral IPTV/media player for user-supplied playlists. It imports 
 
 ### NovaStore
 
-NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, uses signed catalog icon metadata, checks installed versions for catalog apps through Android launcher visibility without QUERY_ALL_PACKAGES, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval.
+NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub, now usable on phones and Google TV with touch or D-pad navigation. It shows trusted app listings, checks installed versions only for catalog apps, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval.
 
 - Package: `com.lenomila.novastore`
 - Category: `Store`
-- Version: `0.2.19` / code `39`
-- Description: NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub. It shows trusted app listings, uses signed catalog icon metadata, checks installed versions for catalog apps through Android launcher visibility without QUERY_ALL_PACKAGES, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval.
-- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.19/NovaStore-v0.2.19.apk>
-- APK SHA-256: `1281debc57167c80f6ad896eabe62068a4d6b5773f4791938e9eaca349c999a7`
+- Version: `0.2.20` / code `40`
+- Description: NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub, now usable on phones and Google TV with touch or D-pad navigation. It shows trusted app listings, checks installed versions only for catalog apps, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval.
+- Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.20/NovaStore-v0.2.20.apk>
+- APK SHA-256: `1ed6f072eda1d28785b9ebd3606f96adabb8ae21631ad8f350b220d0a067edde`
 - Signing certificate SHA-256: `115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c`
 
 ### NovaStore
