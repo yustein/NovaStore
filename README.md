@@ -349,14 +349,14 @@ Pyramid Shield is an offline Android visualizer for Tony's protective Merkaba co
 
 ### Quake Globe
 
-Quake Globe is an earthquake monitor with a live 3D globe, recent USGS earthquake feeds, selectable event markers, event details, and configurable local notifications. It visualizes magnitude, depth, location, and recency while keeping alerts local and source-honest.
+Quake Globe is an earthquake monitor with a live 3D globe, recent USGS earthquake feeds, selectable event markers/details, and configurable local notifications. It supports Google TV/Android TV with a Leanback launcher and D-pad globe controls, visualizes magnitude, depth, location, and recency, and keeps alerts local and source-honest.
 
 - Package: `com.lenomila.quakeglobe`
 - Category: `Science`
-- Version: `0.1.7` / code `8`
-- Description: Quake Globe is an earthquake monitor with a live 3D globe, recent USGS earthquake feeds, selectable event markers, event details, and configurable local notifications. It visualizes magnitude, depth, location, and recency while keeping alerts local and source-honest.
-- Download: <https://github.com/yustein/NovaStore/releases/download/quakeglobe-v0.1.7/QuakeGlobe-v0.1.7.apk>
-- APK SHA-256: `8025eafbc83621c473a723d400c802fbc7a2c67bafcbdc6f4aa4e0317f1264fe`
+- Version: `0.1.8` / code `9`
+- Description: Quake Globe is an earthquake monitor with a live 3D globe, recent USGS earthquake feeds, selectable event markers/details, and configurable local notifications. It supports Google TV/Android TV with a Leanback launcher and D-pad globe controls, visualizes magnitude, depth, location, and recency, and keeps alerts local and source-honest.
+- Download: <https://github.com/yustein/NovaStore/releases/download/quakeglobe-v0.1.8/QuakeGlobe-v0.1.8.apk>
+- APK SHA-256: `ee6563770b15478e633f517f22edf14b907f50a40aaad0cd0c4758f778c65eea`
 - Signing certificate SHA-256: `1320f7199695b914b2b58149d34b5026671b856791bf8fe3d0ec5d0cb70bcec6`
 
 ### Resonance Finder
