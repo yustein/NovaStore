@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T18:19:13Z",
+  "generatedAt": "2026-08-09T18:23:11Z",
   "appCount": 49,
   "apps": [
     {
@@ -558,13 +558,13 @@
       "minSdk": 26,
       "targetSdk": 36,
       "sizeBytes": 13219581,
-      "sha256": "1ed6f072eda1d28785b9ebd3606f96adabb8ae21631ad8f350b220d0a067edde",
+      "sha256": "66b96a0b81340c47f2d01099c843bdd9832c6ccdddd611631b0aa9f9ba0308b3",
       "signingCertSha256": "115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c",
       "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.20/NovaStore-v0.2.20.apk",
       "releaseId": "rel_novastore_40",
       "releaseNotes": "Adds Google TV and Leanback launcher support, a branded TV banner, Apps-first remote navigation, strong D-pad focus, and a TV-safe Search dialog. Phone navigation and the verified APK hash/signature plus Android-owned installer handoff remain unchanged.",
-      "publishedAt": "2026-08-09T18:19:13Z",
-      "updatedAt": "2026-08-09T18:19:13Z",
+      "publishedAt": "2026-08-09T18:23:11Z",
+      "updatedAt": "2026-08-09T18:23:11Z",
       "description": "NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub, now usable on phones and Google TV with touch or D-pad navigation. It shows trusted app listings, checks installed versions only for catalog apps, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval."
     },
     {

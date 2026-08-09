@@ -296,7 +296,7 @@ NovaStore is Tony's private Android app store for signed APK releases hosted on 
 - Version: `0.2.20` / code `40`
 - Description: NovaStore is Tony's private Android app store for signed APK releases hosted on GitHub, now usable on phones and Google TV with touch or D-pad navigation. It shows trusted app listings, checks installed versions only for catalog apps, verifies catalog signatures plus APK hashes, and hands installs or updates to Android with normal user approval.
 - Download: <https://github.com/yustein/NovaStore/releases/download/novastore-v0.2.20/NovaStore-v0.2.20.apk>
-- APK SHA-256: `1ed6f072eda1d28785b9ebd3606f96adabb8ae21631ad8f350b220d0a067edde`
+- APK SHA-256: `66b96a0b81340c47f2d01099c843bdd9832c6ccdddd611631b0aa9f9ba0308b3`
 - Signing certificate SHA-256: `115e50cb2f2b7bfdff1d7a0bf3e9cc7b3bfd2ca719587727672a82b09680d34c`
 
 ### NovaStore
