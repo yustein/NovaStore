@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "appRole": "managed",
+  "packageName": "wiki.thecode.tvforge.tv",
+  "name": "TVForge",
+  "publisherName": "Lenomila",
+  "category": "Tools",
+  "channel": "stable",
+  "versionName": "1.0.0-alpha01",
+  "versionCode": 10000,
+  "minSdk": 26,
+  "targetSdk": 37,
+  "sizeBytes": 4006593,
+  "sha256": "cb52d643f0057c299ccff4c6a425ef26966eaca9ba46cb7bb63e9b70df278e46",
+  "signingCertSha256": "47fa4d6cb1f7bff5a9c2bcefaf0334947c53587db0360a5e65c165b5b74ba8e1",
+  "releaseId": "rel_tvforge_tv_10000",
+  "releaseNotes": "First usable alpha: remote-first Google TV app inventory, Android-confirmed APK receive/inspect/install, trusted signed feeds and updates, durable transfer history, TVForge Link pairing/remote control, diagnostics, and English/Turkish UI.",
+  "publishedAt": "2026-08-19T16:40:21Z",
+  "updatedAt": "2026-08-19T16:40:21Z",
+  "description": "TVForge is a remote-first Google TV utility for receiving, inspecting, installing, finding, launching, and updating Android apps with explicit Android confirmation. It supports authenticated local browser and TVForge Link transfers, signed publisher feeds, durable recovery, package identity inspection, diagnostics, and English/Turkish UI. The direct build has comprehensive local package inventory and never claims silent installation.",
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/tvforge-v1.0.0-alpha01/TVForge-TV-v1.0.0-alpha01-release.apk"
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "appRole": "managed",
+  "packageName": "wiki.thecode.tvforge.link",
+  "name": "TVForge Link",
+  "publisherName": "Lenomila",
+  "category": "Tools",
+  "channel": "stable",
+  "versionName": "1.0.0-alpha01",
+  "versionCode": 10000,
+  "minSdk": 26,
+  "targetSdk": 37,
+  "sizeBytes": 2731166,
+  "sha256": "5eda0e9defabc145d548230cc41f3410b365bee9a06b6e15f258c6abc01ae3d4",
+  "signingCertSha256": "47fa4d6cb1f7bff5a9c2bcefaf0334947c53587db0360a5e65c165b5b74ba8e1",
+  "releaseId": "rel_tvforge_link_10000",
+  "releaseNotes": "First usable alpha companion with authenticated TV pairing, encrypted and replay-protected status/transfer/control, D-pad/Select/Back/Home remote actions, bounded text entry, signed-feed proposal, and foreground-only TVForge control.",
+  "publishedAt": "2026-08-19T16:40:21Z",
+  "updatedAt": "2026-08-19T16:40:21Z",
+  "description": "TVForge Link is the Android companion for TVForge on Google TV. It pairs over the local network with matching phrase and explicit TV approval, then uses encrypted replay-protected requests for APK transfer, job observation, signed-feed proposals, and a bounded TVForge-only remote. It does not require ADB, Accessibility, root, hidden APIs, or a cloud account in standard mode.",
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/tvforge-v1.0.0-alpha01/TVForge-Link-v1.0.0-alpha01-release.apk"
+}
