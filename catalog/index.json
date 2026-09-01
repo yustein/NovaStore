@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T10:49:43Z",
+  "generatedAt": "2026-09-01T11:01:16Z",
   "appCount": 52,
   "apps": [
     {
@@ -11,19 +11,19 @@
       "publisherName": "Lenomila",
       "category": "Games",
       "channel": "stable",
-      "versionName": "1.5.0",
-      "versionCode": 8,
+      "versionName": "1.6.0",
+      "versionCode": 9,
       "minSdk": 23,
       "targetSdk": 36,
-      "sizeBytes": 1100752,
-      "sha256": "4eb89b5fd603a2007ca612cb43e77bb7d8a6e8e67d85ebd164603327dfded1c6",
+      "sizeBytes": 1100750,
+      "sha256": "0985748a37ca4e51b3f9316a366e0c4d85fcb507cfafca5d16a96c2726041934",
       "signingCertSha256": "838cbc0fb6f6177b32086fbf8c7a4b405855a188dc0d154abc296220beedbf3c",
-      "releaseId": "rel_americanpool3d_8",
-      "releaseNotes": "First managed-store release. Adds contact-aware cue/object-ball prediction guides and a pull-back POWER meter that controls shot speed.",
+      "releaseId": "rel_americanpool3d_9",
+      "releaseNotes": "v1.6.0 adds an opt-in CHEAT full-shot preview that runs the same fixed-tick physics solver as the actual launch, including current power. POWER is now adjusted independently by a second-finger vertical drag, so a cue against a cushion can still use full strength.",
       "publishedAt": "2026-09-01T10:49:43Z",
-      "updatedAt": "2026-09-01T10:49:43Z",
+      "updatedAt": "2026-09-01T11:01:16Z",
       "description": "American Pool 3D is an original landscape 8-ball pool game with touch cue control, realistic ball-contact previews, pull-back shot power, sampled pool effects, 8-ball rules, and a computer opponent.",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/americanpool3d-v1.5.0/AmericanPool3D-v1.5.0-release.apk"
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/americanpool3d-v1.6.0/AmericanPool3D-v1.6.0-release.apk"
     },
     {
       "schemaVersion": 1,
