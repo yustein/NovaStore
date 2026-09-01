@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T18:35:28Z",
+  "generatedAt": "2026-09-01T20:37:27Z",
   "appCount": 52,
   "apps": [
     {
@@ -80,18 +80,19 @@
       "publisherName": "Lenomila",
       "category": "Weather",
       "channel": "stable",
-      "versionName": "3.0.31",
-      "versionCode": 68,
+      "versionName": "3.0.32",
+      "versionCode": 69,
       "minSdk": 26,
       "targetSdk": 35,
-      "sizeBytes": 3502425,
-      "sha256": "a3bb8c8f846b30c893593fa7f36ff92aa814e397d1622d5410882a8981f7931b",
+      "sizeBytes": 5294373,
+      "sha256": "d7b5653ea405ef10730b5acedc90e297bf9e22505e3ae088c08bd7e85cc9dc26",
       "signingCertSha256": "a2d688bd7db1138915692fd294c629545988524ff1a1d65dfee5263fc11a7cd3",
-      "releaseId": "rel_auroraweather_68",
-      "releaseNotes": "Adds Smart Widget Triggers, an explicit opt-in foreground-service mode for private-store builds. Users can choose Wi-Fi/mobile network transitions and selected paired Bluetooth devices; connect/disconnect events queue a one-shot current-location weather/widget refresh with Fused Location fallback and diagnostics for location, Bluetooth, notification, and battery readiness.",
+      "releaseId": "auroraweather-v3.0.32",
+      "releaseNotes": "v3.0.32 brings Aurora Weather to Google TV: an Android TV launcher/banner and remote-first navigation. LEFT/RIGHT switch primary pages, UP/DOWN scroll, and OK refreshes Today or switches Map/Radar.",
       "description": "Aurora Weather is a local weather app focused on clear current conditions, forecasts, rain awareness, widgets, location-aware updates, and private-store smart triggers for selected Bluetooth devices or Wi-Fi/mobile transitions. It can follow the phone's current position, actively refresh widget weather after movement, cache recent results, and support practical daily/weather-alert workflows without requiring an account.",
-      "publishedAt": "2026-07-01T09:40:08.265Z",
-      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.31/AuroraWeather-v3.0.31.apk"
+      "publishedAt": "2026-09-01T20:37:27Z",
+      "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/auroraweather-v3.0.32/AuroraWeather-v3.0.32.apk",
+      "updatedAt": "2026-09-01T20:37:27Z"
     },
     {
       "schemaVersion": 1,
