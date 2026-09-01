@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "appRole": "managed",
+  "packageName": "com.yustein.americanpool",
+  "name": "American Pool 3D",
+  "publisherName": "Lenomila",
+  "category": "Games",
+  "channel": "stable",
+  "versionName": "1.5.0",
+  "versionCode": 8,
+  "minSdk": 23,
+  "targetSdk": 36,
+  "sizeBytes": 1100752,
+  "sha256": "4eb89b5fd603a2007ca612cb43e77bb7d8a6e8e67d85ebd164603327dfded1c6",
+  "signingCertSha256": "838cbc0fb6f6177b32086fbf8c7a4b405855a188dc0d154abc296220beedbf3c",
+  "releaseId": "rel_americanpool3d_8",
+  "releaseNotes": "First managed-store release. Adds contact-aware cue/object-ball prediction guides and a pull-back POWER meter that controls shot speed.",
+  "publishedAt": "2026-09-01T10:49:43Z",
+  "updatedAt": "2026-09-01T10:49:43Z",
+  "description": "American Pool 3D is an original landscape 8-ball pool game with touch cue control, realistic ball-contact previews, pull-back shot power, sampled pool effects, 8-ball rules, and a computer opponent.",
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/americanpool3d-v1.5.0/AmericanPool3D-v1.5.0-release.apk"
+}
