@@ -13,7 +13,7 @@
   "sizeBytes": 686762,
   "sha256": "89ff3ed552258484c6156e6852f1ee0109d365f8e110bbb03b43561c0f6708f2",
   "signingCertSha256": "edf6b1f713d10e92f083ba9e7561fcb5f9c65f7910ce04d542e3272bc6fdbb11",
-  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/fileatlas-v0.1.5/FileAtlas-v0.1.5.apk",
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/fileatlas-v0.1.5/FileAtlas-v0.1.5-release.apk",
   "releaseId": "rel_fileatlas_6",
   "releaseNotes": "Release-signed ZIP support: create ZIP archives, extract ZIP files safely with path-traversal protection, and open ZIP files from Android Files or Downloads.",
   "publishedAt": "2026-09-11T13:20:00Z",
