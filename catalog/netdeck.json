@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "appRole": "managed",
+  "packageName": "com.lenomila.netdeck",
+  "name": "NetDeck",
+  "publisherName": "Lenomila",
+  "category": "Tools",
+  "channel": "stable",
+  "versionName": "0.1.0",
+  "versionCode": 1,
+  "minSdk": 26,
+  "targetSdk": 36,
+  "sizeBytes": 12673389,
+  "sha256": "f0b2b9110d001c4083cf14a4689e0f014d04a0c8ffd96f0115e238b93e71e1cb",
+  "signingCertSha256": "ab67044f7d5f6d2a1b9fc9a75d875c4d8ff542959c3b5063aa522ad586cbaacc",
+  "releaseId": "rel_netdeck_1",
+  "releaseNotes": "First release: network diagnostics decks for connectivity, DNS, domain/RDAP intelligence, HTTP/TLS, path and speed probes, with evidence-labelled results and exportable captures.",
+  "publishedAt": "2026-11-13T13:25:00Z",
+  "updatedAt": "2026-11-13T13:25:00Z",
+  "description": "NetDeck is an Android network toolkit that answers whether a network, domain, or server is healthy and why. It bundles connectivity, DNS, domain registration, HTTP/TLS, path, and speed probes with evidence-first results that label source, timestamp, method, and confidence, plus exportable captures you can re-run later to compare measurements.",
+  "downloadUrl": "https://github.com/yustein/NovaStore/releases/download/netdeck-v0.1.0/NetDeck-v0.1.0.apk"
+}
